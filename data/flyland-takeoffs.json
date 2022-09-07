@@ -1,0 +1,3932 @@
+[
+  {
+    "name": "Achslen",
+    "lon": 8.74905846,
+    "lat": 46.95258549,
+    "alt": 1620
+  },
+  {
+    "name": "Alamon",
+    "lon": 6.83344274,
+    "lat": 46.33372313,
+    "alt": 1900
+  },
+  {
+    "name": "Albristhubel",
+    "lon": 7.45948446,
+    "lat": 46.51165146,
+    "alt": 2124
+  },
+  {
+    "name": "Allmenalp",
+    "lon": 7.65109659,
+    "lat": 46.49494784,
+    "alt": 1800
+  },
+  {
+    "name": "Alp da la Creusch",
+    "lon": 9.64231597,
+    "lat": 46.70626294,
+    "alt": 2210
+  },
+  {
+    "name": "Alp da la Creusch",
+    "lon": 9.64095375,
+    "lat": 46.7049394,
+    "alt": 2210
+  },
+  {
+    "name": "Alp Languard",
+    "lon": 9.91811648,
+    "lat": 46.48774675,
+    "alt": 2260
+  },
+  {
+    "name": "Alp Languard",
+    "lon": 9.92603,
+    "lat": 46.48982369,
+    "alt": 2550
+  },
+  {
+    "name": "Alp Languard",
+    "lon": 9.92155632,
+    "lat": 46.49172163,
+    "alt": 2420
+  },
+  {
+    "name": "Alp Scheidegg",
+    "lon": 8.943300247192,
+    "lat": 47.304029071822,
+    "alt": 1200
+  },
+  {
+    "name": "Alp Schwand",
+    "lon": 8.5854506492614,
+    "lat": 47.013685845139,
+    "alt": 1235
+  },
+  {
+    "name": "Alp Stätz",
+    "lon": 9.52428007,
+    "lat": 46.76607435,
+    "alt": 2130
+  },
+  {
+    "name": "Alp Stätz",
+    "lon": 9.51835646,
+    "lat": 46.76528256,
+    "alt": 2280
+  },
+  {
+    "name": "Alp Stätz",
+    "lon": 9.51604681,
+    "lat": 46.75632601,
+    "alt": 2380
+  },
+  {
+    "name": "Alp Stein",
+    "lon": 9.12247875,
+    "lat": 46.73086847,
+    "alt": 2040
+  },
+  {
+    "name": "Alp Walau",
+    "lon": 9.1466844,
+    "lat": 47.16462971,
+    "alt": 1400
+  },
+  {
+    "name": "Alpe del Caviano",
+    "lon": 9.00856091,
+    "lat": 45.8784682,
+    "alt": 950
+  },
+  {
+    "name": "Alpler Tor",
+    "lon": 8.78296881,
+    "lat": 46.89011637,
+    "alt": 2340
+  },
+  {
+    "name": "Alpoglerberg",
+    "lon": 8.09709983,
+    "lat": 46.81785374,
+    "alt": 1840
+  },
+  {
+    "name": "Alpoglerberg",
+    "lon": 8.09709983,
+    "lat": 46.81785374,
+    "alt": 1840
+  },
+  {
+    "name": "Alpschelehubel",
+    "lon": 7.64440932,
+    "lat": 46.48672913,
+    "alt": 2248
+  },
+  {
+    "name": "Amisbüel",
+    "lon": 7.82305846,
+    "lat": 46.7021614,
+    "alt": 1300
+  },
+  {
+    "name": "Angelingen",
+    "lon": 8.6513901,
+    "lat": 46.90373112,
+    "alt": 1580
+  },
+  {
+    "name": "Arete de Sélair",
+    "lon": 6.91231951,
+    "lat": 46.16814475,
+    "alt": 2350
+  },
+  {
+    "name": "Arni",
+    "lon": 8.65461073,
+    "lat": 46.78494405,
+    "alt": 1290
+  },
+  {
+    "name": "Artelengrat",
+    "lon": 7.57528604,
+    "lat": 46.44770228,
+    "alt": 2180
+  },
+  {
+    "name": "Artelengrat",
+    "lon": 7.57204025,
+    "lat": 46.45085461,
+    "alt": 2100
+  },
+  {
+    "name": "Arvialp",
+    "lon": 8.32972211,
+    "lat": 46.8904936,
+    "alt": 1800
+  },
+  {
+    "name": "Axalp",
+    "lon": 8.03504463,
+    "lat": 46.71654291,
+    "alt": 1590
+  },
+  {
+    "name": "Bözingenberg",
+    "lon": 7.27574328,
+    "lat": 47.16999424,
+    "alt": 920
+  },
+  {
+    "name": "Bözingenberg",
+    "lon": 7.29419681,
+    "lat": 47.17451628,
+    "alt": 940
+  },
+  {
+    "name": "Bächigalen",
+    "lon": 8.22724705,
+    "lat": 46.48822706,
+    "alt": 2440
+  },
+  {
+    "name": "Bäregg",
+    "lon": 8.0604672431945,
+    "lat": 46.601038,
+    "alt": 1775
+  },
+  {
+    "name": "Bärensolspitz",
+    "lon": 8.99575893,
+    "lat": 47.10064596,
+    "alt": 1830
+  },
+  {
+    "name": "Büelen",
+    "lon": 8.3655092,
+    "lat": 46.88076372,
+    "alt": 1100
+  },
+  {
+    "name": "Bürsti",
+    "lon": 8.606,
+    "lat": 46.843732,
+    "alt": 1549
+  },
+  {
+    "name": "Bützen",
+    "lon": 7.38978691,
+    "lat": 47.22271832,
+    "alt": 1300
+  },
+  {
+    "name": "Balderen",
+    "lon": 8.5006606578826,
+    "lat": 47.32247603692,
+    "alt": 736
+  },
+  {
+    "name": "Beichlen",
+    "lon": 7.972946763039,
+    "lat": 46.897244237928,
+    "alt": 1755
+  },
+  {
+    "name": "Beichlen",
+    "lon": 7.968553304672,
+    "lat": 46.893457586396,
+    "alt": 1695
+  },
+  {
+    "name": "Bella Lui",
+    "lon": 7.4861136,
+    "lat": 46.34438788,
+    "alt": 2510
+  },
+  {
+    "name": "Bendolla",
+    "lon": 7.5551851,
+    "lat": 46.17785638,
+    "alt": 2250
+  },
+  {
+    "name": "Bendolla",
+    "lon": 7.55908493,
+    "lat": 46.18459896,
+    "alt": 2200
+  },
+  {
+    "name": "Berneuse",
+    "lon": 7.00207093,
+    "lat": 46.35923661,
+    "alt": 2030
+  },
+  {
+    "name": "Berneuse",
+    "lon": 7.00141405,
+    "lat": 46.36013366,
+    "alt": 2010
+  },
+  {
+    "name": "Berneuse",
+    "lon": 7.00272057,
+    "lat": 46.35923911,
+    "alt": 2020
+  },
+  {
+    "name": "Biel-Raemsenberg",
+    "lon": 8.70826199,
+    "lat": 46.89411814,
+    "alt": 1620
+  },
+  {
+    "name": "Biel-Raemsenberg",
+    "lon": 8.70957403,
+    "lat": 46.89410358,
+    "alt": 1620
+  },
+  {
+    "name": "Bietschhorn",
+    "lon": 7.81373597,
+    "lat": 46.39543955,
+    "alt": 2520
+  },
+  {
+    "name": "Bietstoeckli",
+    "lon": 8.63716599,
+    "lat": 46.97225258,
+    "alt": 1881
+  },
+  {
+    "name": "Bire",
+    "lon": 7.70700209,
+    "lat": 46.50279074,
+    "alt": 2400
+  },
+  {
+    "name": "Bire",
+    "lon": 7.69792816,
+    "lat": 46.51225724,
+    "alt": 2360
+  },
+  {
+    "name": "Birg",
+    "lon": 7.84869973,
+    "lat": 46.56097501,
+    "alt": 2600
+  },
+  {
+    "name": "Blatti",
+    "lon": 8.36710415,
+    "lat": 46.93517597,
+    "alt": 1580
+  },
+  {
+    "name": "Bodenberg",
+    "lon": 9.02362867,
+    "lat": 46.97385846,
+    "alt": 1240
+  },
+  {
+    "name": "Bonistock",
+    "lon": 8.29066909,
+    "lat": 46.77771254,
+    "alt": 2160
+  },
+  {
+    "name": "Brämabüel",
+    "lon": 9.84969086,
+    "lat": 46.77991369,
+    "alt": 2490
+  },
+  {
+    "name": "Brändlen",
+    "lon": 8.40990072,
+    "lat": 46.90513457,
+    "alt": 1240
+  },
+  {
+    "name": "Brändlen",
+    "lon": 8.40946479,
+    "lat": 46.90279932,
+    "alt": 1300
+  },
+  {
+    "name": "Brüggerhorn",
+    "lon": 9.65046807,
+    "lat": 46.79339579,
+    "alt": 2420
+  },
+  {
+    "name": "Brüggerhorn",
+    "lon": 9.65374119,
+    "lat": 46.79333235,
+    "alt": 2420
+  },
+  {
+    "name": "Brüschegrat",
+    "lon": 7.33388437,
+    "lat": 46.44188902,
+    "alt": 2100
+  },
+  {
+    "name": "Breitlauenen oberer Stp. (Chruterwang)",
+    "lon": 7.90243898,
+    "lat": 46.6577875,
+    "alt": 1760
+  },
+  {
+    "name": "Breitlauenen unterer Stp. (Rouft)",
+    "lon": 7.90117103,
+    "lat": 46.6622905,
+    "alt": 1590
+  },
+  {
+    "name": "Brienzer Rothorn",
+    "lon": 8.0463025,
+    "lat": 46.78709995,
+    "alt": 2340
+  },
+  {
+    "name": "Brienzer Rothorn",
+    "lon": 8.03583588,
+    "lat": 46.7880547,
+    "alt": 2260
+  },
+  {
+    "name": "Britannia Hütte",
+    "lon": 7.93355772,
+    "lat": 46.06123815,
+    "alt": 3020
+  },
+  {
+    "name": "Britannia Hütte",
+    "lon": 7.93547965,
+    "lat": 46.05943058,
+    "alt": 3040
+  },
+  {
+    "name": "Britannia Hütte",
+    "lon": 7.93418343,
+    "lat": 46.0589865,
+    "alt": 2980
+  },
+  {
+    "name": "Bruniswald",
+    "lon": 8.39670395,
+    "lat": 46.86431408,
+    "alt": 1580
+  },
+  {
+    "name": "Brunnihütte",
+    "lon": 8.41008389,
+    "lat": 46.84261079,
+    "alt": 1860
+  },
+  {
+    "name": "Buochserhorn",
+    "lon": 8.42901116,
+    "lat": 46.9450029,
+    "alt": 1780
+  },
+  {
+    "name": "Burgfeldstand",
+    "lon": 7.79507114,
+    "lat": 46.721143,
+    "alt": 2050
+  },
+  {
+    "name": "Caischavedra",
+    "lon": 8.80981155,
+    "lat": 46.70761321,
+    "alt": 1960
+  },
+  {
+    "name": "Caischavedra",
+    "lon": 8.80721939,
+    "lat": 46.70854403,
+    "alt": 2060
+  },
+  {
+    "name": "Caischavedra",
+    "lon": 8.80330824,
+    "lat": 46.70904073,
+    "alt": 2200
+  },
+  {
+    "name": "Calandasiten",
+    "lon": 9.47334815,
+    "lat": 46.89117148,
+    "alt": 2450
+  },
+  {
+    "name": "Calandasiten",
+    "lon": 9.4682371,
+    "lat": 46.89486157,
+    "alt": 2700
+  },
+  {
+    "name": "Calandasiten",
+    "lon": 9.46880809,
+    "lat": 46.89260186,
+    "alt": 2650
+  },
+  {
+    "name": "Cassonsgrat",
+    "lon": 9.261107,
+    "lat": 46.880271,
+    "alt": 2700
+  },
+  {
+    "name": "Chäserrugg",
+    "lon": 9.313593,
+    "lat": 47.154664,
+    "alt": 2260
+  },
+  {
+    "name": "Chüemad",
+    "lon": 8.22722055,
+    "lat": 46.75495873,
+    "alt": 1950
+  },
+  {
+    "name": "Chalberegg",
+    "lon": 8.50321224,
+    "lat": 46.91105214,
+    "alt": 1800
+  },
+  {
+    "name": "Charenstoeckli",
+    "lon": 8.64376613,
+    "lat": 46.97353283,
+    "alt": 1780
+  },
+  {
+    "name": "Chasseral",
+    "lon": 7.04589751,
+    "lat": 47.12671344,
+    "alt": 1540
+  },
+  {
+    "name": "Chli Aubrig",
+    "lon": 8.86022041,
+    "lat": 47.10690079,
+    "alt": 1580
+  },
+  {
+    "name": "Chlofen",
+    "lon": 8.05471064,
+    "lat": 46.6633633,
+    "alt": 2300
+  },
+  {
+    "name": "Chou ou Tsou",
+    "lon": 7.16141179,
+    "lat": 46.19243715,
+    "alt": 1450
+  },
+  {
+    "name": "Chulm",
+    "lon": 8.55118801,
+    "lat": 46.94568105,
+    "alt": 1850
+  },
+  {
+    "name": "Cimetta / Cardada",
+    "lon": 8.79122572,
+    "lat": 46.20085867,
+    "alt": 1671
+  },
+  {
+    "name": "Cimetta / Cardada",
+    "lon": 8.78795623,
+    "lat": 46.19963819,
+    "alt": 1570
+  },
+  {
+    "name": "Col de Sorebois",
+    "lon": 7.58683006,
+    "lat": 46.14768422,
+    "alt": 2820
+  },
+  {
+    "name": "Col de Sorebois",
+    "lon": 7.58619023,
+    "lat": 46.15038372,
+    "alt": 2890
+  },
+  {
+    "name": "Corvatsch",
+    "lon": 9.82179514,
+    "lat": 46.41601121,
+    "alt": 3300
+  },
+  {
+    "name": "Corviglia",
+    "lon": 9.81800027,
+    "lat": 46.50743833,
+    "alt": 2480
+  },
+  {
+    "name": "Crete des Champeys",
+    "lon": 6.84719396,
+    "lat": 46.20380577,
+    "alt": 2040
+  },
+  {
+    "name": "Crete des Champeys",
+    "lon": 6.84719396,
+    "lat": 46.20380577,
+    "alt": 2040
+  },
+  {
+    "name": "Croce dell uomo (Italien)",
+    "lon": 9.05710371,
+    "lat": 45.8777794,
+    "alt": 790
+  },
+  {
+    "name": "Croix de Chanso",
+    "lon": 6.903383123875,
+    "lat": 46.250157839733,
+    "alt": 1713
+  },
+  {
+    "name": "Croix de Coeur",
+    "lon": 7.2310062,
+    "lat": 46.12195328,
+    "alt": 2200
+  },
+  {
+    "name": "Croix de Culet",
+    "lon": 6.84036959,
+    "lat": 46.17633264,
+    "alt": 1930
+  },
+  {
+    "name": "Croix de l Aiguille",
+    "lon": 6.86087835,
+    "lat": 46.19623011,
+    "alt": 1860
+  },
+  {
+    "name": "Cry d Er",
+    "lon": 7.47629999,
+    "lat": 46.3348832,
+    "alt": 2230
+  },
+  {
+    "name": "Cry d Er",
+    "lon": 7.47954813,
+    "lat": 46.3366812,
+    "alt": 2250
+  },
+  {
+    "name": "Cungieri",
+    "lon": 8.77927003,
+    "lat": 46.68908293,
+    "alt": 1800
+  },
+  {
+    "name": "Cungieri",
+    "lon": 8.78068888,
+    "lat": 46.69356465,
+    "alt": 1950
+  },
+  {
+    "name": "Cungieri",
+    "lon": 8.78204079,
+    "lat": 46.6953481,
+    "alt": 2060
+  },
+  {
+    "name": "Cuolm da Latsch",
+    "lon": 9.75745917,
+    "lat": 46.64593283,
+    "alt": 2180
+  },
+  {
+    "name": "Cuolm da Latsch",
+    "lon": 9.75446513,
+    "lat": 46.65229338,
+    "alt": 2270
+  },
+  {
+    "name": "Cuolm da Vi",
+    "lon": 8.7847449,
+    "lat": 46.69891494,
+    "alt": 2250
+  },
+  {
+    "name": "Dürrischilt",
+    "lon": 7.32343787,
+    "lat": 46.4589706,
+    "alt": 1840
+  },
+  {
+    "name": "Darlux",
+    "lon": 9.77209653,
+    "lat": 46.62178509,
+    "alt": 2020
+  },
+  {
+    "name": "Darlux",
+    "lon": 9.77672249,
+    "lat": 46.62304011,
+    "alt": 2150
+  },
+  {
+    "name": "Darlux",
+    "lon": 9.78386121,
+    "lat": 46.6219933,
+    "alt": 2400
+  },
+  {
+    "name": "Dent de Fully",
+    "lon": 7.11058471,
+    "lat": 46.1749305,
+    "alt": 2700
+  },
+  {
+    "name": "Dent de Jaman",
+    "lon": 6.97670724,
+    "lat": 46.44188825,
+    "alt": 1758
+  },
+  {
+    "name": "Dent de Jaman",
+    "lon": 6.97478693,
+    "lat": 46.43514258,
+    "alt": 1780
+  },
+  {
+    "name": "Dossen",
+    "lon": 8.49891088,
+    "lat": 47.025791,
+    "alt": 1680
+  },
+  {
+    "name": "Dossen",
+    "lon": 8.49827987,
+    "lat": 47.02714621,
+    "alt": 1680
+  },
+  {
+    "name": "Dreibündenstein",
+    "lon": 9.49772489,
+    "lat": 46.80794963,
+    "alt": 2070
+  },
+  {
+    "name": "Dreibündenstein",
+    "lon": 9.49562295,
+    "lat": 46.8043881,
+    "alt": 2170
+  },
+  {
+    "name": "Dreibündenstein",
+    "lon": 9.49889691,
+    "lat": 46.8043291,
+    "alt": 2120
+  },
+  {
+    "name": "Dugny",
+    "lon": 7.18362284,
+    "lat": 46.18772178,
+    "alt": 950
+  },
+  {
+    "name": "Durschlegi",
+    "lon": 9.11974812,
+    "lat": 47.14703267,
+    "alt": 1110
+  },
+  {
+    "name": "Ebenalp Südstartplatz",
+    "lon": 9.4128459,
+    "lat": 47.28279939,
+    "alt": 1600
+  },
+  {
+    "name": "Ebenalp Schulstartplatz",
+    "lon": 9.41056878,
+    "lat": 47.28415198,
+    "alt": 1580
+  },
+  {
+    "name": "Edelweissmatte NW",
+    "lon": 8.46051981,
+    "lat": 47.04772922,
+    "alt": 1560
+  },
+  {
+    "name": "Edelweissmatte Süd",
+    "lon": 8.4594297409057,
+    "lat": 47.046411216558,
+    "alt": 1560
+  },
+  {
+    "name": "Egg",
+    "lon": 8.72118598,
+    "lat": 46.77566923,
+    "alt": 1430
+  },
+  {
+    "name": "Egga",
+    "lon": 7.80006745,
+    "lat": 46.19757865,
+    "alt": 1960
+  },
+  {
+    "name": "Egga",
+    "lon": 7.78971848,
+    "lat": 46.19986018,
+    "alt": 2300
+  },
+  {
+    "name": "Egga",
+    "lon": 7.78452227,
+    "lat": 46.19762728,
+    "alt": 2320
+  },
+  {
+    "name": "Eggli",
+    "lon": 9.690686452389,
+    "lat": 46.998454647262,
+    "alt": 1700
+  },
+  {
+    "name": "Eigergletscher",
+    "lon": 7.97109,
+    "lat": 46.57543,
+    "alt": 2300
+  },
+  {
+    "name": "Eisee",
+    "lon": 8.05351027,
+    "lat": 46.78751117,
+    "alt": 2100
+  },
+  {
+    "name": "Elsighorn",
+    "lon": 7.64197165,
+    "lat": 46.53126193,
+    "alt": 2160
+  },
+  {
+    "name": "Elsighorn",
+    "lon": 7.64261319,
+    "lat": 46.52856209,
+    "alt": 2150
+  },
+  {
+    "name": "Elsighorn",
+    "lon": 7.63152666,
+    "lat": 46.52633252,
+    "alt": 2100
+  },
+  {
+    "name": "En Curnaux (\"Chez Marcel\")",
+    "lon": 7.024004745483,
+    "lat": 46.297292,
+    "alt": 1161
+  },
+  {
+    "name": "Engelstock",
+    "lon": 8.64364154,
+    "lat": 47.05584901,
+    "alt": 1210
+  },
+  {
+    "name": "Engstligenalp",
+    "lon": 7.5642261,
+    "lat": 46.44861461,
+    "alt": 1960
+  },
+  {
+    "name": "Eschlen",
+    "lon": 8.38621279,
+    "lat": 46.86440144,
+    "alt": 1110
+  },
+  {
+    "name": "Fürenalp",
+    "lon": 8.46574689,
+    "lat": 46.80524025,
+    "alt": 1900
+  },
+  {
+    "name": "Falera",
+    "lon": 9.23008051,
+    "lat": 46.79896269,
+    "alt": 1150
+  },
+  {
+    "name": "Farneren",
+    "lon": 8.04337856,
+    "lat": 46.93504801,
+    "alt": 1500
+  },
+  {
+    "name": "Farneren",
+    "lon": 8.03280404,
+    "lat": 46.92885146,
+    "alt": 1500
+  },
+  {
+    "name": "Faulhorn",
+    "lon": 7.9988513,
+    "lat": 46.67468927,
+    "alt": 2680
+  },
+  {
+    "name": "Feil",
+    "lon": 9.49921556,
+    "lat": 46.64144892,
+    "alt": 2440
+  },
+  {
+    "name": "Feil",
+    "lon": 9.4986142,
+    "lat": 46.64280959,
+    "alt": 2400
+  },
+  {
+    "name": "Feil",
+    "lon": 9.50947326,
+    "lat": 46.65341108,
+    "alt": 2200
+  },
+  {
+    "name": "First",
+    "lon": 7.64121564,
+    "lat": 46.5033768,
+    "alt": 2520
+  },
+  {
+    "name": "Flöschhorn",
+    "lon": 7.40609258,
+    "lat": 46.46307239,
+    "alt": 2070
+  },
+  {
+    "name": "Flöschhorn",
+    "lon": 7.40609258,
+    "lat": 46.46307239,
+    "alt": 2070
+  },
+  {
+    "name": "Fleschboden",
+    "lon": 8.0604723,
+    "lat": 46.31249268,
+    "alt": 2270
+  },
+  {
+    "name": "Flumserberg Maschgenkamm",
+    "lon": 9.27011228,
+    "lat": 47.07456568,
+    "alt": 1920
+  },
+  {
+    "name": "Flumserberg Prodkamm",
+    "lon": 9.26825382,
+    "lat": 47.07413643,
+    "alt": 1930
+  },
+  {
+    "name": "Folluhorn",
+    "lon": 8.06641256,
+    "lat": 46.32100602,
+    "alt": 2650
+  },
+  {
+    "name": "Fontanet",
+    "lon": 7.25829757,
+    "lat": 46.08421903,
+    "alt": 2320
+  },
+  {
+    "name": "Forstberg",
+    "lon": 8.82387518,
+    "lat": 47.00073684,
+    "alt": 2200
+  },
+  {
+    "name": "Fracette",
+    "lon": 6.867674875259,
+    "lat": 46.32073857688,
+    "alt": 1305
+  },
+  {
+    "name": "Fronalp",
+    "lon": 9.10409027,
+    "lat": 47.06763735,
+    "alt": 1800
+  },
+  {
+    "name": "Fronalpstock",
+    "lon": 8.63897614,
+    "lat": 46.96503666,
+    "alt": 1880
+  },
+  {
+    "name": "Fronalpstock (Nord)",
+    "lon": 8.637075,
+    "lat": 46.97037,
+    "alt": 1895
+  },
+  {
+    "name": "Fronalpstock (Ost)",
+    "lon": 8.63750615,
+    "lat": 46.96865053,
+    "alt": 1920
+  },
+  {
+    "name": "Fulhorn",
+    "lon": 9.4970904,
+    "lat": 46.77421662,
+    "alt": 2450
+  },
+  {
+    "name": "Fulhorn",
+    "lon": 9.49447269,
+    "lat": 46.77426378,
+    "alt": 2520
+  },
+  {
+    "name": "Fulhorn",
+    "lon": 9.48916882,
+    "lat": 46.77255945,
+    "alt": 2420
+  },
+  {
+    "name": "Gärtle",
+    "lon": 7.94222909,
+    "lat": 46.81976523,
+    "alt": 1580
+  },
+  {
+    "name": "Güggisgrat",
+    "lon": 7.78391,
+    "lat": 46.71443063,
+    "alt": 1927
+  },
+  {
+    "name": "Gürgaletsch",
+    "lon": 9.58091525,
+    "lat": 46.79067212,
+    "alt": 2380
+  },
+  {
+    "name": "Gürgaletsch",
+    "lon": 9.581713,
+    "lat": 46.79425667,
+    "alt": 2420
+  },
+  {
+    "name": "Gürgaletsch",
+    "lon": 9.58252876,
+    "lat": 46.79829081,
+    "alt": 2400
+  },
+  {
+    "name": "Gütsch",
+    "lon": 8.61036245,
+    "lat": 46.64731035,
+    "alt": 2080
+  },
+  {
+    "name": "Galm",
+    "lon": 7.51881804,
+    "lat": 46.54490884,
+    "alt": 2020
+  },
+  {
+    "name": "Galmschibe",
+    "lon": 7.5259894,
+    "lat": 46.54535334,
+    "alt": 2320
+  },
+  {
+    "name": "Gamperstock",
+    "lon": 8.74183882,
+    "lat": 46.89868891,
+    "alt": 2270
+  },
+  {
+    "name": "Gandegg",
+    "lon": 7.75927296,
+    "lat": 46.41989494,
+    "alt": 2480
+  },
+  {
+    "name": "Gandlouenegrat",
+    "lon": 7.35656009,
+    "lat": 46.50577659,
+    "alt": 2070
+  },
+  {
+    "name": "Garmil",
+    "lon": 9.40330975,
+    "lat": 47.00397109,
+    "alt": 2000
+  },
+  {
+    "name": "Geisshorn",
+    "lon": 9.84705476,
+    "lat": 46.91136361,
+    "alt": 1900
+  },
+  {
+    "name": "Geisshorn",
+    "lon": 9.84967882,
+    "lat": 46.91130836,
+    "alt": 2070
+  },
+  {
+    "name": "Geissstock",
+    "lon": 8.82265401,
+    "lat": 46.92787924,
+    "alt": 1960
+  },
+  {
+    "name": "Geissstock",
+    "lon": 8.82265401,
+    "lat": 46.92787924,
+    "alt": 1960
+  },
+  {
+    "name": "Gemsstock",
+    "lon": 8.61159367,
+    "lat": 46.60413219,
+    "alt": 2900
+  },
+  {
+    "name": "Gibel",
+    "lon": 8.1894791,
+    "lat": 46.77050608,
+    "alt": 2030
+  },
+  {
+    "name": "Gibel",
+    "lon": 8.21721278,
+    "lat": 46.83239174,
+    "alt": 1360
+  },
+  {
+    "name": "Giesenen",
+    "lon": 7.68892586,
+    "lat": 46.53791502,
+    "alt": 1920
+  },
+  {
+    "name": "Giri",
+    "lon": 8.4315384,
+    "lat": 46.90404939,
+    "alt": 1920
+  },
+  {
+    "name": "Gisleralp",
+    "lon": 8.7306315,
+    "lat": 46.89656681,
+    "alt": 1960
+  },
+  {
+    "name": "Gitschenberg",
+    "lon": 8.59044582,
+    "lat": 46.87737162,
+    "alt": 1360
+  },
+  {
+    "name": "Glecksteinhütte",
+    "lon": 8.09800849,
+    "lat": 46.62443888,
+    "alt": 2320
+  },
+  {
+    "name": "Gletti",
+    "lon": 8.49879538,
+    "lat": 47.01994472,
+    "alt": 1370
+  },
+  {
+    "name": "Gnipen",
+    "lon": 8.56124861,
+    "lat": 47.08142285,
+    "alt": 1560
+  },
+  {
+    "name": "Gotschnagrat",
+    "lon": 9.84404345,
+    "lat": 46.85877957,
+    "alt": 2280
+  },
+  {
+    "name": "Gotschnagrat",
+    "lon": 9.85109118,
+    "lat": 46.85503123,
+    "alt": 2230
+  },
+  {
+    "name": "Gottertli",
+    "lon": 8.57757119,
+    "lat": 47.01289267,
+    "alt": 1360
+  },
+  {
+    "name": "Grütschalp",
+    "lon": 7.88825,
+    "lat": 46.59737,
+    "alt": 1600
+  },
+  {
+    "name": "Grabserberg",
+    "lon": 9.42168034,
+    "lat": 47.16612026,
+    "alt": 1100
+  },
+  {
+    "name": "Graitery",
+    "lon": 7.37522386,
+    "lat": 47.2564411,
+    "alt": 1200
+  },
+  {
+    "name": "Grap Neir",
+    "lon": 9.61562953,
+    "lat": 46.62848432,
+    "alt": 2260
+  },
+  {
+    "name": "Grap Neir",
+    "lon": 9.61831263,
+    "lat": 46.63023279,
+    "alt": 2430
+  },
+  {
+    "name": "Grap Sogn Gion Nord",
+    "lon": 9.216114,
+    "lat": 46.834722,
+    "alt": 2220
+  },
+  {
+    "name": "Grap Sogn Gion Süd",
+    "lon": 9.215004,
+    "lat": 46.834442,
+    "alt": 2220
+  },
+  {
+    "name": "Greicheralp",
+    "lon": 8.03002115,
+    "lat": 46.37742603,
+    "alt": 1900
+  },
+  {
+    "name": "Grenchenberg Nord",
+    "lon": 7.37987741,
+    "lat": 47.22945969,
+    "alt": 1340
+  },
+  {
+    "name": "Grimer",
+    "lon": 7.68332593,
+    "lat": 46.55356162,
+    "alt": 1750
+  },
+  {
+    "name": "Grindelwald First",
+    "lon": 8.05528692,
+    "lat": 46.65661332,
+    "alt": 2137
+  },
+  {
+    "name": "Gschwend Galgenen Delta",
+    "lon": 8.87499691,
+    "lat": 47.1552706,
+    "alt": 1060
+  },
+  {
+    "name": "Gschwend Galgenen Gleitschirm",
+    "lon": 8.87166189,
+    "lat": 47.15582498,
+    "alt": 1080
+  },
+  {
+    "name": "Gsteig",
+    "lon": 7.994627058506,
+    "lat": 46.914344987723,
+    "alt": 1511
+  },
+  {
+    "name": "Gsteig",
+    "lon": 7.99460057,
+    "lat": 46.91689934,
+    "alt": 1450
+  },
+  {
+    "name": "Gualdauna",
+    "lon": 9.89889703,
+    "lat": 46.59526505,
+    "alt": 2520
+  },
+  {
+    "name": "Gugle",
+    "lon": 7.76648339,
+    "lat": 45.99842949,
+    "alt": 2700
+  },
+  {
+    "name": "Gumengrat",
+    "lon": 8.98743218,
+    "lat": 46.960291,
+    "alt": 2040
+  },
+  {
+    "name": "Gummen",
+    "lon": 8.365202664936,
+    "lat": 46.902416085943,
+    "alt": 1580
+  },
+  {
+    "name": "Gummenalp",
+    "lon": 8.07174399,
+    "lat": 46.77886567,
+    "alt": 1560
+  },
+  {
+    "name": "Gurli",
+    "lon": 7.282822430134,
+    "lat": 46.713520836478,
+    "alt": 1416
+  },
+  {
+    "name": "Gurschen",
+    "lon": 8.59688215,
+    "lat": 46.61690495,
+    "alt": 2280
+  },
+  {
+    "name": "Höch Gumme",
+    "lon": 8.08887424,
+    "lat": 46.78776519,
+    "alt": 2200
+  },
+  {
+    "name": "Höhbalmenstaffel",
+    "lon": 7.72593905,
+    "lat": 46.02012929,
+    "alt": 2490
+  },
+  {
+    "name": "Höhi Wispile",
+    "lon": 7.29355807,
+    "lat": 46.43689706,
+    "alt": 1938
+  },
+  {
+    "name": "Höhi Wispile",
+    "lon": 7.29486042,
+    "lat": 46.43644893,
+    "alt": 1850
+  },
+  {
+    "name": "Höhi Wispile",
+    "lon": 7.29159781,
+    "lat": 46.44004301,
+    "alt": 1900
+  },
+  {
+    "name": "Höhi Wispile",
+    "lon": 7.29224478,
+    "lat": 46.44139319,
+    "alt": 1860
+  },
+  {
+    "name": "Höreli Nord",
+    "lon": 9.68388347,
+    "lat": 47.00085418,
+    "alt": 1800
+  },
+  {
+    "name": "Höreli Süd",
+    "lon": 9.68471371,
+    "lat": 47.00057695,
+    "alt": 1800
+  },
+  {
+    "name": "Hörnlihütte",
+    "lon": 9.62140767,
+    "lat": 46.7714576,
+    "alt": 2440
+  },
+  {
+    "name": "Hüsliberg",
+    "lon": 9.074655461311,
+    "lat": 47.189886788374,
+    "alt": 1000
+  },
+  {
+    "name": "Haglern",
+    "lon": 8.04292337,
+    "lat": 46.8361442,
+    "alt": 1910
+  },
+  {
+    "name": "Haldi",
+    "lon": 8.67275983,
+    "lat": 46.86256908,
+    "alt": 1080
+  },
+  {
+    "name": "Haldigrat",
+    "lon": 8.44265142,
+    "lat": 46.90170349,
+    "alt": 1990
+  },
+  {
+    "name": "Halsegg",
+    "lon": 8.60689878,
+    "lat": 47.09131307,
+    "alt": 1330
+  },
+  {
+    "name": "Hanenspil",
+    "lon": 8.71995166,
+    "lat": 46.7788319,
+    "alt": 1560
+  },
+  {
+    "name": "Hannig Alp",
+    "lon": 7.91398261,
+    "lat": 46.11349706,
+    "alt": 2300
+  },
+  {
+    "name": "Hasenmatt",
+    "lon": 7.44986346,
+    "lat": 47.24116716,
+    "alt": 1445
+  },
+  {
+    "name": "Haute-Nendaz / Tracouet",
+    "lon": 7.28393356,
+    "lat": 46.16161858,
+    "alt": 2200
+  },
+  {
+    "name": "Hinterbergen",
+    "lon": 8.49799575,
+    "lat": 47.01275538,
+    "alt": 1020
+  },
+  {
+    "name": "Hinterrugg N",
+    "lon": 9.307176,
+    "lat": 47.154835,
+    "alt": 2293
+  },
+  {
+    "name": "Hinterrugg S",
+    "lon": 9.307176,
+    "lat": 47.154835,
+    "alt": 2293
+  },
+  {
+    "name": "Hinterrugg W",
+    "lon": 9.304675,
+    "lat": 47.1535,
+    "alt": 2214
+  },
+  {
+    "name": "Hirsch",
+    "lon": 8.81675024,
+    "lat": 47.05615094,
+    "alt": 1260
+  },
+  {
+    "name": "Hirzli",
+    "lon": 9.00726939,
+    "lat": 47.13377725,
+    "alt": 1640
+  },
+  {
+    "name": "Hitzeggen",
+    "lon": 9.14287968,
+    "lat": 46.73461451,
+    "alt": 2080
+  },
+  {
+    "name": "Hitzeggen",
+    "lon": 9.13962378,
+    "lat": 46.73511297,
+    "alt": 2040
+  },
+  {
+    "name": "Hitzeggen",
+    "lon": 9.1554777,
+    "lat": 46.73982424,
+    "alt": 2000
+  },
+  {
+    "name": "Hochflue",
+    "lon": 8.55845694,
+    "lat": 47.01083181,
+    "alt": 1550
+  },
+  {
+    "name": "Hochstollen",
+    "lon": 8.23796395,
+    "lat": 46.77332565,
+    "alt": 2480
+  },
+  {
+    "name": "Hochstuckli",
+    "lon": 8.66540726,
+    "lat": 47.05786757,
+    "alt": 1480
+  },
+  {
+    "name": "Hockenhorngrat",
+    "lon": 7.74768035,
+    "lat": 46.42625107,
+    "alt": 3023
+  },
+  {
+    "name": "Hohbiel",
+    "lon": 8.22008751,
+    "lat": 46.75950572,
+    "alt": 1950
+  },
+  {
+    "name": "Hoher Kasten",
+    "lon": 9.48600966,
+    "lat": 47.28568921,
+    "alt": 1680
+  },
+  {
+    "name": "Hoher Kasten Oststartplatz",
+    "lon": 9.48822439,
+    "lat": 47.28826817,
+    "alt": 1700
+  },
+  {
+    "name": "Hoher Kasten Schulstartplatz",
+    "lon": 9.486453,
+    "lat": 47.28690501,
+    "alt": 1680
+  },
+  {
+    "name": "Hoher Kasten Starkwindstartplatz",
+    "lon": 9.48542136,
+    "lat": 47.28758915,
+    "alt": 1560
+  },
+  {
+    "name": "Hohmad",
+    "lon": 8.26585152,
+    "lat": 46.8414959,
+    "alt": 1920
+  },
+  {
+    "name": "Hohmattli",
+    "lon": 7.31841498,
+    "lat": 46.66964219,
+    "alt": 1770
+  },
+  {
+    "name": "Hohmattli",
+    "lon": 7.31972016,
+    "lat": 46.6703632,
+    "alt": 1760
+  },
+  {
+    "name": "Horn",
+    "lon": 8.37453655,
+    "lat": 46.90947722,
+    "alt": 1470
+  },
+  {
+    "name": "Hornflue",
+    "lon": 7.31165531,
+    "lat": 46.48774405,
+    "alt": 1810
+  },
+  {
+    "name": "Hornflue",
+    "lon": 7.31361095,
+    "lat": 46.48684666,
+    "alt": 1810
+  },
+  {
+    "name": "Hotel Weisshorn",
+    "lon": 7.61938912,
+    "lat": 46.20880667,
+    "alt": 2360
+  },
+  {
+    "name": "Hotel Weisshorn",
+    "lon": 7.61809341,
+    "lat": 46.20880873,
+    "alt": 2320
+  },
+  {
+    "name": "Hotel Weisshorn",
+    "lon": 7.61873383,
+    "lat": 46.20655881,
+    "alt": 2380
+  },
+  {
+    "name": "Howitzen",
+    "lon": 7.81311692,
+    "lat": 46.39993945,
+    "alt": 2370
+  },
+  {
+    "name": "Hueenderegg",
+    "lon": 8.67757372,
+    "lat": 46.90075187,
+    "alt": 1840
+  },
+  {
+    "name": "Hugeligrat",
+    "lon": 7.26597047,
+    "lat": 46.51961831,
+    "alt": 1890
+  },
+  {
+    "name": "Hummel Oben",
+    "lon": 8.77173005,
+    "lat": 47.09851518,
+    "alt": 1330
+  },
+  {
+    "name": "Hummel Unter",
+    "lon": 8.774581,
+    "lat": 47.103949,
+    "alt": 1020
+  },
+  {
+    "name": "Ilgisalp",
+    "lon": 8.77107758,
+    "lat": 46.99281571,
+    "alt": 1680
+  },
+  {
+    "name": "Jakobshorn",
+    "lon": 9.84544288,
+    "lat": 46.77280358,
+    "alt": 2560
+  },
+  {
+    "name": "Jatzmeder",
+    "lon": 9.80145142,
+    "lat": 46.74042431,
+    "alt": 2040
+  },
+  {
+    "name": "Jatzmeder",
+    "lon": 9.80361055,
+    "lat": 46.74487935,
+    "alt": 2090
+  },
+  {
+    "name": "Joch",
+    "lon": 9.56913582,
+    "lat": 46.80754013,
+    "alt": 2030
+  },
+  {
+    "name": "Jochli Stock",
+    "lon": 8.50197088,
+    "lat": 46.9146621,
+    "alt": 2060
+  },
+  {
+    "name": "Jungfraujoch",
+    "lon": 7.97581537,
+    "lat": 46.54771684,
+    "alt": 3460
+  },
+  {
+    "name": "Käserstatt",
+    "lon": 8.21808519,
+    "lat": 46.75682063,
+    "alt": 1820
+  },
+  {
+    "name": "Kühboden Galfera",
+    "lon": 8.09468699,
+    "lat": 46.40450796,
+    "alt": 2170
+  },
+  {
+    "name": "Kühboden Heimatt",
+    "lon": 8.10709697,
+    "lat": 46.41433106,
+    "alt": 2250
+  },
+  {
+    "name": "Kühboden Seilbahn",
+    "lon": 8.10192125,
+    "lat": 46.41121285,
+    "alt": 2280
+  },
+  {
+    "name": "Kerenzerberg",
+    "lon": 9.0829566,
+    "lat": 47.10842818,
+    "alt": 660
+  },
+  {
+    "name": "Kl. Mythen",
+    "lon": 8.68271504,
+    "lat": 47.03788978,
+    "alt": 1700
+  },
+  {
+    "name": "Klein Tschuggen",
+    "lon": 7.94507123,
+    "lat": 46.60633036,
+    "alt": 2240
+  },
+  {
+    "name": "Kleiner Sternen",
+    "lon": 8.800233900547,
+    "lat": 46.99948337529,
+    "alt": 1880
+  },
+  {
+    "name": "Klewenalp",
+    "lon": 8.476128566265,
+    "lat": 46.940234278747,
+    "alt": 1590
+  },
+  {
+    "name": "Kreuzboden",
+    "lon": 7.96853318,
+    "lat": 46.13664296,
+    "alt": 2500
+  },
+  {
+    "name": "Kronberg",
+    "lon": 9.32710836,
+    "lat": 47.29157727,
+    "alt": 1640
+  },
+  {
+    "name": "Kronberg Nordstartplatz",
+    "lon": 9.32863906,
+    "lat": 47.29111133,
+    "alt": 1640
+  },
+  {
+    "name": "Kronberg Südstartplatz",
+    "lon": 9.32863906,
+    "lat": 47.29111133,
+    "alt": 1640
+  },
+  {
+    "name": "Kulmhütte (Kreuz)",
+    "lon": 8.491342055798,
+    "lat": 47.053037283411,
+    "alt": 1652
+  },
+  {
+    "name": "La Baye",
+    "lon": 7.11559286,
+    "lat": 46.16890887,
+    "alt": 2080
+  },
+  {
+    "name": "La Chaux",
+    "lon": 7.47564726,
+    "lat": 46.32993583,
+    "alt": 2130
+  },
+  {
+    "name": "La Cotelette",
+    "lon": 6.4867441,
+    "lat": 46.78000074,
+    "alt": 1280
+  },
+  {
+    "name": "La Jorette",
+    "lon": 6.85713117,
+    "lat": 46.30461064,
+    "alt": 1630
+  },
+  {
+    "name": "La Meina",
+    "lon": 7.5718802,
+    "lat": 46.12071627,
+    "alt": 2120
+  },
+  {
+    "name": "La Robella",
+    "lon": 6.54987712,
+    "lat": 46.87288874,
+    "alt": 1360
+  },
+  {
+    "name": "La Roche-Devant",
+    "lon": 6.74833914,
+    "lat": 46.92874437,
+    "alt": 1380
+  },
+  {
+    "name": "La Rotsé",
+    "lon": 7.61235304,
+    "lat": 46.23715382,
+    "alt": 2460
+  },
+  {
+    "name": "La Vudalla",
+    "lon": 7.04421254,
+    "lat": 46.55010051,
+    "alt": 1620
+  },
+  {
+    "name": "La Vudalla",
+    "lon": 7.04615855,
+    "lat": 46.55145659,
+    "alt": 1620
+  },
+  {
+    "name": "Lévanchy",
+    "lon": 7.1126899,
+    "lat": 46.54626926,
+    "alt": 1350
+  },
+  {
+    "name": "Lally",
+    "lon": 6.90995374,
+    "lat": 46.47893869,
+    "alt": 1280
+  },
+  {
+    "name": "Las Sours",
+    "lon": 9.92048123,
+    "lat": 46.4966952,
+    "alt": 2560
+  },
+  {
+    "name": "Lauberhorn",
+    "lon": 7.94754622,
+    "lat": 46.59192611,
+    "alt": 2470
+  },
+  {
+    "name": "Lauberhornschulter",
+    "lon": 7.94618229,
+    "lat": 46.58563517,
+    "alt": 2310
+  },
+  {
+    "name": "Lauberhornschulter",
+    "lon": 7.94618229,
+    "lat": 46.58563517,
+    "alt": 2310
+  },
+  {
+    "name": "Laubersgrat",
+    "lon": 8.42094621,
+    "lat": 46.7912403,
+    "alt": 2300
+  },
+  {
+    "name": "Laubgarten",
+    "lon": 8.71638205,
+    "lat": 46.95970177,
+    "alt": 1600
+  },
+  {
+    "name": "Laucherehüttli",
+    "lon": 7.929105,
+    "lat": 46.667026,
+    "alt": 2030
+  },
+  {
+    "name": "Lauchernalp",
+    "lon": 7.77157755,
+    "lat": 46.41131359,
+    "alt": 2000
+  },
+  {
+    "name": "Lauenehorn",
+    "lon": 7.35405766,
+    "lat": 46.43965694,
+    "alt": 2470
+  },
+  {
+    "name": "Laufböden",
+    "lon": 9.43658222,
+    "lat": 46.97910143,
+    "alt": 2220
+  },
+  {
+    "name": "Laupersdörfer Stierenberg",
+    "lon": 7.64502371,
+    "lat": 47.33227754,
+    "alt": 1020
+  },
+  {
+    "name": "Lauwistock",
+    "lon": 8.44655459,
+    "lat": 46.89986999,
+    "alt": 2090
+  },
+  {
+    "name": "Le Cernil",
+    "lon": 7.138339,
+    "lat": 47.173289,
+    "alt": 1123
+  },
+  {
+    "name": "Le Chamossaire",
+    "lon": 7.06206857,
+    "lat": 46.32616762,
+    "alt": 2100
+  },
+  {
+    "name": "Le Chamossaire",
+    "lon": 7.0620748,
+    "lat": 46.32526807,
+    "alt": 2050
+  },
+  {
+    "name": "Le Chamossaire",
+    "lon": 7.06338258,
+    "lat": 46.32392305,
+    "alt": 1980
+  },
+  {
+    "name": "Le Folly",
+    "lon": 6.94447684,
+    "lat": 46.47729494,
+    "alt": 1520
+  },
+  {
+    "name": "Le Moléson",
+    "lon": 7.01684202,
+    "lat": 46.54865296,
+    "alt": 2000
+  },
+  {
+    "name": "Le Moléson",
+    "lon": 7.01751142,
+    "lat": 46.54640651,
+    "alt": 2000
+  },
+  {
+    "name": "Le Suchet",
+    "lon": 6.46646373,
+    "lat": 46.77249812,
+    "alt": 1590
+  },
+  {
+    "name": "Leisalp",
+    "lon": 9.15101075,
+    "lat": 46.61977259,
+    "alt": 2220
+  },
+  {
+    "name": "Les Attelas",
+    "lon": 7.26664807,
+    "lat": 46.10087375,
+    "alt": 2660
+  },
+  {
+    "name": "Les Diablerets",
+    "lon": 7.20816154,
+    "lat": 46.3238603,
+    "alt": 2880
+  },
+  {
+    "name": "Les Merlas",
+    "lon": 7.12052048,
+    "lat": 46.54494207,
+    "alt": 1700
+  },
+  {
+    "name": "Les Ruinettes",
+    "lon": 7.25116428,
+    "lat": 46.09095403,
+    "alt": 2170
+  },
+  {
+    "name": "Leuggelstock",
+    "lon": 9.02790312,
+    "lat": 46.98504554,
+    "alt": 1660
+  },
+  {
+    "name": "Linderen",
+    "lon": 8.296069046482,
+    "lat": 46.86994723978,
+    "alt": 1541
+  },
+  {
+    "name": "Linderenalp",
+    "lon": 8.29579826,
+    "lat": 46.86970236,
+    "alt": 1540
+  },
+  {
+    "name": "Linderenalp",
+    "lon": 8.29579826,
+    "lat": 46.86970236,
+    "alt": 1540
+  },
+  {
+    "name": "Lohn",
+    "lon": 9.427580702377,
+    "lat": 46.650754468062,
+    "alt": 1570
+  },
+  {
+    "name": "Loutze",
+    "lon": 7.16391043,
+    "lat": 46.2132681,
+    "alt": 1850
+  },
+  {
+    "name": "Luegibrüggli",
+    "lon": 7.80990579,
+    "lat": 46.69096046,
+    "alt": 1060
+  },
+  {
+    "name": "Lungern Hütstett",
+    "lon": 8.19431956,
+    "lat": 46.78891564,
+    "alt": 1720
+  },
+  {
+    "name": "Lungern Schönbüel",
+    "lon": 8.09908896,
+    "lat": 46.7877066,
+    "alt": 2000
+  },
+  {
+    "name": "Möntschelealp",
+    "lon": 7.50926164,
+    "lat": 46.71493112,
+    "alt": 1410
+  },
+  {
+    "name": "Mägisserenegg",
+    "lon": 7.60915968,
+    "lat": 46.58773633,
+    "alt": 1750
+  },
+  {
+    "name": "Mägisserhorn",
+    "lon": 7.59914667,
+    "lat": 46.59474946,
+    "alt": 2260
+  },
+  {
+    "name": "Mägisserhorn",
+    "lon": 7.59914667,
+    "lat": 46.59474946,
+    "alt": 2260
+  },
+  {
+    "name": "Männlichen",
+    "lon": 7.93865747,
+    "lat": 46.61850296,
+    "alt": 2340
+  },
+  {
+    "name": "Mülkerblatte",
+    "lon": 7.41391621,
+    "lat": 46.43473816,
+    "alt": 1936
+  },
+  {
+    "name": "Mürren",
+    "lon": 7.89507467,
+    "lat": 46.55931413,
+    "alt": 1600
+  },
+  {
+    "name": "Mürren",
+    "lon": 7.887155,
+    "lat": 46.556014,
+    "alt": 1680
+  },
+  {
+    "name": "Marbachegg",
+    "lon": 7.90527581,
+    "lat": 46.83498953,
+    "alt": 1480
+  },
+  {
+    "name": "Marbachegg",
+    "lon": 7.90263105,
+    "lat": 46.83230164,
+    "alt": 1480
+  },
+  {
+    "name": "Martegnas",
+    "lon": 9.53151418,
+    "lat": 46.58146813,
+    "alt": 2600
+  },
+  {
+    "name": "Martegnas",
+    "lon": 9.53262678,
+    "lat": 46.57649833,
+    "alt": 2600
+  },
+  {
+    "name": "Mauborget",
+    "lon": 6.61188,
+    "lat": 46.85425,
+    "alt": 1176
+  },
+  {
+    "name": "Mayen",
+    "lon": 6.883591103,
+    "lat": 46.314286325507,
+    "alt": 890
+  },
+  {
+    "name": "Mayens de Veysonnaz",
+    "lon": 7.34631539,
+    "lat": 46.18726114,
+    "alt": 1615
+  },
+  {
+    "name": "Mederalp",
+    "lon": 7.88388177,
+    "lat": 46.62547701,
+    "alt": 1660
+  },
+  {
+    "name": "Melchsee-Frutt Daempfelsmatt",
+    "lon": 8.26777277,
+    "lat": 46.77896053,
+    "alt": 1900
+  },
+  {
+    "name": "Metschstand",
+    "lon": 7.4919914,
+    "lat": 46.44372394,
+    "alt": 2060
+  },
+  {
+    "name": "Metschstand",
+    "lon": 7.49589679,
+    "lat": 46.44507138,
+    "alt": 2090
+  },
+  {
+    "name": "Mettenen",
+    "lon": 8.78010941,
+    "lat": 46.88070347,
+    "alt": 1840
+  },
+  {
+    "name": "Mettener Butzli",
+    "lon": 8.78672425,
+    "lat": 46.8828749,
+    "alt": 2040
+  },
+  {
+    "name": "Mittagguepfi",
+    "lon": 8.18638218,
+    "lat": 46.97203053,
+    "alt": 1850
+  },
+  {
+    "name": "Mont Noble",
+    "lon": 7.48787275,
+    "lat": 46.20714132,
+    "alt": 2640
+  },
+  {
+    "name": "Mont Noble",
+    "lon": 7.48398911,
+    "lat": 46.21119095,
+    "alt": 2440
+  },
+  {
+    "name": "Mont Raimeux",
+    "lon": 7.4267376,
+    "lat": 47.29963169,
+    "alt": 1220
+  },
+  {
+    "name": "Mont Soleil",
+    "lon": 6.993984,
+    "lat": 47.158457,
+    "alt": 1173
+  },
+  {
+    "name": "Montagne de Moutier",
+    "lon": 7.33156505,
+    "lat": 47.28744004,
+    "alt": 1080
+  },
+  {
+    "name": "Montagne de Sorvilier",
+    "lon": 7.31452902,
+    "lat": 47.2235613,
+    "alt": 1220
+  },
+  {
+    "name": "Montalin",
+    "lon": 9.59038962,
+    "lat": 46.86383398,
+    "alt": 2260
+  },
+  {
+    "name": "Montalin",
+    "lon": 9.59311968,
+    "lat": 46.8664822,
+    "alt": 2230
+  },
+  {
+    "name": "Montalin",
+    "lon": 9.59514035,
+    "lat": 46.86779393,
+    "alt": 2230
+  },
+  {
+    "name": "Montalin",
+    "lon": 9.5830895,
+    "lat": 46.86172142,
+    "alt": 2050
+  },
+  {
+    "name": "Monte Bisbino (Italien)",
+    "lon": 9.06199747,
+    "lat": 45.87339018,
+    "alt": 1325
+  },
+  {
+    "name": "Monte Generoso",
+    "lon": 9.02173788,
+    "lat": 45.92884675,
+    "alt": 1600
+  },
+  {
+    "name": "Monte Generoso",
+    "lon": 9.01327768,
+    "lat": 45.92383721,
+    "alt": 1600
+  },
+  {
+    "name": "Monte Lema",
+    "lon": 8.83247763,
+    "lat": 46.0406624,
+    "alt": 1620
+  },
+  {
+    "name": "Monte Tamaro",
+    "lon": 8.89328723,
+    "lat": 46.11681808,
+    "alt": 1520
+  },
+  {
+    "name": "Montoz",
+    "lon": 7.23075496,
+    "lat": 47.20680037,
+    "alt": 1250
+  },
+  {
+    "name": "Montoz",
+    "lon": 7.21557633,
+    "lat": 47.20677198,
+    "alt": 1260
+  },
+  {
+    "name": "Mornera",
+    "lon": 8.98573169,
+    "lat": 46.20601092,
+    "alt": 1380
+  },
+  {
+    "name": "Mostelegg",
+    "lon": 8.65878599,
+    "lat": 47.05613889,
+    "alt": 1270
+  },
+  {
+    "name": "Motta",
+    "lon": 9.5882047,
+    "lat": 46.75993917,
+    "alt": 2240
+  },
+  {
+    "name": "Motta",
+    "lon": 9.59821636,
+    "lat": 46.76469956,
+    "alt": 2590
+  },
+  {
+    "name": "Motta",
+    "lon": 9.59372627,
+    "lat": 46.76703413,
+    "alt": 2520
+  },
+  {
+    "name": "Motta Naluns",
+    "lon": 10.27316505,
+    "lat": 46.80999545,
+    "alt": 2120
+  },
+  {
+    "name": "Motta Naluns",
+    "lon": 10.27455358,
+    "lat": 46.8122113,
+    "alt": 2150
+  },
+  {
+    "name": "Muggerchamm",
+    "lon": 9.41763034,
+    "lat": 46.98212962,
+    "alt": 2180
+  },
+  {
+    "name": "Munt Pers",
+    "lon": 9.95466314,
+    "lat": 46.41899097,
+    "alt": 3120
+  },
+  {
+    "name": "Muntische",
+    "lon": 9.90853551,
+    "lat": 46.5919062,
+    "alt": 2480
+  },
+  {
+    "name": "Musenalp",
+    "lon": 8.43664908,
+    "lat": 46.9318925,
+    "alt": 1750
+  },
+  {
+    "name": "Mutta",
+    "lon": 9.45210338,
+    "lat": 46.79706485,
+    "alt": 1970
+  },
+  {
+    "name": "Mutta",
+    "lon": 9.45478956,
+    "lat": 46.79881715,
+    "alt": 1980
+  },
+  {
+    "name": "Mutti",
+    "lon": 8.155691027641,
+    "lat": 46.437612903042,
+    "alt": 1680
+  },
+  {
+    "name": "Muttner Höhi",
+    "lon": 9.47445877,
+    "lat": 46.67788838,
+    "alt": 1900
+  },
+  {
+    "name": "Muttnerhorn",
+    "lon": 9.48579616,
+    "lat": 46.64933972,
+    "alt": 2400
+  },
+  {
+    "name": "Nässli",
+    "lon": 7.41642156,
+    "lat": 46.6713226,
+    "alt": 1760
+  },
+  {
+    "name": "Naetschen",
+    "lon": 8.6070389,
+    "lat": 46.64464552,
+    "alt": 1880
+  },
+  {
+    "name": "Naraus",
+    "lon": 9.267781,
+    "lat": 46.860828,
+    "alt": 1850
+  },
+  {
+    "name": "Naraus Schulstartplatz",
+    "lon": 9.27139,
+    "lat": 46.859718,
+    "alt": 1870
+  },
+  {
+    "name": "Niderwiler Stierenberg",
+    "lon": 7.55941828,
+    "lat": 47.27033687,
+    "alt": 1160
+  },
+  {
+    "name": "Niederbauen",
+    "lon": 8.53675955,
+    "lat": 46.94671984,
+    "alt": 1580
+  },
+  {
+    "name": "Niederhorn",
+    "lon": 7.77341942,
+    "lat": 46.70996411,
+    "alt": 1920
+  },
+  {
+    "name": "Niederhorn",
+    "lon": 7.77669719,
+    "lat": 46.71130378,
+    "alt": 1920
+  },
+  {
+    "name": "Niesen",
+    "lon": 7.64958013,
+    "lat": 46.64414295,
+    "alt": 2280
+  },
+  {
+    "name": "Niesen",
+    "lon": 7.6456617,
+    "lat": 46.64415013,
+    "alt": 2280
+  },
+  {
+    "name": "Ob Lucken",
+    "lon": 8.55777434,
+    "lat": 47.76111133,
+    "alt": 879
+  },
+  {
+    "name": "Ob Mus",
+    "lon": 8.2422291,
+    "lat": 46.83986515,
+    "alt": 1360
+  },
+  {
+    "name": "Ob Säss",
+    "lon": 9.45870103,
+    "lat": 46.99041135,
+    "alt": 1700
+  },
+  {
+    "name": "Ober Bueelen",
+    "lon": 8.27036493,
+    "lat": 46.85360757,
+    "alt": 1560
+  },
+  {
+    "name": "Ober Egg",
+    "lon": 8.50436431,
+    "lat": 46.90294493,
+    "alt": 1580
+  },
+  {
+    "name": "Obere Wängi",
+    "lon": 7.62713959,
+    "lat": 47.3255623,
+    "alt": 950
+  },
+  {
+    "name": "Oberer Gurnigel",
+    "lon": 7.463225126266,
+    "lat": 46.748572725266,
+    "alt": 1532
+  },
+  {
+    "name": "Oberrothorn",
+    "lon": 7.81507079,
+    "lat": 46.02526407,
+    "alt": 3300
+  },
+  {
+    "name": "Oberrothorn",
+    "lon": 7.81249732,
+    "lat": 46.02662196,
+    "alt": 3400
+  },
+  {
+    "name": "Obfluee",
+    "lon": 8.7259315,
+    "lat": 46.89212151,
+    "alt": 1700
+  },
+  {
+    "name": "Obsaum",
+    "lon": 8.75453794,
+    "lat": 46.85446041,
+    "alt": 1800
+  },
+  {
+    "name": "Oeschinen",
+    "lon": 7.69658237,
+    "lat": 46.50326465,
+    "alt": 1720
+  },
+  {
+    "name": "Parpaner Rothorn",
+    "lon": 9.60251162,
+    "lat": 46.74122112,
+    "alt": 2800
+  },
+  {
+    "name": "Parpaner Rothorn",
+    "lon": 9.60452782,
+    "lat": 46.7425327,
+    "alt": 2890
+  },
+  {
+    "name": "Parsenn",
+    "lon": 9.8272323,
+    "lat": 46.81998397,
+    "alt": 2160
+  },
+  {
+    "name": "Parsenn",
+    "lon": 9.82403749,
+    "lat": 46.82185063,
+    "alt": 2300
+  },
+  {
+    "name": "Pas de Maimbré",
+    "lon": 7.38541188,
+    "lat": 46.31238793,
+    "alt": 2350
+  },
+  {
+    "name": "Pas de Maimbré",
+    "lon": 7.38735788,
+    "lat": 46.31373817,
+    "alt": 2360
+  },
+  {
+    "name": "Petit Mont Bonvin",
+    "lon": 7.51268853,
+    "lat": 46.35285651,
+    "alt": 2400
+  },
+  {
+    "name": "Petit Mont Bonvin",
+    "lon": 7.51918558,
+    "lat": 46.35375164,
+    "alt": 2470
+  },
+  {
+    "name": "Petit Mont Bonvin",
+    "lon": 7.52502468,
+    "lat": 46.34924953,
+    "alt": 2380
+  },
+  {
+    "name": "Pfaff",
+    "lon": 8.86320863,
+    "lat": 46.921984,
+    "alt": 2020
+  },
+  {
+    "name": "Pfaff",
+    "lon": 8.86455711,
+    "lat": 46.92331673,
+    "alt": 2050
+  },
+  {
+    "name": "Pfaffen",
+    "lon": 7.50784594,
+    "lat": 46.63082383,
+    "alt": 1930
+  },
+  {
+    "name": "Pfingstegg",
+    "lon": 8.05613074,
+    "lat": 46.61612754,
+    "alt": 1410
+  },
+  {
+    "name": "Pilatus Kapelle",
+    "lon": 8.250567,
+    "lat": 46.981301,
+    "alt": 1878
+  },
+  {
+    "name": "Pilatus Kulm",
+    "lon": 8.25548603,
+    "lat": 46.97920535,
+    "alt": 2040
+  },
+  {
+    "name": "Pischa",
+    "lon": 9.9205485,
+    "lat": 46.81079495,
+    "alt": 2570
+  },
+  {
+    "name": "Piz Clünas",
+    "lon": 10.24340134,
+    "lat": 46.81772425,
+    "alt": 2640
+  },
+  {
+    "name": "Piz Danis",
+    "lon": 9.50951966,
+    "lat": 46.73979721,
+    "alt": 2450
+  },
+  {
+    "name": "Piz Danis",
+    "lon": 9.50683464,
+    "lat": 46.73804619,
+    "alt": 2490
+  },
+  {
+    "name": "Piz Darlux",
+    "lon": 9.79099965,
+    "lat": 46.62094605,
+    "alt": 2480
+  },
+  {
+    "name": "Piz Lagalb",
+    "lon": 10.01759807,
+    "lat": 46.42882761,
+    "alt": 2820
+  },
+  {
+    "name": "Piz Lagalb",
+    "lon": 10.02024138,
+    "lat": 46.42966752,
+    "alt": 2900
+  },
+  {
+    "name": "Piz Lagalb",
+    "lon": 10.02024138,
+    "lat": 46.42966752,
+    "alt": 2900
+  },
+  {
+    "name": "Piz Mulain",
+    "lon": 9.61909557,
+    "lat": 46.69816031,
+    "alt": 2340
+  },
+  {
+    "name": "Piz Mulain",
+    "lon": 9.61922627,
+    "lat": 46.69815781,
+    "alt": 2340
+  },
+  {
+    "name": "Piz Mundaun",
+    "lon": 9.15818004,
+    "lat": 46.74248284,
+    "alt": 2040
+  },
+  {
+    "name": "Piz Mundaun",
+    "lon": 9.16210468,
+    "lat": 46.74242364,
+    "alt": 2040
+  },
+  {
+    "name": "Piz Murtel",
+    "lon": 9.82035685,
+    "lat": 46.41289152,
+    "alt": 3430
+  },
+  {
+    "name": "Piz Murtel",
+    "lon": 9.8203766,
+    "lat": 46.41334109,
+    "alt": 3430
+  },
+  {
+    "name": "Piz Nair",
+    "lon": 9.78479275,
+    "lat": 46.50812906,
+    "alt": 2990
+  },
+  {
+    "name": "Piz Nair",
+    "lon": 9.78990417,
+    "lat": 46.50577346,
+    "alt": 2920
+  },
+  {
+    "name": "Piz Scalottas",
+    "lon": 9.51008471,
+    "lat": 46.72043992,
+    "alt": 2300
+  },
+  {
+    "name": "Piz Scalottas",
+    "lon": 9.51008471,
+    "lat": 46.72043992,
+    "alt": 2300
+  },
+  {
+    "name": "Piz Scalottas",
+    "lon": 9.5149554,
+    "lat": 46.72800021,
+    "alt": 2160
+  },
+  {
+    "name": "Piz Scalottas",
+    "lon": 9.51283814,
+    "lat": 46.72398934,
+    "alt": 2160
+  },
+  {
+    "name": "Pizol Dreieck",
+    "lon": 9.42459129,
+    "lat": 47.01035302,
+    "alt": 1300
+  },
+  {
+    "name": "Pizol Hütte",
+    "lon": 9.42341013,
+    "lat": 46.97843047,
+    "alt": 2220
+  },
+  {
+    "name": "Pléiades",
+    "lon": 6.90717675,
+    "lat": 46.48326172,
+    "alt": 1360
+  },
+  {
+    "name": "Plan d Areine",
+    "lon": 6.98851557,
+    "lat": 46.42710165,
+    "alt": 1870
+  },
+  {
+    "name": "Planplatten",
+    "lon": 8.25442557,
+    "lat": 46.73632593,
+    "alt": 2240
+  },
+  {
+    "name": "Planplatten",
+    "lon": 8.25442557,
+    "lat": 46.73632593,
+    "alt": 2240
+  },
+  {
+    "name": "Planuit",
+    "lon": 7.1183599,
+    "lat": 46.1563229,
+    "alt": 1050
+  },
+  {
+    "name": "Platta Cotschna",
+    "lon": 8.96940159,
+    "lat": 46.75461783,
+    "alt": 1580
+  },
+  {
+    "name": "Platta Cotschna",
+    "lon": 8.96372926,
+    "lat": 46.76234132,
+    "alt": 2160
+  },
+  {
+    "name": "Plattjen",
+    "lon": 7.9409293,
+    "lat": 46.08999161,
+    "alt": 2550
+  },
+  {
+    "name": "Plaun Tir",
+    "lon": 8.82704016,
+    "lat": 46.71640172,
+    "alt": 2020
+  },
+  {
+    "name": "Point des Mossettes",
+    "lon": 6.81624459,
+    "lat": 46.19104544,
+    "alt": 2270
+  },
+  {
+    "name": "Pointe de Bellevue",
+    "lon": 6.88876414,
+    "lat": 46.25709081,
+    "alt": 2030
+  },
+  {
+    "name": "Pointe de Bellevue",
+    "lon": 6.88941256,
+    "lat": 46.25709396,
+    "alt": 2030
+  },
+  {
+    "name": "Portes d Onne",
+    "lon": 6.8703269,
+    "lat": 46.2839872,
+    "alt": 1800
+  },
+  {
+    "name": "Portes d Onne",
+    "lon": 6.86450255,
+    "lat": 46.28260844,
+    "alt": 1920
+  },
+  {
+    "name": "Portes d Onne",
+    "lon": 6.8651323,
+    "lat": 46.2844108,
+    "alt": 1900
+  },
+  {
+    "name": "Präzer Alp",
+    "lon": 9.37400568,
+    "lat": 46.73857679,
+    "alt": 2120
+  },
+  {
+    "name": "Röti",
+    "lon": 7.52781525,
+    "lat": 47.25822296,
+    "alt": 1395
+  },
+  {
+    "name": "Ramenegg",
+    "lon": 8.61504696,
+    "lat": 47.10247489,
+    "alt": 1130
+  },
+  {
+    "name": "Ramslauenen",
+    "lon": 7.70672676,
+    "lat": 46.57880463,
+    "alt": 1470
+  },
+  {
+    "name": "Ratzi-Rietlig",
+    "lon": 8.72975952,
+    "lat": 46.88758014,
+    "alt": 1610
+  },
+  {
+    "name": "Rellerligrat",
+    "lon": 7.26274767,
+    "lat": 46.50881861,
+    "alt": 1800
+  },
+  {
+    "name": "Rellerligrat",
+    "lon": 7.26274767,
+    "lat": 46.50881861,
+    "alt": 1800
+  },
+  {
+    "name": "Remointze",
+    "lon": 7.61824164,
+    "lat": 46.25378649,
+    "alt": 2530
+  },
+  {
+    "name": "Restialp",
+    "lon": 7.73767941,
+    "lat": 46.39611532,
+    "alt": 2100
+  },
+  {
+    "name": "Reuti",
+    "lon": 8.20670407,
+    "lat": 46.73890597,
+    "alt": 1170
+  },
+  {
+    "name": "Riedersegg",
+    "lon": 8.7041458,
+    "lat": 46.80284906,
+    "alt": 2200
+  },
+  {
+    "name": "Rietlig",
+    "lon": 8.69175656,
+    "lat": 46.88980179,
+    "alt": 1280
+  },
+  {
+    "name": "Riffelberg",
+    "lon": 7.75225455,
+    "lat": 45.99307274,
+    "alt": 2550
+  },
+  {
+    "name": "Riffelberg",
+    "lon": 7.75354256,
+    "lat": 45.99261937,
+    "alt": 2570
+  },
+  {
+    "name": "Riffelberg",
+    "lon": 7.76516852,
+    "lat": 45.99438536,
+    "alt": 2700
+  },
+  {
+    "name": "Rigg",
+    "lon": 8.70503276,
+    "lat": 46.78484607,
+    "alt": 2110
+  },
+  {
+    "name": "Riggisalp",
+    "lon": 7.29407134,
+    "lat": 46.65935901,
+    "alt": 1450
+  },
+  {
+    "name": "Rigi Kulm Bahndepot",
+    "lon": 8.486278045177,
+    "lat": 47.054901245267,
+    "alt": 1751
+  },
+  {
+    "name": "Rigi Kulm SO",
+    "lon": 8.486455070972,
+    "lat": 47.055793000055,
+    "alt": 1775
+  },
+  {
+    "name": "Rigidalstock",
+    "lon": 8.40895134,
+    "lat": 46.85251604,
+    "alt": 2550
+  },
+  {
+    "name": "Rinderalp",
+    "lon": 8.35195729,
+    "lat": 46.93259896,
+    "alt": 1680
+  },
+  {
+    "name": "Rinderalp",
+    "lon": 7.51307171,
+    "lat": 46.63261964,
+    "alt": 1820
+  },
+  {
+    "name": "Rinderberg",
+    "lon": 7.35851032,
+    "lat": 46.50847667,
+    "alt": 2000
+  },
+  {
+    "name": "Rinderberg",
+    "lon": 7.36241641,
+    "lat": 46.51027847,
+    "alt": 2000
+  },
+  {
+    "name": "Rinderhütte",
+    "lon": 7.64851654,
+    "lat": 46.37022792,
+    "alt": 2300
+  },
+  {
+    "name": "Rinderhütte",
+    "lon": 7.65634091,
+    "lat": 46.37695991,
+    "alt": 2500
+  },
+  {
+    "name": "Rinderhalte",
+    "lon": 7.66348935,
+    "lat": 46.37694596,
+    "alt": 2660
+  },
+  {
+    "name": "Rinderstoeckli",
+    "lon": 8.5773767,
+    "lat": 46.87975147,
+    "alt": 2170
+  },
+  {
+    "name": "Rinerhorn",
+    "lon": 9.81375739,
+    "lat": 46.73746889,
+    "alt": 2490
+  },
+  {
+    "name": "Rinerhorn",
+    "lon": 9.81316291,
+    "lat": 46.73883121,
+    "alt": 2520
+  },
+  {
+    "name": "Roc d'Orzival",
+    "lon": 7.53384707,
+    "lat": 46.19451816,
+    "alt": 2853
+  },
+  {
+    "name": "Rochers de Naye Antenne",
+    "lon": 6.97698517,
+    "lat": 46.43216495,
+    "alt": 2040
+  },
+  {
+    "name": "Rochers de Naye Terrasse",
+    "lon": 6.97809104,
+    "lat": 46.43216944,
+    "alt": 2000
+  },
+  {
+    "name": "Roggenstock",
+    "lon": 8.78959202,
+    "lat": 47.02318703,
+    "alt": 1770
+  },
+  {
+    "name": "Roggenstock",
+    "lon": 8.7882429,
+    "lat": 47.02185344,
+    "alt": 1770
+  },
+  {
+    "name": "Rophaien",
+    "lon": 8.64668645,
+    "lat": 46.92807092,
+    "alt": 2070
+  },
+  {
+    "name": "Rosberg",
+    "lon": 8.545857954025,
+    "lat": 47.081895800723,
+    "alt": 1140
+  },
+  {
+    "name": "Rossfälli",
+    "lon": 7.26160349,
+    "lat": 46.4602404,
+    "alt": 1580
+  },
+  {
+    "name": "Rotenfluh NW",
+    "lon": 8.704989,
+    "lat": 47.021978,
+    "alt": 1557
+  },
+  {
+    "name": "Rotenfluh S",
+    "lon": 8.70164,
+    "lat": 47.018466,
+    "alt": 1556
+  },
+  {
+    "name": "Ruchweg",
+    "lon": 8.41983338,
+    "lat": 46.83802954,
+    "alt": 1740
+  },
+  {
+    "name": "Ruedlen",
+    "lon": 8.31777623,
+    "lat": 46.89823243,
+    "alt": 1300
+  },
+  {
+    "name": "Ruogig",
+    "lon": 8.6916,
+    "lat": 46.9064,
+    "alt": 1870
+  },
+  {
+    "name": "Ryharts",
+    "lon": 7.65156694,
+    "lat": 46.48536659,
+    "alt": 1850
+  },
+  {
+    "name": "Saléve ",
+    "lon": 6.19399368,
+    "lat": 46.15486651,
+    "alt": 1090
+  },
+  {
+    "name": "Saléve ",
+    "lon": 6.18831387,
+    "lat": 46.14850611,
+    "alt": 1200
+  },
+  {
+    "name": "Saléve ",
+    "lon": 6.17255518,
+    "lat": 46.13033715,
+    "alt": 1270
+  },
+  {
+    "name": "Salezer Horn",
+    "lon": 9.83666139,
+    "lat": 46.8256362,
+    "alt": 2530
+  },
+  {
+    "name": "Santa Maria",
+    "lon": 9.1379607,
+    "lat": 46.26703301,
+    "alt": 1230
+  },
+  {
+    "name": "Sassauna",
+    "lon": 9.69762136,
+    "lat": 47.01159895,
+    "alt": 2300
+  },
+  {
+    "name": "Sasseneire",
+    "lon": 7.5143297,
+    "lat": 46.13201392,
+    "alt": 2740
+  },
+  {
+    "name": "Sattelhorn",
+    "lon": 7.69485154,
+    "lat": 46.55049572,
+    "alt": 2376
+  },
+  {
+    "name": "Sattelhorn",
+    "lon": 7.69485154,
+    "lat": 46.55049572,
+    "alt": 2376
+  },
+  {
+    "name": "Savoleyres",
+    "lon": 7.20902371,
+    "lat": 46.11966182,
+    "alt": 2340
+  },
+  {
+    "name": "Schön Chulm",
+    "lon": 8.67269636,
+    "lat": 46.91699803,
+    "alt": 2040
+  },
+  {
+    "name": "Schönhalde",
+    "lon": 9.33628484,
+    "lat": 47.06133544,
+    "alt": 1475
+  },
+  {
+    "name": "Schabell",
+    "lon": 9.141956448539,
+    "lat": 46.929749681322,
+    "alt": 2020
+  },
+  {
+    "name": "Schafberg",
+    "lon": 7.66670276,
+    "lat": 46.36839366,
+    "alt": 2800
+  },
+  {
+    "name": "Scharmoin",
+    "lon": 9.57640486,
+    "lat": 46.74306306,
+    "alt": 1990
+  },
+  {
+    "name": "Scharti",
+    "lon": 8.56788797,
+    "lat": 46.89648851,
+    "alt": 1570
+  },
+  {
+    "name": "Schatthorn",
+    "lon": 7.46858549,
+    "lat": 46.47611675,
+    "alt": 2070
+  },
+  {
+    "name": "Scheidegg",
+    "lon": 8.520057785511,
+    "lat": 47.027786976028,
+    "alt": 1650
+  },
+  {
+    "name": "Scheidegg",
+    "lon": 8.52064077,
+    "lat": 47.02693758,
+    "alt": 1650
+  },
+  {
+    "name": "Scheidegg-Gätterli",
+    "lon": 8.54621556,
+    "lat": 47.02309523,
+    "alt": 1370
+  },
+  {
+    "name": "Schiahorn",
+    "lon": 9.80274381,
+    "lat": 46.81464364,
+    "alt": 2440
+  },
+  {
+    "name": "Schiahorn",
+    "lon": 9.80480719,
+    "lat": 46.81685079,
+    "alt": 2620
+  },
+  {
+    "name": "Schiahorn",
+    "lon": 9.80353695,
+    "lat": 46.81777704,
+    "alt": 2700
+  },
+  {
+    "name": "Schiltgrat Muerren",
+    "lon": 7.87288584,
+    "lat": 46.55697213,
+    "alt": 2100
+  },
+  {
+    "name": "Schilthorn",
+    "lon": 7.83376964,
+    "lat": 46.5577444,
+    "alt": 2940
+  },
+  {
+    "name": "Schilthorn",
+    "lon": 7.82334366,
+    "lat": 46.5586797,
+    "alt": 2820
+  },
+  {
+    "name": "Schimbrig",
+    "lon": 8.11105787,
+    "lat": 46.93876379,
+    "alt": 1780
+  },
+  {
+    "name": "Schlösslichopf",
+    "lon": 9.44182094,
+    "lat": 46.97856009,
+    "alt": 2220
+  },
+  {
+    "name": "Schonegg",
+    "lon": 8.415947914091,
+    "lat": 46.842144665274,
+    "alt": 2080
+  },
+  {
+    "name": "Schonegg",
+    "lon": 7.98574432,
+    "lat": 46.69160192,
+    "alt": 2190
+  },
+  {
+    "name": "Schonegg",
+    "lon": 7.98574432,
+    "lat": 46.69160192,
+    "alt": 2190
+  },
+  {
+    "name": "Schonguetsch",
+    "lon": 8.03519602,
+    "lat": 46.78940739,
+    "alt": 2300
+  },
+  {
+    "name": "Schrina",
+    "lon": 9.268180131912,
+    "lat": 47.142233947501,
+    "alt": 1306
+  },
+  {
+    "name": "Schrot",
+    "lon": 8.84053188,
+    "lat": 47.05946163,
+    "alt": 1390
+  },
+  {
+    "name": "Schwändistock",
+    "lon": 8.47472727,
+    "lat": 47.06784246,
+    "alt": 1100
+  },
+  {
+    "name": "Schwängimatt",
+    "lon": 7.6726171,
+    "lat": 47.28905135,
+    "alt": 1090
+  },
+  {
+    "name": "Schwandegg",
+    "lon": 7.66328713,
+    "lat": 46.64231764,
+    "alt": 1720
+  },
+  {
+    "name": "Schwandfeldspitz",
+    "lon": 7.54219525,
+    "lat": 46.49766299,
+    "alt": 2020
+  },
+  {
+    "name": "Schwandfeldspitz",
+    "lon": 7.54024217,
+    "lat": 46.49811454,
+    "alt": 2020
+  },
+  {
+    "name": "Schwyberg",
+    "lon": 7.26219846,
+    "lat": 46.67748514,
+    "alt": 1600
+  },
+  {
+    "name": "Schwyberg",
+    "lon": 7.26024695,
+    "lat": 46.67478344,
+    "alt": 1600
+  },
+  {
+    "name": "Schynige Platte",
+    "lon": 7.913727,
+    "lat": 46.652406,
+    "alt": 1934
+  },
+  {
+    "name": "Seebodenalp",
+    "lon": 8.45864624,
+    "lat": 47.06339855,
+    "alt": 1030
+  },
+  {
+    "name": "Seetalhorn Nord",
+    "lon": 7.85820233,
+    "lat": 46.17668775,
+    "alt": 2840
+  },
+  {
+    "name": "Seetalhorn West",
+    "lon": 7.85819195,
+    "lat": 46.17533844,
+    "alt": 2870
+  },
+  {
+    "name": "Signal de Soi",
+    "lon": 6.91537074,
+    "lat": 46.18749977,
+    "alt": 2040
+  },
+  {
+    "name": "Signal de Soi",
+    "lon": 6.91602264,
+    "lat": 46.187053,
+    "alt": 2050
+  },
+  {
+    "name": "Somtgant",
+    "lon": 9.55791447,
+    "lat": 46.58907836,
+    "alt": 2000
+  },
+  {
+    "name": "Somtgant",
+    "lon": 9.54675744,
+    "lat": 46.58748586,
+    "alt": 2250
+  },
+  {
+    "name": "Somtgant",
+    "lon": 9.5354441,
+    "lat": 46.5818457,
+    "alt": 2540
+  },
+  {
+    "name": "Sonchaux",
+    "lon": 6.94830563,
+    "lat": 46.41389117,
+    "alt": 1420
+  },
+  {
+    "name": "Sorebois",
+    "lon": 7.6036486,
+    "lat": 46.14541201,
+    "alt": 2420
+  },
+  {
+    "name": "Sorebois",
+    "lon": 7.59653569,
+    "lat": 46.14722129,
+    "alt": 2600
+  },
+  {
+    "name": "Spielboden",
+    "lon": 7.89698684,
+    "lat": 46.09197783,
+    "alt": 2500
+  },
+  {
+    "name": "Spirstock",
+    "lon": 8.77128968,
+    "lat": 47.00135985,
+    "alt": 1760
+  },
+  {
+    "name": "Stöckli",
+    "lon": 8.82450217,
+    "lat": 47.02501985,
+    "alt": 1650
+  },
+  {
+    "name": "Stätzerhorn",
+    "lon": 9.51205238,
+    "lat": 46.75459892,
+    "alt": 2570
+  },
+  {
+    "name": "Staefeliflue",
+    "lon": 8.16064912,
+    "lat": 46.96409946,
+    "alt": 1820
+  },
+  {
+    "name": "Stafelti",
+    "lon": 9.15540767,
+    "lat": 46.61430776,
+    "alt": 1920
+  },
+  {
+    "name": "Stanserhorn",
+    "lon": 8.34733875,
+    "lat": 46.93128631,
+    "alt": 1750
+  },
+  {
+    "name": "Steibenkreuz",
+    "lon": 8.1622412,
+    "lat": 46.44817763,
+    "alt": 2400
+  },
+  {
+    "name": "Steiglihorn",
+    "lon": 8.25877845,
+    "lat": 46.97963163,
+    "alt": 1950
+  },
+  {
+    "name": "Steiglihorn",
+    "lon": 8.26076357,
+    "lat": 46.98051698,
+    "alt": 1950
+  },
+  {
+    "name": "Stein",
+    "lon": 9.12623373,
+    "lat": 46.72541446,
+    "alt": 2160
+  },
+  {
+    "name": "Stein",
+    "lon": 9.11579917,
+    "lat": 46.72646807,
+    "alt": 2140
+  },
+  {
+    "name": "Steintal",
+    "lon": 7.64380241,
+    "lat": 46.49842456,
+    "alt": 2100
+  },
+  {
+    "name": "Stels Mottis",
+    "lon": 9.72377682,
+    "lat": 46.9615863,
+    "alt": 1460
+  },
+  {
+    "name": "Stelserberg",
+    "lon": 9.729007,
+    "lat": 46.965283,
+    "alt": 1550
+  },
+  {
+    "name": "Stockhorn",
+    "lon": 7.53799313,
+    "lat": 46.69242096,
+    "alt": 2050
+  },
+  {
+    "name": "Strüssligrat",
+    "lon": 7.5333058834,
+    "lat": 46.693077792357,
+    "alt": 2035
+  },
+  {
+    "name": "Strela",
+    "lon": 9.79054393,
+    "lat": 46.80544602,
+    "alt": 2440
+  },
+  {
+    "name": "Strela",
+    "lon": 9.7834789,
+    "lat": 46.80874107,
+    "alt": 2630
+  },
+  {
+    "name": "Sulegg",
+    "lon": 7.85382011,
+    "lat": 46.62154248,
+    "alt": 2320
+  },
+  {
+    "name": "Sulegg",
+    "lon": 7.85054588,
+    "lat": 46.62020502,
+    "alt": 2320
+  },
+  {
+    "name": "Sunnenhoernli",
+    "lon": 9.18504298,
+    "lat": 46.98590871,
+    "alt": 2010
+  },
+  {
+    "name": "Sunnig Grat",
+    "lon": 8.63234084,
+    "lat": 46.7847291,
+    "alt": 2040
+  },
+  {
+    "name": "Tätsch",
+    "lon": 8.48075676,
+    "lat": 46.59908939,
+    "alt": 2280
+  },
+  {
+    "name": "Tümpfeli",
+    "lon": 8.4120447635,
+    "lat": 46.838060557525,
+    "alt": 1805
+  },
+  {
+    "name": "Tête de Ran",
+    "lon": 6.8530993,
+    "lat": 47.05407566,
+    "alt": 1420
+  },
+  {
+    "name": "Teufi",
+    "lon": 8.03697229,
+    "lat": 46.65446198,
+    "alt": 2160
+  },
+  {
+    "name": "Tgant Son Martegn",
+    "lon": 9.63662949,
+    "lat": 46.5988338,
+    "alt": 2330
+  },
+  {
+    "name": "Tgant Son Martegn",
+    "lon": 9.63675751,
+    "lat": 46.60198101,
+    "alt": 2460
+  },
+  {
+    "name": "Tgant Son Martegn / Plang Begls",
+    "lon": 9.62621138,
+    "lat": 46.5994845,
+    "alt": 2090
+  },
+  {
+    "name": "Tgapeala Gotschna",
+    "lon": 9.64028903,
+    "lat": 46.72070056,
+    "alt": 2710
+  },
+  {
+    "name": "Tguma",
+    "lon": 9.36161134241,
+    "lat": 46.62534751143,
+    "alt": 2402
+  },
+  {
+    "name": "Tigignas",
+    "lon": 9.56390771,
+    "lat": 46.59211618,
+    "alt": 1800
+  },
+  {
+    "name": "Tignousa",
+    "lon": 7.60973061,
+    "lat": 46.22771244,
+    "alt": 2160
+  },
+  {
+    "name": "Titlis",
+    "lon": 8.43501928,
+    "lat": 46.77312615,
+    "alt": 3200
+  },
+  {
+    "name": "Torgon turn",
+    "lon": 6.880023765564,
+    "lat": 46.319832751149,
+    "alt": 1012
+  },
+  {
+    "name": "Tour d Ai",
+    "lon": 7.00067015,
+    "lat": 46.37182527,
+    "alt": 2190
+  },
+  {
+    "name": "Tour d Ai",
+    "lon": 6.9974212,
+    "lat": 46.37181268,
+    "alt": 2200
+  },
+  {
+    "name": "Tschentenegg",
+    "lon": 7.54806065,
+    "lat": 46.49945662,
+    "alt": 1920
+  },
+  {
+    "name": "Tschuggen",
+    "lon": 9.42305905,
+    "lat": 47.07561464,
+    "alt": 1820
+  },
+  {
+    "name": "Tschuggen",
+    "lon": 9.42222551,
+    "lat": 47.08867595,
+    "alt": 1770
+  },
+  {
+    "name": "Turnen",
+    "lon": 7.49086675,
+    "lat": 46.62723465,
+    "alt": 2079
+  },
+  {
+    "name": "Turren",
+    "lon": 8.12422709,
+    "lat": 46.78710875,
+    "alt": 1560
+  },
+  {
+    "name": "Uf em Hus",
+    "lon": 7.53665805,
+    "lat": 46.67712973,
+    "alt": 1560
+  },
+  {
+    "name": "Ulrichergale",
+    "lon": 8.28956581,
+    "lat": 46.5170149,
+    "alt": 2140
+  },
+  {
+    "name": "Ulrichergale",
+    "lon": 8.29089004,
+    "lat": 46.5183544,
+    "alt": 2140
+  },
+  {
+    "name": "Unter Stafel",
+    "lon": 9.09105322,
+    "lat": 47.07187434,
+    "alt": 1340
+  },
+  {
+    "name": "Unterrothorn",
+    "lon": 7.79631977,
+    "lat": 46.02127717,
+    "alt": 3100
+  },
+  {
+    "name": "Unterrothorn",
+    "lon": 7.80022327,
+    "lat": 46.02576247,
+    "alt": 3080
+  },
+  {
+    "name": "Urmiberg",
+    "lon": 8.59104591,
+    "lat": 47.01196647,
+    "alt": 1080
+  },
+  {
+    "name": "Vercorin - Crêt du Midi",
+    "lon": 7.52899532,
+    "lat": 46.229335,
+    "alt": 2332
+  },
+  {
+    "name": "Vercorin - La Cure",
+    "lon": 7.52044322,
+    "lat": 46.24847512,
+    "alt": 1414
+  },
+  {
+    "name": "Vercorin - Sigeroulaz",
+    "lon": 7.52686226,
+    "lat": 46.24084204,
+    "alt": 1905
+  },
+  {
+    "name": "Vilan",
+    "lon": 9.59310995,
+    "lat": 47.01360996,
+    "alt": 1920
+  },
+  {
+    "name": "Vilan",
+    "lon": 9.59522657,
+    "lat": 47.01716958,
+    "alt": 2170
+  },
+  {
+    "name": "Vilan",
+    "lon": 9.60355458,
+    "lat": 47.01161356,
+    "alt": 2350
+  },
+  {
+    "name": "Vilan",
+    "lon": 9.5772862,
+    "lat": 47.02920349,
+    "alt": 2100
+  },
+  {
+    "name": "Vorder Glaernisch",
+    "lon": 9.0382278,
+    "lat": 47.02268935,
+    "alt": 2280
+  },
+  {
+    "name": "Vounetz",
+    "lon": 7.20622229,
+    "lat": 46.62566022,
+    "alt": 1620
+  },
+  {
+    "name": "Vounetz",
+    "lon": 7.20752606,
+    "lat": 46.62611265,
+    "alt": 1620
+  },
+  {
+    "name": "Wändlispitz",
+    "lon": 8.87217717,
+    "lat": 47.06132005,
+    "alt": 1850
+  },
+  {
+    "name": "Wängihorn",
+    "lon": 8.71332417,
+    "lat": 46.85852571,
+    "alt": 1920
+  },
+  {
+    "name": "Waldspitz",
+    "lon": 8.04282072,
+    "lat": 46.65173239,
+    "alt": 1980
+  },
+  {
+    "name": "Walegg",
+    "lon": 8.41316961,
+    "lat": 46.86822323,
+    "alt": 1980
+  },
+  {
+    "name": "Walenmatt",
+    "lon": 7.48556157,
+    "lat": 47.28478184,
+    "alt": 1240
+  },
+  {
+    "name": "Walpersbärgli",
+    "lon": 7.55236031,
+    "lat": 46.68611068,
+    "alt": 1900
+  },
+  {
+    "name": "Wandelen",
+    "lon": 8.24721576,
+    "lat": 46.82273789,
+    "alt": 2100
+  },
+  {
+    "name": "Wandelen",
+    "lon": 8.24721576,
+    "lat": 46.82273789,
+    "alt": 2100
+  },
+  {
+    "name": "Wannelen",
+    "lon": 8.78934868,
+    "lat": 46.85675365,
+    "alt": 1620
+  },
+  {
+    "name": "Wanneler Egg",
+    "lon": 8.7852803,
+    "lat": 46.85140362,
+    "alt": 1880
+  },
+  {
+    "name": "Wasserngrat",
+    "lon": 7.32539792,
+    "lat": 46.45537432,
+    "alt": 2020
+  },
+  {
+    "name": "Wasserplatten",
+    "lon": 8.68438397,
+    "lat": 46.79811809,
+    "alt": 1180
+  },
+  {
+    "name": "Wasserscheide",
+    "lon": 7.44779293,
+    "lat": 46.71900058,
+    "alt": 1640
+  },
+  {
+    "name": "Weissenstein",
+    "lon": 7.50930956,
+    "lat": 47.25104012,
+    "alt": 1260
+  },
+  {
+    "name": "Weisshorn",
+    "lon": 9.63653738,
+    "lat": 46.78916525,
+    "alt": 2600
+  },
+  {
+    "name": "Weisshorn",
+    "lon": 9.63728374,
+    "lat": 46.79140063,
+    "alt": 2560
+  },
+  {
+    "name": "Wengernalp",
+    "lon": 7.9422263,
+    "lat": 46.58115485,
+    "alt": 2100
+  },
+  {
+    "name": "Widderegg",
+    "lon": 8.73593306,
+    "lat": 46.78989733,
+    "alt": 2380
+  },
+  {
+    "name": "Widdersgrind",
+    "lon": 7.40661814,
+    "lat": 46.67536826,
+    "alt": 2020
+  },
+  {
+    "name": "Widdersgrind",
+    "lon": 7.40661814,
+    "lat": 46.67536826,
+    "alt": 2020
+  },
+  {
+    "name": "Wiggis",
+    "lon": 9.02501161,
+    "lat": 47.06515823,
+    "alt": 2280
+  },
+  {
+    "name": "Wildspitz",
+    "lon": 8.57776428,
+    "lat": 47.08395906,
+    "alt": 1550
+  },
+  {
+    "name": "Wilerhorn",
+    "lon": 8.09987877,
+    "lat": 46.77735693,
+    "alt": 1870
+  },
+  {
+    "name": "Windegg",
+    "lon": 8.03890318,
+    "lat": 46.71067544,
+    "alt": 1900
+  },
+  {
+    "name": "Windegg",
+    "lon": 8.03890318,
+    "lat": 46.71067544,
+    "alt": 1900
+  },
+  {
+    "name": "Winteregg",
+    "lon": 7.96713448,
+    "lat": 46.66020463,
+    "alt": 2380
+  },
+  {
+    "name": "Wiriehorn",
+    "lon": 7.52930679,
+    "lat": 46.57998378,
+    "alt": 2304
+  },
+  {
+    "name": "Wirzweli",
+    "lon": 8.3667547,
+    "lat": 46.91493809,
+    "alt": 1220
+  },
+  {
+    "name": "Wissberg",
+    "lon": 8.46978,
+    "lat": 46.81060164,
+    "alt": 2200
+  },
+  {
+    "name": "Wissenberg",
+    "lon": 9.17788946,
+    "lat": 46.96802269,
+    "alt": 1350
+  },
+  {
+    "name": "Zaunzegg",
+    "lon": 9.4552129,
+    "lat": 46.98507387,
+    "alt": 1940
+  },
+  {
+    "name": "Ziebeln",
+    "lon": 8.44443505,
+    "lat": 46.82162282,
+    "alt": 1900
+  },
+  {
+    "name": "Ziger",
+    "lon": 9.25095965,
+    "lat": 47.06901221,
+    "alt": 2040
+  },
+  {
+    "name": "Zugerberg",
+    "lon": 8.53577419,
+    "lat": 47.14810287,
+    "alt": 950
+  }
+]

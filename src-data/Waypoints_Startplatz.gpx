@@ -1,0 +1,2626 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Flyland">
+	<metadata>
+		<name>Waypointfile by Flyland</name>
+	</metadata>
+	<wpt lon="8.74905846" lat="46.95258549">
+		<ele>1620</ele>
+		<name>Achslen</name>
+	</wpt>
+	<wpt lon="6.83344274" lat="46.33372313">
+		<ele>1900</ele>
+		<name>Alamon</name>
+	</wpt>
+	<wpt lon="7.45948446" lat="46.51165146">
+		<ele>2124</ele>
+		<name>Albristhubel</name>
+	</wpt>
+	<wpt lon="7.65109659" lat="46.49494784">
+		<ele>1800</ele>
+		<name>Allmenalp</name>
+	</wpt>
+	<wpt lon="9.64231597" lat="46.70626294">
+		<ele>2210</ele>
+		<name>Alp da la Creusch</name>
+	</wpt>
+	<wpt lon="9.64095375" lat="46.7049394">
+		<ele>2210</ele>
+		<name>Alp da la Creusch</name>
+	</wpt>
+	<wpt lon="9.91811648" lat="46.48774675">
+		<ele>2260</ele>
+		<name>Alp Languard</name>
+	</wpt>
+	<wpt lon="9.92603" lat="46.48982369">
+		<ele>2550</ele>
+		<name>Alp Languard</name>
+	</wpt>
+	<wpt lon="9.92155632" lat="46.49172163">
+		<ele>2420</ele>
+		<name>Alp Languard</name>
+	</wpt>
+	<wpt lon="8.943300247192" lat="47.304029071822">
+		<ele>1200</ele>
+		<name>Alp Scheidegg</name>
+	</wpt>
+	<wpt lon="8.5854506492614" lat="47.013685845139">
+		<ele>1235</ele>
+		<name>Alp Schwand</name>
+	</wpt>
+	<wpt lon="9.52428007" lat="46.76607435">
+		<ele>2130</ele>
+		<name>Alp Stätz</name>
+	</wpt>
+	<wpt lon="9.51835646" lat="46.76528256">
+		<ele>2280</ele>
+		<name>Alp Stätz</name>
+	</wpt>
+	<wpt lon="9.51604681" lat="46.75632601">
+		<ele>2380</ele>
+		<name>Alp Stätz</name>
+	</wpt>
+	<wpt lon="9.12247875" lat="46.73086847">
+		<ele>2040</ele>
+		<name>Alp Stein</name>
+	</wpt>
+	<wpt lon="9.1466844" lat="47.16462971">
+		<ele>1400</ele>
+		<name>Alp Walau</name>
+	</wpt>
+	<wpt lon="9.00856091" lat="45.8784682">
+		<ele>950</ele>
+		<name>Alpe del Caviano</name>
+	</wpt>
+	<wpt lon="8.78296881" lat="46.89011637">
+		<ele>2340</ele>
+		<name>Alpler Tor</name>
+	</wpt>
+	<wpt lon="8.09709983" lat="46.81785374">
+		<ele>1840</ele>
+		<name>Alpoglerberg</name>
+	</wpt>
+	<wpt lon="8.09709983" lat="46.81785374">
+		<ele>1840</ele>
+		<name>Alpoglerberg</name>
+	</wpt>
+	<wpt lon="7.64440932" lat="46.48672913">
+		<ele>2248</ele>
+		<name>Alpschelehubel</name>
+	</wpt>
+	<wpt lon="7.82305846" lat="46.7021614">
+		<ele>1300</ele>
+		<name>Amisbüel</name>
+	</wpt>
+	<wpt lon="8.6513901" lat="46.90373112">
+		<ele>1580</ele>
+		<name>Angelingen</name>
+	</wpt>
+	<wpt lon="6.91231951" lat="46.16814475">
+		<ele>2350</ele>
+		<name>Arete de Sélair</name>
+	</wpt>
+	<wpt lon="8.65461073" lat="46.78494405">
+		<ele>1290</ele>
+		<name>Arni</name>
+	</wpt>
+	<wpt lon="7.57528604" lat="46.44770228">
+		<ele>2180</ele>
+		<name>Artelengrat</name>
+	</wpt>
+	<wpt lon="7.57204025" lat="46.45085461">
+		<ele>2100</ele>
+		<name>Artelengrat</name>
+	</wpt>
+	<wpt lon="8.32972211" lat="46.8904936">
+		<ele>1800</ele>
+		<name>Arvialp</name>
+	</wpt>
+	<wpt lon="8.03504463" lat="46.71654291">
+		<ele>1590</ele>
+		<name>Axalp</name>
+	</wpt>
+	<wpt lon="7.27574328" lat="47.16999424">
+		<ele>920</ele>
+		<name>Bözingenberg</name>
+	</wpt>
+	<wpt lon="7.29419681" lat="47.17451628">
+		<ele>940</ele>
+		<name>Bözingenberg</name>
+	</wpt>
+	<wpt lon="8.22724705" lat="46.48822706">
+		<ele>2440</ele>
+		<name>Bächigalen</name>
+	</wpt>
+	<wpt lon="8.0604672431945" lat="46.601038">
+		<ele>1775</ele>
+		<name>Bäregg</name>
+	</wpt>
+	<wpt lon="8.99575893" lat="47.10064596">
+		<ele>1830</ele>
+		<name>Bärensolspitz</name>
+	</wpt>
+	<wpt lon="8.3655092" lat="46.88076372">
+		<ele>1100</ele>
+		<name>Büelen</name>
+	</wpt>
+	<wpt lon="8.606" lat="46.843732">
+		<ele>1549</ele>
+		<name>Bürsti</name>
+	</wpt>
+	<wpt lon="7.38978691" lat="47.22271832">
+		<ele>1300</ele>
+		<name>Bützen</name>
+	</wpt>
+	<wpt lon="8.5006606578826" lat="47.32247603692">
+		<ele>736</ele>
+		<name>Balderen</name>
+	</wpt>
+	<wpt lon="7.972946763039" lat="46.897244237928">
+		<ele>1755</ele>
+		<name>Beichlen</name>
+	</wpt>
+	<wpt lon="7.968553304672" lat="46.893457586396">
+		<ele>1695</ele>
+		<name>Beichlen</name>
+	</wpt>
+	<wpt lon="7.4861136" lat="46.34438788">
+		<ele>2510</ele>
+		<name>Bella Lui</name>
+	</wpt>
+	<wpt lon="7.5551851" lat="46.17785638">
+		<ele>2250</ele>
+		<name>Bendolla</name>
+	</wpt>
+	<wpt lon="7.55908493" lat="46.18459896">
+		<ele>2200</ele>
+		<name>Bendolla</name>
+	</wpt>
+	<wpt lon="7.00207093" lat="46.35923661">
+		<ele>2030</ele>
+		<name>Berneuse</name>
+	</wpt>
+	<wpt lon="7.00141405" lat="46.36013366">
+		<ele>2010</ele>
+		<name>Berneuse</name>
+	</wpt>
+	<wpt lon="7.00272057" lat="46.35923911">
+		<ele>2020</ele>
+		<name>Berneuse</name>
+	</wpt>
+	<wpt lon="8.70826199" lat="46.89411814">
+		<ele>1620</ele>
+		<name>Biel-Raemsenberg</name>
+	</wpt>
+	<wpt lon="8.70957403" lat="46.89410358">
+		<ele>1620</ele>
+		<name>Biel-Raemsenberg</name>
+	</wpt>
+	<wpt lon="7.81373597" lat="46.39543955">
+		<ele>2520</ele>
+		<name>Bietschhorn</name>
+	</wpt>
+	<wpt lon="8.63716599" lat="46.97225258">
+		<ele>1881</ele>
+		<name>Bietstoeckli</name>
+	</wpt>
+	<wpt lon="7.70700209" lat="46.50279074">
+		<ele>2400</ele>
+		<name>Bire</name>
+	</wpt>
+	<wpt lon="7.69792816" lat="46.51225724">
+		<ele>2360</ele>
+		<name>Bire</name>
+	</wpt>
+	<wpt lon="7.84869973" lat="46.56097501">
+		<ele>2600</ele>
+		<name>Birg</name>
+	</wpt>
+	<wpt lon="8.36710415" lat="46.93517597">
+		<ele>1580</ele>
+		<name>Blatti</name>
+	</wpt>
+	<wpt lon="9.02362867" lat="46.97385846">
+		<ele>1240</ele>
+		<name>Bodenberg</name>
+	</wpt>
+	<wpt lon="8.29066909" lat="46.77771254">
+		<ele>2160</ele>
+		<name>Bonistock</name>
+	</wpt>
+	<wpt lon="9.84969086" lat="46.77991369">
+		<ele>2490</ele>
+		<name>Brämabüel</name>
+	</wpt>
+	<wpt lon="8.40990072" lat="46.90513457">
+		<ele>1240</ele>
+		<name>Brändlen</name>
+	</wpt>
+	<wpt lon="8.40946479" lat="46.90279932">
+		<ele>1300</ele>
+		<name>Brändlen</name>
+	</wpt>
+	<wpt lon="9.65046807" lat="46.79339579">
+		<ele>2420</ele>
+		<name>Brüggerhorn</name>
+	</wpt>
+	<wpt lon="9.65374119" lat="46.79333235">
+		<ele>2420</ele>
+		<name>Brüggerhorn</name>
+	</wpt>
+	<wpt lon="7.33388437" lat="46.44188902">
+		<ele>2100</ele>
+		<name>Brüschegrat</name>
+	</wpt>
+	<wpt lon="7.90243898" lat="46.6577875">
+		<ele>1760</ele>
+		<name>Breitlauenen oberer Stp. (Chruterwang)</name>
+	</wpt>
+	<wpt lon="7.90117103" lat="46.6622905">
+		<ele>1590</ele>
+		<name>Breitlauenen unterer Stp. (Rouft)</name>
+	</wpt>
+	<wpt lon="8.0463025" lat="46.78709995">
+		<ele>2340</ele>
+		<name>Brienzer Rothorn</name>
+	</wpt>
+	<wpt lon="8.03583588" lat="46.7880547">
+		<ele>2260</ele>
+		<name>Brienzer Rothorn</name>
+	</wpt>
+	<wpt lon="7.93355772" lat="46.06123815">
+		<ele>3020</ele>
+		<name>Britannia Hütte</name>
+	</wpt>
+	<wpt lon="7.93547965" lat="46.05943058">
+		<ele>3040</ele>
+		<name>Britannia Hütte</name>
+	</wpt>
+	<wpt lon="7.93418343" lat="46.0589865">
+		<ele>2980</ele>
+		<name>Britannia Hütte</name>
+	</wpt>
+	<wpt lon="8.39670395" lat="46.86431408">
+		<ele>1580</ele>
+		<name>Bruniswald</name>
+	</wpt>
+	<wpt lon="8.41008389" lat="46.84261079">
+		<ele>1860</ele>
+		<name>Brunnihütte</name>
+	</wpt>
+	<wpt lon="8.42901116" lat="46.9450029">
+		<ele>1780</ele>
+		<name>Buochserhorn</name>
+	</wpt>
+	<wpt lon="7.79507114" lat="46.721143">
+		<ele>2050</ele>
+		<name>Burgfeldstand</name>
+	</wpt>
+	<wpt lon="8.80981155" lat="46.70761321">
+		<ele>1960</ele>
+		<name>Caischavedra</name>
+	</wpt>
+	<wpt lon="8.80721939" lat="46.70854403">
+		<ele>2060</ele>
+		<name>Caischavedra</name>
+	</wpt>
+	<wpt lon="8.80330824" lat="46.70904073">
+		<ele>2200</ele>
+		<name>Caischavedra</name>
+	</wpt>
+	<wpt lon="9.47334815" lat="46.89117148">
+		<ele>2450</ele>
+		<name>Calandasiten</name>
+	</wpt>
+	<wpt lon="9.4682371" lat="46.89486157">
+		<ele>2700</ele>
+		<name>Calandasiten</name>
+	</wpt>
+	<wpt lon="9.46880809" lat="46.89260186">
+		<ele>2650</ele>
+		<name>Calandasiten</name>
+	</wpt>
+	<wpt lon="9.261107" lat="46.880271">
+		<ele>2700</ele>
+		<name>Cassonsgrat</name>
+	</wpt>
+	<wpt lon="9.313593" lat="47.154664">
+		<ele>2260</ele>
+		<name>Chäserrugg</name>
+	</wpt>
+	<wpt lon="8.22722055" lat="46.75495873">
+		<ele>1950</ele>
+		<name>Chüemad</name>
+	</wpt>
+	<wpt lon="8.50321224" lat="46.91105214">
+		<ele>1800</ele>
+		<name>Chalberegg</name>
+	</wpt>
+	<wpt lon="8.64376613" lat="46.97353283">
+		<ele>1780</ele>
+		<name>Charenstoeckli</name>
+	</wpt>
+	<wpt lon="7.04589751" lat="47.12671344">
+		<ele>1540</ele>
+		<name>Chasseral</name>
+	</wpt>
+	<wpt lon="8.86022041" lat="47.10690079">
+		<ele>1580</ele>
+		<name>Chli Aubrig</name>
+	</wpt>
+	<wpt lon="8.05471064" lat="46.6633633">
+		<ele>2300</ele>
+		<name>Chlofen</name>
+	</wpt>
+	<wpt lon="7.16141179" lat="46.19243715">
+		<ele>1450</ele>
+		<name>Chou ou Tsou</name>
+	</wpt>
+	<wpt lon="8.55118801" lat="46.94568105">
+		<ele>1850</ele>
+		<name>Chulm</name>
+	</wpt>
+	<wpt lon="8.79122572" lat="46.20085867">
+		<ele>1671</ele>
+		<name>Cimetta / Cardada</name>
+	</wpt>
+	<wpt lon="8.78795623" lat="46.19963819">
+		<ele>1570</ele>
+		<name>Cimetta / Cardada</name>
+	</wpt>
+	<wpt lon="7.58683006" lat="46.14768422">
+		<ele>2820</ele>
+		<name>Col de Sorebois</name>
+	</wpt>
+	<wpt lon="7.58619023" lat="46.15038372">
+		<ele>2890</ele>
+		<name>Col de Sorebois</name>
+	</wpt>
+	<wpt lon="9.82179514" lat="46.41601121">
+		<ele>3300</ele>
+		<name>Corvatsch</name>
+	</wpt>
+	<wpt lon="9.81800027" lat="46.50743833">
+		<ele>2480</ele>
+		<name>Corviglia</name>
+	</wpt>
+	<wpt lon="6.84719396" lat="46.20380577">
+		<ele>2040</ele>
+		<name>Crete des Champeys</name>
+	</wpt>
+	<wpt lon="6.84719396" lat="46.20380577">
+		<ele>2040</ele>
+		<name>Crete des Champeys</name>
+	</wpt>
+	<wpt lon="9.05710371" lat="45.8777794">
+		<ele>790</ele>
+		<name>Croce dell uomo (Italien)</name>
+	</wpt>
+	<wpt lon="6.903383123875" lat="46.250157839733">
+		<ele>1713</ele>
+		<name>Croix de Chanso</name>
+	</wpt>
+	<wpt lon="7.2310062" lat="46.12195328">
+		<ele>2200</ele>
+		<name>Croix de Coeur</name>
+	</wpt>
+	<wpt lon="6.84036959" lat="46.17633264">
+		<ele>1930</ele>
+		<name>Croix de Culet</name>
+	</wpt>
+	<wpt lon="6.86087835" lat="46.19623011">
+		<ele>1860</ele>
+		<name>Croix de l Aiguille</name>
+	</wpt>
+	<wpt lon="7.47629999" lat="46.3348832">
+		<ele>2230</ele>
+		<name>Cry d Er</name>
+	</wpt>
+	<wpt lon="7.47954813" lat="46.3366812">
+		<ele>2250</ele>
+		<name>Cry d Er</name>
+	</wpt>
+	<wpt lon="8.77927003" lat="46.68908293">
+		<ele>1800</ele>
+		<name>Cungieri</name>
+	</wpt>
+	<wpt lon="8.78068888" lat="46.69356465">
+		<ele>1950</ele>
+		<name>Cungieri</name>
+	</wpt>
+	<wpt lon="8.78204079" lat="46.6953481">
+		<ele>2060</ele>
+		<name>Cungieri</name>
+	</wpt>
+	<wpt lon="9.75745917" lat="46.64593283">
+		<ele>2180</ele>
+		<name>Cuolm da Latsch</name>
+	</wpt>
+	<wpt lon="9.75446513" lat="46.65229338">
+		<ele>2270</ele>
+		<name>Cuolm da Latsch</name>
+	</wpt>
+	<wpt lon="8.7847449" lat="46.69891494">
+		<ele>2250</ele>
+		<name>Cuolm da Vi</name>
+	</wpt>
+	<wpt lon="7.32343787" lat="46.4589706">
+		<ele>1840</ele>
+		<name>Dürrischilt</name>
+	</wpt>
+	<wpt lon="9.77209653" lat="46.62178509">
+		<ele>2020</ele>
+		<name>Darlux</name>
+	</wpt>
+	<wpt lon="9.77672249" lat="46.62304011">
+		<ele>2150</ele>
+		<name>Darlux</name>
+	</wpt>
+	<wpt lon="9.78386121" lat="46.6219933">
+		<ele>2400</ele>
+		<name>Darlux</name>
+	</wpt>
+	<wpt lon="7.11058471" lat="46.1749305">
+		<ele>2700</ele>
+		<name>Dent de Fully</name>
+	</wpt>
+	<wpt lon="6.97670724" lat="46.44188825">
+		<ele>1758</ele>
+		<name>Dent de Jaman</name>
+	</wpt>
+	<wpt lon="6.97478693" lat="46.43514258">
+		<ele>1780</ele>
+		<name>Dent de Jaman</name>
+	</wpt>
+	<wpt lon="8.49891088" lat="47.025791">
+		<ele>1680</ele>
+		<name>Dossen</name>
+	</wpt>
+	<wpt lon="8.49827987" lat="47.02714621">
+		<ele>1680</ele>
+		<name>Dossen</name>
+	</wpt>
+	<wpt lon="9.49772489" lat="46.80794963">
+		<ele>2070</ele>
+		<name>Dreibündenstein</name>
+	</wpt>
+	<wpt lon="9.49562295" lat="46.8043881">
+		<ele>2170</ele>
+		<name>Dreibündenstein</name>
+	</wpt>
+	<wpt lon="9.49889691" lat="46.8043291">
+		<ele>2120</ele>
+		<name>Dreibündenstein</name>
+	</wpt>
+	<wpt lon="7.18362284" lat="46.18772178">
+		<ele>950</ele>
+		<name>Dugny</name>
+	</wpt>
+	<wpt lon="9.11974812" lat="47.14703267">
+		<ele>1110</ele>
+		<name>Durschlegi</name>
+	</wpt>
+	<wpt lon="9.4128459" lat="47.28279939">
+		<ele>1600</ele>
+		<name>Ebenalp Südstartplatz</name>
+	</wpt>
+	<wpt lon="9.41056878" lat="47.28415198">
+		<ele>1580</ele>
+		<name>Ebenalp Schulstartplatz</name>
+	</wpt>
+	<wpt lon="8.46051981" lat="47.04772922">
+		<ele>1560</ele>
+		<name>Edelweissmatte NW</name>
+	</wpt>
+	<wpt lon="8.4594297409057" lat="47.046411216558">
+		<ele>1560</ele>
+		<name>Edelweissmatte Süd</name>
+	</wpt>
+	<wpt lon="8.72118598" lat="46.77566923">
+		<ele>1430</ele>
+		<name>Egg</name>
+	</wpt>
+	<wpt lon="7.80006745" lat="46.19757865">
+		<ele>1960</ele>
+		<name>Egga</name>
+	</wpt>
+	<wpt lon="7.78971848" lat="46.19986018">
+		<ele>2300</ele>
+		<name>Egga</name>
+	</wpt>
+	<wpt lon="7.78452227" lat="46.19762728">
+		<ele>2320</ele>
+		<name>Egga</name>
+	</wpt>
+	<wpt lon="9.690686452389" lat="46.998454647262">
+		<ele>1700</ele>
+		<name>Eggli</name>
+	</wpt>
+	<wpt lon="7.97109" lat="46.57543">
+		<ele>2300</ele>
+		<name>Eigergletscher</name>
+	</wpt>
+	<wpt lon="8.05351027" lat="46.78751117">
+		<ele>2100</ele>
+		<name>Eisee</name>
+	</wpt>
+	<wpt lon="7.64197165" lat="46.53126193">
+		<ele>2160</ele>
+		<name>Elsighorn</name>
+	</wpt>
+	<wpt lon="7.64261319" lat="46.52856209">
+		<ele>2150</ele>
+		<name>Elsighorn</name>
+	</wpt>
+	<wpt lon="7.63152666" lat="46.52633252">
+		<ele>2100</ele>
+		<name>Elsighorn</name>
+	</wpt>
+	<wpt lon="7.024004745483" lat="46.297292">
+		<ele>1161</ele>
+		<name>En Curnaux ("Chez Marcel")</name>
+	</wpt>
+	<wpt lon="8.64364154" lat="47.05584901">
+		<ele>1210</ele>
+		<name>Engelstock</name>
+	</wpt>
+	<wpt lon="7.5642261" lat="46.44861461">
+		<ele>1960</ele>
+		<name>Engstligenalp</name>
+	</wpt>
+	<wpt lon="8.38621279" lat="46.86440144">
+		<ele>1110</ele>
+		<name>Eschlen</name>
+	</wpt>
+	<wpt lon="8.46574689" lat="46.80524025">
+		<ele>1900</ele>
+		<name>Fürenalp</name>
+	</wpt>
+	<wpt lon="9.23008051" lat="46.79896269">
+		<ele>1150</ele>
+		<name>Falera</name>
+	</wpt>
+	<wpt lon="8.04337856" lat="46.93504801">
+		<ele>1500</ele>
+		<name>Farneren</name>
+	</wpt>
+	<wpt lon="8.03280404" lat="46.92885146">
+		<ele>1500</ele>
+		<name>Farneren</name>
+	</wpt>
+	<wpt lon="7.9988513" lat="46.67468927">
+		<ele>2680</ele>
+		<name>Faulhorn</name>
+	</wpt>
+	<wpt lon="9.49921556" lat="46.64144892">
+		<ele>2440</ele>
+		<name>Feil</name>
+	</wpt>
+	<wpt lon="9.4986142" lat="46.64280959">
+		<ele>2400</ele>
+		<name>Feil</name>
+	</wpt>
+	<wpt lon="9.50947326" lat="46.65341108">
+		<ele>2200</ele>
+		<name>Feil</name>
+	</wpt>
+	<wpt lon="7.64121564" lat="46.5033768">
+		<ele>2520</ele>
+		<name>First</name>
+	</wpt>
+	<wpt lon="7.40609258" lat="46.46307239">
+		<ele>2070</ele>
+		<name>Flöschhorn</name>
+	</wpt>
+	<wpt lon="7.40609258" lat="46.46307239">
+		<ele>2070</ele>
+		<name>Flöschhorn</name>
+	</wpt>
+	<wpt lon="8.0604723" lat="46.31249268">
+		<ele>2270</ele>
+		<name>Fleschboden</name>
+	</wpt>
+	<wpt lon="9.27011228" lat="47.07456568">
+		<ele>1920</ele>
+		<name>Flumserberg Maschgenkamm</name>
+	</wpt>
+	<wpt lon="9.26825382" lat="47.07413643">
+		<ele>1930</ele>
+		<name>Flumserberg Prodkamm</name>
+	</wpt>
+	<wpt lon="8.06641256" lat="46.32100602">
+		<ele>2650</ele>
+		<name>Folluhorn</name>
+	</wpt>
+	<wpt lon="7.25829757" lat="46.08421903">
+		<ele>2320</ele>
+		<name>Fontanet</name>
+	</wpt>
+	<wpt lon="8.82387518" lat="47.00073684">
+		<ele>2200</ele>
+		<name>Forstberg</name>
+	</wpt>
+	<wpt lon="6.867674875259" lat="46.32073857688">
+		<ele>1305</ele>
+		<name>Fracette</name>
+	</wpt>
+	<wpt lon="9.10409027" lat="47.06763735">
+		<ele>1800</ele>
+		<name>Fronalp</name>
+	</wpt>
+	<wpt lon="8.63897614" lat="46.96503666">
+		<ele>1880</ele>
+		<name>Fronalpstock</name>
+	</wpt>
+	<wpt lon="8.637075" lat="46.97037">
+		<ele>1895</ele>
+		<name>Fronalpstock (Nord)</name>
+	</wpt>
+	<wpt lon="8.63750615" lat="46.96865053">
+		<ele>1920</ele>
+		<name>Fronalpstock (Ost)</name>
+	</wpt>
+	<wpt lon="9.4970904" lat="46.77421662">
+		<ele>2450</ele>
+		<name>Fulhorn</name>
+	</wpt>
+	<wpt lon="9.49447269" lat="46.77426378">
+		<ele>2520</ele>
+		<name>Fulhorn</name>
+	</wpt>
+	<wpt lon="9.48916882" lat="46.77255945">
+		<ele>2420</ele>
+		<name>Fulhorn</name>
+	</wpt>
+	<wpt lon="7.94222909" lat="46.81976523">
+		<ele>1580</ele>
+		<name>Gärtle</name>
+	</wpt>
+	<wpt lon="7.78391" lat="46.71443063">
+		<ele>1927</ele>
+		<name>Güggisgrat</name>
+	</wpt>
+	<wpt lon="9.58091525" lat="46.79067212">
+		<ele>2380</ele>
+		<name>Gürgaletsch</name>
+	</wpt>
+	<wpt lon="9.581713" lat="46.79425667">
+		<ele>2420</ele>
+		<name>Gürgaletsch</name>
+	</wpt>
+	<wpt lon="9.58252876" lat="46.79829081">
+		<ele>2400</ele>
+		<name>Gürgaletsch</name>
+	</wpt>
+	<wpt lon="8.61036245" lat="46.64731035">
+		<ele>2080</ele>
+		<name>Gütsch</name>
+	</wpt>
+	<wpt lon="7.51881804" lat="46.54490884">
+		<ele>2020</ele>
+		<name>Galm</name>
+	</wpt>
+	<wpt lon="7.5259894" lat="46.54535334">
+		<ele>2320</ele>
+		<name>Galmschibe</name>
+	</wpt>
+	<wpt lon="8.74183882" lat="46.89868891">
+		<ele>2270</ele>
+		<name>Gamperstock</name>
+	</wpt>
+	<wpt lon="7.75927296" lat="46.41989494">
+		<ele>2480</ele>
+		<name>Gandegg</name>
+	</wpt>
+	<wpt lon="7.35656009" lat="46.50577659">
+		<ele>2070</ele>
+		<name>Gandlouenegrat</name>
+	</wpt>
+	<wpt lon="9.40330975" lat="47.00397109">
+		<ele>2000</ele>
+		<name>Garmil</name>
+	</wpt>
+	<wpt lon="9.84705476" lat="46.91136361">
+		<ele>1900</ele>
+		<name>Geisshorn</name>
+	</wpt>
+	<wpt lon="9.84967882" lat="46.91130836">
+		<ele>2070</ele>
+		<name>Geisshorn</name>
+	</wpt>
+	<wpt lon="8.82265401" lat="46.92787924">
+		<ele>1960</ele>
+		<name>Geissstock</name>
+	</wpt>
+	<wpt lon="8.82265401" lat="46.92787924">
+		<ele>1960</ele>
+		<name>Geissstock</name>
+	</wpt>
+	<wpt lon="8.61159367" lat="46.60413219">
+		<ele>2900</ele>
+		<name>Gemsstock</name>
+	</wpt>
+	<wpt lon="8.1894791" lat="46.77050608">
+		<ele>2030</ele>
+		<name>Gibel</name>
+	</wpt>
+	<wpt lon="8.21721278" lat="46.83239174">
+		<ele>1360</ele>
+		<name>Gibel</name>
+	</wpt>
+	<wpt lon="7.68892586" lat="46.53791502">
+		<ele>1920</ele>
+		<name>Giesenen</name>
+	</wpt>
+	<wpt lon="8.4315384" lat="46.90404939">
+		<ele>1920</ele>
+		<name>Giri</name>
+	</wpt>
+	<wpt lon="8.7306315" lat="46.89656681">
+		<ele>1960</ele>
+		<name>Gisleralp</name>
+	</wpt>
+	<wpt lon="8.59044582" lat="46.87737162">
+		<ele>1360</ele>
+		<name>Gitschenberg</name>
+	</wpt>
+	<wpt lon="8.09800849" lat="46.62443888">
+		<ele>2320</ele>
+		<name>Glecksteinhütte</name>
+	</wpt>
+	<wpt lon="8.49879538" lat="47.01994472">
+		<ele>1370</ele>
+		<name>Gletti</name>
+	</wpt>
+	<wpt lon="8.56124861" lat="47.08142285">
+		<ele>1560</ele>
+		<name>Gnipen</name>
+	</wpt>
+	<wpt lon="9.84404345" lat="46.85877957">
+		<ele>2280</ele>
+		<name>Gotschnagrat</name>
+	</wpt>
+	<wpt lon="9.85109118" lat="46.85503123">
+		<ele>2230</ele>
+		<name>Gotschnagrat</name>
+	</wpt>
+	<wpt lon="8.57757119" lat="47.01289267">
+		<ele>1360</ele>
+		<name>Gottertli</name>
+	</wpt>
+	<wpt lon="7.88825" lat="46.59737">
+		<ele>1600</ele>
+		<name>Grütschalp</name>
+	</wpt>
+	<wpt lon="9.42168034" lat="47.16612026">
+		<ele>1100</ele>
+		<name>Grabserberg</name>
+	</wpt>
+	<wpt lon="7.37522386" lat="47.2564411">
+		<ele>1200</ele>
+		<name>Graitery</name>
+	</wpt>
+	<wpt lon="9.61562953" lat="46.62848432">
+		<ele>2260</ele>
+		<name>Grap Neir</name>
+	</wpt>
+	<wpt lon="9.61831263" lat="46.63023279">
+		<ele>2430</ele>
+		<name>Grap Neir</name>
+	</wpt>
+	<wpt lon="9.216114" lat="46.834722">
+		<ele>2220</ele>
+		<name>Grap Sogn Gion Nord</name>
+	</wpt>
+	<wpt lon="9.215004" lat="46.834442">
+		<ele>2220</ele>
+		<name>Grap Sogn Gion Süd</name>
+	</wpt>
+	<wpt lon="8.03002115" lat="46.37742603">
+		<ele>1900</ele>
+		<name>Greicheralp</name>
+	</wpt>
+	<wpt lon="7.37987741" lat="47.22945969">
+		<ele>1340</ele>
+		<name>Grenchenberg Nord</name>
+	</wpt>
+	<wpt lon="7.68332593" lat="46.55356162">
+		<ele>1750</ele>
+		<name>Grimer</name>
+	</wpt>
+	<wpt lon="8.05528692" lat="46.65661332">
+		<ele>2137</ele>
+		<name>Grindelwald First</name>
+	</wpt>
+	<wpt lon="8.87499691" lat="47.1552706">
+		<ele>1060</ele>
+		<name>Gschwend Galgenen Delta</name>
+	</wpt>
+	<wpt lon="8.87166189" lat="47.15582498">
+		<ele>1080</ele>
+		<name>Gschwend Galgenen Gleitschirm</name>
+	</wpt>
+	<wpt lon="7.994627058506" lat="46.914344987723">
+		<ele>1511</ele>
+		<name>Gsteig</name>
+	</wpt>
+	<wpt lon="7.99460057" lat="46.91689934">
+		<ele>1450</ele>
+		<name>Gsteig</name>
+	</wpt>
+	<wpt lon="9.89889703" lat="46.59526505">
+		<ele>2520</ele>
+		<name>Gualdauna</name>
+	</wpt>
+	<wpt lon="7.76648339" lat="45.99842949">
+		<ele>2700</ele>
+		<name>Gugle</name>
+	</wpt>
+	<wpt lon="8.98743218" lat="46.960291">
+		<ele>2040</ele>
+		<name>Gumengrat</name>
+	</wpt>
+	<wpt lon="8.365202664936" lat="46.902416085943">
+		<ele>1580</ele>
+		<name>Gummen</name>
+	</wpt>
+	<wpt lon="8.07174399" lat="46.77886567">
+		<ele>1560</ele>
+		<name>Gummenalp</name>
+	</wpt>
+	<wpt lon="7.282822430134" lat="46.713520836478">
+		<ele>1416</ele>
+		<name>Gurli</name>
+	</wpt>
+	<wpt lon="8.59688215" lat="46.61690495">
+		<ele>2280</ele>
+		<name>Gurschen</name>
+	</wpt>
+	<wpt lon="8.08887424" lat="46.78776519">
+		<ele>2200</ele>
+		<name>Höch Gumme</name>
+	</wpt>
+	<wpt lon="7.72593905" lat="46.02012929">
+		<ele>2490</ele>
+		<name>Höhbalmenstaffel</name>
+	</wpt>
+	<wpt lon="7.29355807" lat="46.43689706">
+		<ele>1938</ele>
+		<name>Höhi Wispile</name>
+	</wpt>
+	<wpt lon="7.29486042" lat="46.43644893">
+		<ele>1850</ele>
+		<name>Höhi Wispile</name>
+	</wpt>
+	<wpt lon="7.29159781" lat="46.44004301">
+		<ele>1900</ele>
+		<name>Höhi Wispile</name>
+	</wpt>
+	<wpt lon="7.29224478" lat="46.44139319">
+		<ele>1860</ele>
+		<name>Höhi Wispile</name>
+	</wpt>
+	<wpt lon="9.68388347" lat="47.00085418">
+		<ele>1800</ele>
+		<name>Höreli Nord</name>
+	</wpt>
+	<wpt lon="9.68471371" lat="47.00057695">
+		<ele>1800</ele>
+		<name>Höreli Süd</name>
+	</wpt>
+	<wpt lon="9.62140767" lat="46.7714576">
+		<ele>2440</ele>
+		<name>Hörnlihütte</name>
+	</wpt>
+	<wpt lon="9.074655461311" lat="47.189886788374">
+		<ele>1000</ele>
+		<name>Hüsliberg</name>
+	</wpt>
+	<wpt lon="8.04292337" lat="46.8361442">
+		<ele>1910</ele>
+		<name>Haglern</name>
+	</wpt>
+	<wpt lon="8.67275983" lat="46.86256908">
+		<ele>1080</ele>
+		<name>Haldi</name>
+	</wpt>
+	<wpt lon="8.44265142" lat="46.90170349">
+		<ele>1990</ele>
+		<name>Haldigrat</name>
+	</wpt>
+	<wpt lon="8.60689878" lat="47.09131307">
+		<ele>1330</ele>
+		<name>Halsegg</name>
+	</wpt>
+	<wpt lon="8.71995166" lat="46.7788319">
+		<ele>1560</ele>
+		<name>Hanenspil</name>
+	</wpt>
+	<wpt lon="7.91398261" lat="46.11349706">
+		<ele>2300</ele>
+		<name>Hannig Alp</name>
+	</wpt>
+	<wpt lon="7.44986346" lat="47.24116716">
+		<ele>1445</ele>
+		<name>Hasenmatt</name>
+	</wpt>
+	<wpt lon="7.28393356" lat="46.16161858">
+		<ele>2200</ele>
+		<name>Haute-Nendaz / Tracouet</name>
+	</wpt>
+	<wpt lon="8.49799575" lat="47.01275538">
+		<ele>1020</ele>
+		<name>Hinterbergen</name>
+	</wpt>
+	<wpt lon="9.307176" lat="47.154835">
+		<ele>2293</ele>
+		<name>Hinterrugg N</name>
+	</wpt>
+	<wpt lon="9.307176" lat="47.154835">
+		<ele>2293</ele>
+		<name>Hinterrugg S</name>
+	</wpt>
+	<wpt lon="9.304675" lat="47.1535">
+		<ele>2214</ele>
+		<name>Hinterrugg W</name>
+	</wpt>
+	<wpt lon="8.81675024" lat="47.05615094">
+		<ele>1260</ele>
+		<name>Hirsch</name>
+	</wpt>
+	<wpt lon="9.00726939" lat="47.13377725">
+		<ele>1640</ele>
+		<name>Hirzli</name>
+	</wpt>
+	<wpt lon="9.14287968" lat="46.73461451">
+		<ele>2080</ele>
+		<name>Hitzeggen</name>
+	</wpt>
+	<wpt lon="9.13962378" lat="46.73511297">
+		<ele>2040</ele>
+		<name>Hitzeggen</name>
+	</wpt>
+	<wpt lon="9.1554777" lat="46.73982424">
+		<ele>2000</ele>
+		<name>Hitzeggen</name>
+	</wpt>
+	<wpt lon="8.55845694" lat="47.01083181">
+		<ele>1550</ele>
+		<name>Hochflue</name>
+	</wpt>
+	<wpt lon="8.23796395" lat="46.77332565">
+		<ele>2480</ele>
+		<name>Hochstollen</name>
+	</wpt>
+	<wpt lon="8.66540726" lat="47.05786757">
+		<ele>1480</ele>
+		<name>Hochstuckli</name>
+	</wpt>
+	<wpt lon="7.74768035" lat="46.42625107">
+		<ele>3023</ele>
+		<name>Hockenhorngrat</name>
+	</wpt>
+	<wpt lon="8.22008751" lat="46.75950572">
+		<ele>1950</ele>
+		<name>Hohbiel</name>
+	</wpt>
+	<wpt lon="9.48600966" lat="47.28568921">
+		<ele>1680</ele>
+		<name>Hoher Kasten</name>
+	</wpt>
+	<wpt lon="9.48822439" lat="47.28826817">
+		<ele>1700</ele>
+		<name>Hoher Kasten Oststartplatz</name>
+	</wpt>
+	<wpt lon="9.486453" lat="47.28690501">
+		<ele>1680</ele>
+		<name>Hoher Kasten Schulstartplatz</name>
+	</wpt>
+	<wpt lon="9.48542136" lat="47.28758915">
+		<ele>1560</ele>
+		<name>Hoher Kasten Starkwindstartplatz</name>
+	</wpt>
+	<wpt lon="8.26585152" lat="46.8414959">
+		<ele>1920</ele>
+		<name>Hohmad</name>
+	</wpt>
+	<wpt lon="7.31841498" lat="46.66964219">
+		<ele>1770</ele>
+		<name>Hohmattli</name>
+	</wpt>
+	<wpt lon="7.31972016" lat="46.6703632">
+		<ele>1760</ele>
+		<name>Hohmattli</name>
+	</wpt>
+	<wpt lon="8.37453655" lat="46.90947722">
+		<ele>1470</ele>
+		<name>Horn</name>
+	</wpt>
+	<wpt lon="7.31165531" lat="46.48774405">
+		<ele>1810</ele>
+		<name>Hornflue</name>
+	</wpt>
+	<wpt lon="7.31361095" lat="46.48684666">
+		<ele>1810</ele>
+		<name>Hornflue</name>
+	</wpt>
+	<wpt lon="7.61938912" lat="46.20880667">
+		<ele>2360</ele>
+		<name>Hotel Weisshorn</name>
+	</wpt>
+	<wpt lon="7.61809341" lat="46.20880873">
+		<ele>2320</ele>
+		<name>Hotel Weisshorn</name>
+	</wpt>
+	<wpt lon="7.61873383" lat="46.20655881">
+		<ele>2380</ele>
+		<name>Hotel Weisshorn</name>
+	</wpt>
+	<wpt lon="7.81311692" lat="46.39993945">
+		<ele>2370</ele>
+		<name>Howitzen</name>
+	</wpt>
+	<wpt lon="8.67757372" lat="46.90075187">
+		<ele>1840</ele>
+		<name>Hueenderegg</name>
+	</wpt>
+	<wpt lon="7.26597047" lat="46.51961831">
+		<ele>1890</ele>
+		<name>Hugeligrat</name>
+	</wpt>
+	<wpt lon="8.77173005" lat="47.09851518">
+		<ele>1330</ele>
+		<name>Hummel Oben</name>
+	</wpt>
+	<wpt lon="8.774581" lat="47.103949">
+		<ele>1020</ele>
+		<name>Hummel Unter</name>
+	</wpt>
+	<wpt lon="8.77107758" lat="46.99281571">
+		<ele>1680</ele>
+		<name>Ilgisalp</name>
+	</wpt>
+	<wpt lon="9.84544288" lat="46.77280358">
+		<ele>2560</ele>
+		<name>Jakobshorn</name>
+	</wpt>
+	<wpt lon="9.80145142" lat="46.74042431">
+		<ele>2040</ele>
+		<name>Jatzmeder</name>
+	</wpt>
+	<wpt lon="9.80361055" lat="46.74487935">
+		<ele>2090</ele>
+		<name>Jatzmeder</name>
+	</wpt>
+	<wpt lon="9.56913582" lat="46.80754013">
+		<ele>2030</ele>
+		<name>Joch</name>
+	</wpt>
+	<wpt lon="8.50197088" lat="46.9146621">
+		<ele>2060</ele>
+		<name>Jochli Stock</name>
+	</wpt>
+	<wpt lon="7.97581537" lat="46.54771684">
+		<ele>3460</ele>
+		<name>Jungfraujoch</name>
+	</wpt>
+	<wpt lon="8.21808519" lat="46.75682063">
+		<ele>1820</ele>
+		<name>Käserstatt</name>
+	</wpt>
+	<wpt lon="8.09468699" lat="46.40450796">
+		<ele>2170</ele>
+		<name>Kühboden Galfera</name>
+	</wpt>
+	<wpt lon="8.10709697" lat="46.41433106">
+		<ele>2250</ele>
+		<name>Kühboden Heimatt</name>
+	</wpt>
+	<wpt lon="8.10192125" lat="46.41121285">
+		<ele>2280</ele>
+		<name>Kühboden Seilbahn</name>
+	</wpt>
+	<wpt lon="9.0829566" lat="47.10842818">
+		<ele>660</ele>
+		<name>Kerenzerberg</name>
+	</wpt>
+	<wpt lon="8.68271504" lat="47.03788978">
+		<ele>1700</ele>
+		<name>Kl. Mythen</name>
+	</wpt>
+	<wpt lon="7.94507123" lat="46.60633036">
+		<ele>2240</ele>
+		<name>Klein Tschuggen</name>
+	</wpt>
+	<wpt lon="8.800233900547" lat="46.99948337529">
+		<ele>1880</ele>
+		<name>Kleiner Sternen</name>
+	</wpt>
+	<wpt lon="8.476128566265" lat="46.940234278747">
+		<ele>1590</ele>
+		<name>Klewenalp</name>
+	</wpt>
+	<wpt lon="7.96853318" lat="46.13664296">
+		<ele>2500</ele>
+		<name>Kreuzboden</name>
+	</wpt>
+	<wpt lon="9.32710836" lat="47.29157727">
+		<ele>1640</ele>
+		<name>Kronberg</name>
+	</wpt>
+	<wpt lon="9.32863906" lat="47.29111133">
+		<ele>1640</ele>
+		<name>Kronberg Nordstartplatz</name>
+	</wpt>
+	<wpt lon="9.32863906" lat="47.29111133">
+		<ele>1640</ele>
+		<name>Kronberg Südstartplatz</name>
+	</wpt>
+	<wpt lon="8.491342055798" lat="47.053037283411">
+		<ele>1652</ele>
+		<name>Kulmhütte (Kreuz)</name>
+	</wpt>
+	<wpt lon="7.11559286" lat="46.16890887">
+		<ele>2080</ele>
+		<name>La Baye</name>
+	</wpt>
+	<wpt lon="7.47564726" lat="46.32993583">
+		<ele>2130</ele>
+		<name>La Chaux</name>
+	</wpt>
+	<wpt lon="6.4867441" lat="46.78000074">
+		<ele>1280</ele>
+		<name>La Cotelette</name>
+	</wpt>
+	<wpt lon="6.85713117" lat="46.30461064">
+		<ele>1630</ele>
+		<name>La Jorette</name>
+	</wpt>
+	<wpt lon="7.5718802" lat="46.12071627">
+		<ele>2120</ele>
+		<name>La Meina</name>
+	</wpt>
+	<wpt lon="6.54987712" lat="46.87288874">
+		<ele>1360</ele>
+		<name>La Robella</name>
+	</wpt>
+	<wpt lon="6.74833914" lat="46.92874437">
+		<ele>1380</ele>
+		<name>La Roche-Devant</name>
+	</wpt>
+	<wpt lon="7.61235304" lat="46.23715382">
+		<ele>2460</ele>
+		<name>La Rotsé</name>
+	</wpt>
+	<wpt lon="7.04421254" lat="46.55010051">
+		<ele>1620</ele>
+		<name>La Vudalla</name>
+	</wpt>
+	<wpt lon="7.04615855" lat="46.55145659">
+		<ele>1620</ele>
+		<name>La Vudalla</name>
+	</wpt>
+	<wpt lon="7.1126899" lat="46.54626926">
+		<ele>1350</ele>
+		<name>Lévanchy</name>
+	</wpt>
+	<wpt lon="6.90995374" lat="46.47893869">
+		<ele>1280</ele>
+		<name>Lally</name>
+	</wpt>
+	<wpt lon="9.92048123" lat="46.4966952">
+		<ele>2560</ele>
+		<name>Las Sours</name>
+	</wpt>
+	<wpt lon="7.94754622" lat="46.59192611">
+		<ele>2470</ele>
+		<name>Lauberhorn</name>
+	</wpt>
+	<wpt lon="7.94618229" lat="46.58563517">
+		<ele>2310</ele>
+		<name>Lauberhornschulter</name>
+	</wpt>
+	<wpt lon="7.94618229" lat="46.58563517">
+		<ele>2310</ele>
+		<name>Lauberhornschulter</name>
+	</wpt>
+	<wpt lon="8.42094621" lat="46.7912403">
+		<ele>2300</ele>
+		<name>Laubersgrat</name>
+	</wpt>
+	<wpt lon="8.71638205" lat="46.95970177">
+		<ele>1600</ele>
+		<name>Laubgarten</name>
+	</wpt>
+	<wpt lon="7.929105" lat="46.667026">
+		<ele>2030</ele>
+		<name>Laucherehüttli</name>
+	</wpt>
+	<wpt lon="7.77157755" lat="46.41131359">
+		<ele>2000</ele>
+		<name>Lauchernalp</name>
+	</wpt>
+	<wpt lon="7.35405766" lat="46.43965694">
+		<ele>2470</ele>
+		<name>Lauenehorn</name>
+	</wpt>
+	<wpt lon="9.43658222" lat="46.97910143">
+		<ele>2220</ele>
+		<name>Laufböden</name>
+	</wpt>
+	<wpt lon="7.64502371" lat="47.33227754">
+		<ele>1020</ele>
+		<name>Laupersdörfer Stierenberg</name>
+	</wpt>
+	<wpt lon="8.44655459" lat="46.89986999">
+		<ele>2090</ele>
+		<name>Lauwistock</name>
+	</wpt>
+	<wpt lon="7.138339" lat="47.173289">
+		<ele>1123</ele>
+		<name>Le Cernil</name>
+	</wpt>
+	<wpt lon="7.06206857" lat="46.32616762">
+		<ele>2100</ele>
+		<name>Le Chamossaire</name>
+	</wpt>
+	<wpt lon="7.0620748" lat="46.32526807">
+		<ele>2050</ele>
+		<name>Le Chamossaire</name>
+	</wpt>
+	<wpt lon="7.06338258" lat="46.32392305">
+		<ele>1980</ele>
+		<name>Le Chamossaire</name>
+	</wpt>
+	<wpt lon="6.94447684" lat="46.47729494">
+		<ele>1520</ele>
+		<name>Le Folly</name>
+	</wpt>
+	<wpt lon="7.01684202" lat="46.54865296">
+		<ele>2000</ele>
+		<name>Le Moléson</name>
+	</wpt>
+	<wpt lon="7.01751142" lat="46.54640651">
+		<ele>2000</ele>
+		<name>Le Moléson</name>
+	</wpt>
+	<wpt lon="6.46646373" lat="46.77249812">
+		<ele>1590</ele>
+		<name>Le Suchet</name>
+	</wpt>
+	<wpt lon="9.15101075" lat="46.61977259">
+		<ele>2220</ele>
+		<name>Leisalp</name>
+	</wpt>
+	<wpt lon="7.26664807" lat="46.10087375">
+		<ele>2660</ele>
+		<name>Les Attelas</name>
+	</wpt>
+	<wpt lon="7.20816154" lat="46.3238603">
+		<ele>2880</ele>
+		<name>Les Diablerets</name>
+	</wpt>
+	<wpt lon="7.12052048" lat="46.54494207">
+		<ele>1700</ele>
+		<name>Les Merlas</name>
+	</wpt>
+	<wpt lon="7.25116428" lat="46.09095403">
+		<ele>2170</ele>
+		<name>Les Ruinettes</name>
+	</wpt>
+	<wpt lon="9.02790312" lat="46.98504554">
+		<ele>1660</ele>
+		<name>Leuggelstock</name>
+	</wpt>
+	<wpt lon="8.296069046482" lat="46.86994723978">
+		<ele>1541</ele>
+		<name>Linderen</name>
+	</wpt>
+	<wpt lon="8.29579826" lat="46.86970236">
+		<ele>1540</ele>
+		<name>Linderenalp</name>
+	</wpt>
+	<wpt lon="8.29579826" lat="46.86970236">
+		<ele>1540</ele>
+		<name>Linderenalp</name>
+	</wpt>
+	<wpt lon="9.427580702377" lat="46.650754468062">
+		<ele>1570</ele>
+		<name>Lohn</name>
+	</wpt>
+	<wpt lon="7.16391043" lat="46.2132681">
+		<ele>1850</ele>
+		<name>Loutze</name>
+	</wpt>
+	<wpt lon="7.80990579" lat="46.69096046">
+		<ele>1060</ele>
+		<name>Luegibrüggli</name>
+	</wpt>
+	<wpt lon="8.19431956" lat="46.78891564">
+		<ele>1720</ele>
+		<name>Lungern Hütstett</name>
+	</wpt>
+	<wpt lon="8.09908896" lat="46.7877066">
+		<ele>2000</ele>
+		<name>Lungern Schönbüel</name>
+	</wpt>
+	<wpt lon="7.50926164" lat="46.71493112">
+		<ele>1410</ele>
+		<name>Möntschelealp</name>
+	</wpt>
+	<wpt lon="7.60915968" lat="46.58773633">
+		<ele>1750</ele>
+		<name>Mägisserenegg</name>
+	</wpt>
+	<wpt lon="7.59914667" lat="46.59474946">
+		<ele>2260</ele>
+		<name>Mägisserhorn</name>
+	</wpt>
+	<wpt lon="7.59914667" lat="46.59474946">
+		<ele>2260</ele>
+		<name>Mägisserhorn</name>
+	</wpt>
+	<wpt lon="7.93865747" lat="46.61850296">
+		<ele>2340</ele>
+		<name>Männlichen</name>
+	</wpt>
+	<wpt lon="7.41391621" lat="46.43473816">
+		<ele>1936</ele>
+		<name>Mülkerblatte</name>
+	</wpt>
+	<wpt lon="7.89507467" lat="46.55931413">
+		<ele>1600</ele>
+		<name>Mürren</name>
+	</wpt>
+	<wpt lon="7.887155" lat="46.556014">
+		<ele>1680</ele>
+		<name>Mürren</name>
+	</wpt>
+	<wpt lon="7.90527581" lat="46.83498953">
+		<ele>1480</ele>
+		<name>Marbachegg</name>
+	</wpt>
+	<wpt lon="7.90263105" lat="46.83230164">
+		<ele>1480</ele>
+		<name>Marbachegg</name>
+	</wpt>
+	<wpt lon="9.53151418" lat="46.58146813">
+		<ele>2600</ele>
+		<name>Martegnas</name>
+	</wpt>
+	<wpt lon="9.53262678" lat="46.57649833">
+		<ele>2600</ele>
+		<name>Martegnas</name>
+	</wpt>
+	<wpt lon="6.61188" lat="46.85425">
+		<ele>1176</ele>
+		<name>Mauborget</name>
+	</wpt>
+	<wpt lon="6.883591103" lat="46.314286325507">
+		<ele>890</ele>
+		<name>Mayen</name>
+	</wpt>
+	<wpt lon="7.34631539" lat="46.18726114">
+		<ele>1615</ele>
+		<name>Mayens de Veysonnaz</name>
+	</wpt>
+	<wpt lon="7.88388177" lat="46.62547701">
+		<ele>1660</ele>
+		<name>Mederalp</name>
+	</wpt>
+	<wpt lon="8.26777277" lat="46.77896053">
+		<ele>1900</ele>
+		<name>Melchsee-Frutt Daempfelsmatt</name>
+	</wpt>
+	<wpt lon="7.4919914" lat="46.44372394">
+		<ele>2060</ele>
+		<name>Metschstand</name>
+	</wpt>
+	<wpt lon="7.49589679" lat="46.44507138">
+		<ele>2090</ele>
+		<name>Metschstand</name>
+	</wpt>
+	<wpt lon="8.78010941" lat="46.88070347">
+		<ele>1840</ele>
+		<name>Mettenen</name>
+	</wpt>
+	<wpt lon="8.78672425" lat="46.8828749">
+		<ele>2040</ele>
+		<name>Mettener Butzli</name>
+	</wpt>
+	<wpt lon="8.18638218" lat="46.97203053">
+		<ele>1850</ele>
+		<name>Mittagguepfi</name>
+	</wpt>
+	<wpt lon="7.48787275" lat="46.20714132">
+		<ele>2640</ele>
+		<name>Mont Noble</name>
+	</wpt>
+	<wpt lon="7.48398911" lat="46.21119095">
+		<ele>2440</ele>
+		<name>Mont Noble</name>
+	</wpt>
+	<wpt lon="7.4267376" lat="47.29963169">
+		<ele>1220</ele>
+		<name>Mont Raimeux</name>
+	</wpt>
+	<wpt lon="6.993984" lat="47.158457">
+		<ele>1173</ele>
+		<name>Mont Soleil</name>
+	</wpt>
+	<wpt lon="7.33156505" lat="47.28744004">
+		<ele>1080</ele>
+		<name>Montagne de Moutier</name>
+	</wpt>
+	<wpt lon="7.31452902" lat="47.2235613">
+		<ele>1220</ele>
+		<name>Montagne de Sorvilier</name>
+	</wpt>
+	<wpt lon="9.59038962" lat="46.86383398">
+		<ele>2260</ele>
+		<name>Montalin</name>
+	</wpt>
+	<wpt lon="9.59311968" lat="46.8664822">
+		<ele>2230</ele>
+		<name>Montalin</name>
+	</wpt>
+	<wpt lon="9.59514035" lat="46.86779393">
+		<ele>2230</ele>
+		<name>Montalin</name>
+	</wpt>
+	<wpt lon="9.5830895" lat="46.86172142">
+		<ele>2050</ele>
+		<name>Montalin</name>
+	</wpt>
+	<wpt lon="9.06199747" lat="45.87339018">
+		<ele>1325</ele>
+		<name>Monte Bisbino (Italien)</name>
+	</wpt>
+	<wpt lon="9.02173788" lat="45.92884675">
+		<ele>1600</ele>
+		<name>Monte Generoso</name>
+	</wpt>
+	<wpt lon="9.01327768" lat="45.92383721">
+		<ele>1600</ele>
+		<name>Monte Generoso</name>
+	</wpt>
+	<wpt lon="8.83247763" lat="46.0406624">
+		<ele>1620</ele>
+		<name>Monte Lema</name>
+	</wpt>
+	<wpt lon="8.89328723" lat="46.11681808">
+		<ele>1520</ele>
+		<name>Monte Tamaro</name>
+	</wpt>
+	<wpt lon="7.23075496" lat="47.20680037">
+		<ele>1250</ele>
+		<name>Montoz</name>
+	</wpt>
+	<wpt lon="7.21557633" lat="47.20677198">
+		<ele>1260</ele>
+		<name>Montoz</name>
+	</wpt>
+	<wpt lon="8.98573169" lat="46.20601092">
+		<ele>1380</ele>
+		<name>Mornera</name>
+	</wpt>
+	<wpt lon="8.65878599" lat="47.05613889">
+		<ele>1270</ele>
+		<name>Mostelegg</name>
+	</wpt>
+	<wpt lon="9.5882047" lat="46.75993917">
+		<ele>2240</ele>
+		<name>Motta</name>
+	</wpt>
+	<wpt lon="9.59821636" lat="46.76469956">
+		<ele>2590</ele>
+		<name>Motta</name>
+	</wpt>
+	<wpt lon="9.59372627" lat="46.76703413">
+		<ele>2520</ele>
+		<name>Motta</name>
+	</wpt>
+	<wpt lon="10.27316505" lat="46.80999545">
+		<ele>2120</ele>
+		<name>Motta Naluns</name>
+	</wpt>
+	<wpt lon="10.27455358" lat="46.8122113">
+		<ele>2150</ele>
+		<name>Motta Naluns</name>
+	</wpt>
+	<wpt lon="9.41763034" lat="46.98212962">
+		<ele>2180</ele>
+		<name>Muggerchamm</name>
+	</wpt>
+	<wpt lon="9.95466314" lat="46.41899097">
+		<ele>3120</ele>
+		<name>Munt Pers</name>
+	</wpt>
+	<wpt lon="9.90853551" lat="46.5919062">
+		<ele>2480</ele>
+		<name>Muntische</name>
+	</wpt>
+	<wpt lon="8.43664908" lat="46.9318925">
+		<ele>1750</ele>
+		<name>Musenalp</name>
+	</wpt>
+	<wpt lon="9.45210338" lat="46.79706485">
+		<ele>1970</ele>
+		<name>Mutta</name>
+	</wpt>
+	<wpt lon="9.45478956" lat="46.79881715">
+		<ele>1980</ele>
+		<name>Mutta</name>
+	</wpt>
+	<wpt lon="8.155691027641" lat="46.437612903042">
+		<ele>1680</ele>
+		<name>Mutti</name>
+	</wpt>
+	<wpt lon="9.47445877" lat="46.67788838">
+		<ele>1900</ele>
+		<name>Muttner Höhi</name>
+	</wpt>
+	<wpt lon="9.48579616" lat="46.64933972">
+		<ele>2400</ele>
+		<name>Muttnerhorn</name>
+	</wpt>
+	<wpt lon="7.41642156" lat="46.6713226">
+		<ele>1760</ele>
+		<name>Nässli</name>
+	</wpt>
+	<wpt lon="8.6070389" lat="46.64464552">
+		<ele>1880</ele>
+		<name>Naetschen</name>
+	</wpt>
+	<wpt lon="9.267781" lat="46.860828">
+		<ele>1850</ele>
+		<name>Naraus</name>
+	</wpt>
+	<wpt lon="9.27139" lat="46.859718">
+		<ele>1870</ele>
+		<name>Naraus Schulstartplatz</name>
+	</wpt>
+	<wpt lon="7.55941828" lat="47.27033687">
+		<ele>1160</ele>
+		<name>Niderwiler Stierenberg</name>
+	</wpt>
+	<wpt lon="8.53675955" lat="46.94671984">
+		<ele>1580</ele>
+		<name>Niederbauen</name>
+	</wpt>
+	<wpt lon="7.77341942" lat="46.70996411">
+		<ele>1920</ele>
+		<name>Niederhorn</name>
+	</wpt>
+	<wpt lon="7.77669719" lat="46.71130378">
+		<ele>1920</ele>
+		<name>Niederhorn</name>
+	</wpt>
+	<wpt lon="7.64958013" lat="46.64414295">
+		<ele>2280</ele>
+		<name>Niesen</name>
+	</wpt>
+	<wpt lon="7.6456617" lat="46.64415013">
+		<ele>2280</ele>
+		<name>Niesen</name>
+	</wpt>
+	<wpt lon="8.55777434" lat="47.76111133">
+		<ele>879</ele>
+		<name>Ob Lucken</name>
+	</wpt>
+	<wpt lon="8.2422291" lat="46.83986515">
+		<ele>1360</ele>
+		<name>Ob Mus</name>
+	</wpt>
+	<wpt lon="9.45870103" lat="46.99041135">
+		<ele>1700</ele>
+		<name>Ob Säss</name>
+	</wpt>
+	<wpt lon="8.27036493" lat="46.85360757">
+		<ele>1560</ele>
+		<name>Ober Bueelen</name>
+	</wpt>
+	<wpt lon="8.50436431" lat="46.90294493">
+		<ele>1580</ele>
+		<name>Ober Egg</name>
+	</wpt>
+	<wpt lon="7.62713959" lat="47.3255623">
+		<ele>950</ele>
+		<name>Obere Wängi</name>
+	</wpt>
+	<wpt lon="7.463225126266" lat="46.748572725266">
+		<ele>1532</ele>
+		<name>Oberer Gurnigel</name>
+	</wpt>
+	<wpt lon="7.81507079" lat="46.02526407">
+		<ele>3300</ele>
+		<name>Oberrothorn</name>
+	</wpt>
+	<wpt lon="7.81249732" lat="46.02662196">
+		<ele>3400</ele>
+		<name>Oberrothorn</name>
+	</wpt>
+	<wpt lon="8.7259315" lat="46.89212151">
+		<ele>1700</ele>
+		<name>Obfluee</name>
+	</wpt>
+	<wpt lon="8.75453794" lat="46.85446041">
+		<ele>1800</ele>
+		<name>Obsaum</name>
+	</wpt>
+	<wpt lon="7.69658237" lat="46.50326465">
+		<ele>1720</ele>
+		<name>Oeschinen</name>
+	</wpt>
+	<wpt lon="9.60251162" lat="46.74122112">
+		<ele>2800</ele>
+		<name>Parpaner Rothorn</name>
+	</wpt>
+	<wpt lon="9.60452782" lat="46.7425327">
+		<ele>2890</ele>
+		<name>Parpaner Rothorn</name>
+	</wpt>
+	<wpt lon="9.8272323" lat="46.81998397">
+		<ele>2160</ele>
+		<name>Parsenn</name>
+	</wpt>
+	<wpt lon="9.82403749" lat="46.82185063">
+		<ele>2300</ele>
+		<name>Parsenn</name>
+	</wpt>
+	<wpt lon="7.38541188" lat="46.31238793">
+		<ele>2350</ele>
+		<name>Pas de Maimbré</name>
+	</wpt>
+	<wpt lon="7.38735788" lat="46.31373817">
+		<ele>2360</ele>
+		<name>Pas de Maimbré</name>
+	</wpt>
+	<wpt lon="7.51268853" lat="46.35285651">
+		<ele>2400</ele>
+		<name>Petit Mont Bonvin</name>
+	</wpt>
+	<wpt lon="7.51918558" lat="46.35375164">
+		<ele>2470</ele>
+		<name>Petit Mont Bonvin</name>
+	</wpt>
+	<wpt lon="7.52502468" lat="46.34924953">
+		<ele>2380</ele>
+		<name>Petit Mont Bonvin</name>
+	</wpt>
+	<wpt lon="8.86320863" lat="46.921984">
+		<ele>2020</ele>
+		<name>Pfaff</name>
+	</wpt>
+	<wpt lon="8.86455711" lat="46.92331673">
+		<ele>2050</ele>
+		<name>Pfaff</name>
+	</wpt>
+	<wpt lon="7.50784594" lat="46.63082383">
+		<ele>1930</ele>
+		<name>Pfaffen</name>
+	</wpt>
+	<wpt lon="8.05613074" lat="46.61612754">
+		<ele>1410</ele>
+		<name>Pfingstegg</name>
+	</wpt>
+	<wpt lon="8.250567" lat="46.981301">
+		<ele>1878</ele>
+		<name>Pilatus Kapelle</name>
+	</wpt>
+	<wpt lon="8.25548603" lat="46.97920535">
+		<ele>2040</ele>
+		<name>Pilatus Kulm</name>
+	</wpt>
+	<wpt lon="9.9205485" lat="46.81079495">
+		<ele>2570</ele>
+		<name>Pischa</name>
+	</wpt>
+	<wpt lon="10.24340134" lat="46.81772425">
+		<ele>2640</ele>
+		<name>Piz Clünas</name>
+	</wpt>
+	<wpt lon="9.50951966" lat="46.73979721">
+		<ele>2450</ele>
+		<name>Piz Danis</name>
+	</wpt>
+	<wpt lon="9.50683464" lat="46.73804619">
+		<ele>2490</ele>
+		<name>Piz Danis</name>
+	</wpt>
+	<wpt lon="9.79099965" lat="46.62094605">
+		<ele>2480</ele>
+		<name>Piz Darlux</name>
+	</wpt>
+	<wpt lon="10.01759807" lat="46.42882761">
+		<ele>2820</ele>
+		<name>Piz Lagalb</name>
+	</wpt>
+	<wpt lon="10.02024138" lat="46.42966752">
+		<ele>2900</ele>
+		<name>Piz Lagalb</name>
+	</wpt>
+	<wpt lon="10.02024138" lat="46.42966752">
+		<ele>2900</ele>
+		<name>Piz Lagalb</name>
+	</wpt>
+	<wpt lon="9.61909557" lat="46.69816031">
+		<ele>2340</ele>
+		<name>Piz Mulain</name>
+	</wpt>
+	<wpt lon="9.61922627" lat="46.69815781">
+		<ele>2340</ele>
+		<name>Piz Mulain</name>
+	</wpt>
+	<wpt lon="9.15818004" lat="46.74248284">
+		<ele>2040</ele>
+		<name>Piz Mundaun</name>
+	</wpt>
+	<wpt lon="9.16210468" lat="46.74242364">
+		<ele>2040</ele>
+		<name>Piz Mundaun</name>
+	</wpt>
+	<wpt lon="9.82035685" lat="46.41289152">
+		<ele>3430</ele>
+		<name>Piz Murtel</name>
+	</wpt>
+	<wpt lon="9.8203766" lat="46.41334109">
+		<ele>3430</ele>
+		<name>Piz Murtel</name>
+	</wpt>
+	<wpt lon="9.78479275" lat="46.50812906">
+		<ele>2990</ele>
+		<name>Piz Nair</name>
+	</wpt>
+	<wpt lon="9.78990417" lat="46.50577346">
+		<ele>2920</ele>
+		<name>Piz Nair</name>
+	</wpt>
+	<wpt lon="9.51008471" lat="46.72043992">
+		<ele>2300</ele>
+		<name>Piz Scalottas</name>
+	</wpt>
+	<wpt lon="9.51008471" lat="46.72043992">
+		<ele>2300</ele>
+		<name>Piz Scalottas</name>
+	</wpt>
+	<wpt lon="9.5149554" lat="46.72800021">
+		<ele>2160</ele>
+		<name>Piz Scalottas</name>
+	</wpt>
+	<wpt lon="9.51283814" lat="46.72398934">
+		<ele>2160</ele>
+		<name>Piz Scalottas</name>
+	</wpt>
+	<wpt lon="9.42459129" lat="47.01035302">
+		<ele>1300</ele>
+		<name>Pizol Dreieck</name>
+	</wpt>
+	<wpt lon="9.42341013" lat="46.97843047">
+		<ele>2220</ele>
+		<name>Pizol Hütte</name>
+	</wpt>
+	<wpt lon="6.90717675" lat="46.48326172">
+		<ele>1360</ele>
+		<name>Pléiades</name>
+	</wpt>
+	<wpt lon="6.98851557" lat="46.42710165">
+		<ele>1870</ele>
+		<name>Plan d Areine</name>
+	</wpt>
+	<wpt lon="8.25442557" lat="46.73632593">
+		<ele>2240</ele>
+		<name>Planplatten</name>
+	</wpt>
+	<wpt lon="8.25442557" lat="46.73632593">
+		<ele>2240</ele>
+		<name>Planplatten</name>
+	</wpt>
+	<wpt lon="7.1183599" lat="46.1563229">
+		<ele>1050</ele>
+		<name>Planuit</name>
+	</wpt>
+	<wpt lon="8.96940159" lat="46.75461783">
+		<ele>1580</ele>
+		<name>Platta Cotschna</name>
+	</wpt>
+	<wpt lon="8.96372926" lat="46.76234132">
+		<ele>2160</ele>
+		<name>Platta Cotschna</name>
+	</wpt>
+	<wpt lon="7.9409293" lat="46.08999161">
+		<ele>2550</ele>
+		<name>Plattjen</name>
+	</wpt>
+	<wpt lon="8.82704016" lat="46.71640172">
+		<ele>2020</ele>
+		<name>Plaun Tir</name>
+	</wpt>
+	<wpt lon="6.81624459" lat="46.19104544">
+		<ele>2270</ele>
+		<name>Point des Mossettes</name>
+	</wpt>
+	<wpt lon="6.88876414" lat="46.25709081">
+		<ele>2030</ele>
+		<name>Pointe de Bellevue</name>
+	</wpt>
+	<wpt lon="6.88941256" lat="46.25709396">
+		<ele>2030</ele>
+		<name>Pointe de Bellevue</name>
+	</wpt>
+	<wpt lon="6.8703269" lat="46.2839872">
+		<ele>1800</ele>
+		<name>Portes d Onne</name>
+	</wpt>
+	<wpt lon="6.86450255" lat="46.28260844">
+		<ele>1920</ele>
+		<name>Portes d Onne</name>
+	</wpt>
+	<wpt lon="6.8651323" lat="46.2844108">
+		<ele>1900</ele>
+		<name>Portes d Onne</name>
+	</wpt>
+	<wpt lon="9.37400568" lat="46.73857679">
+		<ele>2120</ele>
+		<name>Präzer Alp</name>
+	</wpt>
+	<wpt lon="7.52781525" lat="47.25822296">
+		<ele>1395</ele>
+		<name>Röti</name>
+	</wpt>
+	<wpt lon="8.61504696" lat="47.10247489">
+		<ele>1130</ele>
+		<name>Ramenegg</name>
+	</wpt>
+	<wpt lon="7.70672676" lat="46.57880463">
+		<ele>1470</ele>
+		<name>Ramslauenen</name>
+	</wpt>
+	<wpt lon="8.72975952" lat="46.88758014">
+		<ele>1610</ele>
+		<name>Ratzi-Rietlig</name>
+	</wpt>
+	<wpt lon="7.26274767" lat="46.50881861">
+		<ele>1800</ele>
+		<name>Rellerligrat</name>
+	</wpt>
+	<wpt lon="7.26274767" lat="46.50881861">
+		<ele>1800</ele>
+		<name>Rellerligrat</name>
+	</wpt>
+	<wpt lon="7.61824164" lat="46.25378649">
+		<ele>2530</ele>
+		<name>Remointze</name>
+	</wpt>
+	<wpt lon="7.73767941" lat="46.39611532">
+		<ele>2100</ele>
+		<name>Restialp</name>
+	</wpt>
+	<wpt lon="8.20670407" lat="46.73890597">
+		<ele>1170</ele>
+		<name>Reuti</name>
+	</wpt>
+	<wpt lon="8.7041458" lat="46.80284906">
+		<ele>2200</ele>
+		<name>Riedersegg</name>
+	</wpt>
+	<wpt lon="8.69175656" lat="46.88980179">
+		<ele>1280</ele>
+		<name>Rietlig</name>
+	</wpt>
+	<wpt lon="7.75225455" lat="45.99307274">
+		<ele>2550</ele>
+		<name>Riffelberg</name>
+	</wpt>
+	<wpt lon="7.75354256" lat="45.99261937">
+		<ele>2570</ele>
+		<name>Riffelberg</name>
+	</wpt>
+	<wpt lon="7.76516852" lat="45.99438536">
+		<ele>2700</ele>
+		<name>Riffelberg</name>
+	</wpt>
+	<wpt lon="8.70503276" lat="46.78484607">
+		<ele>2110</ele>
+		<name>Rigg</name>
+	</wpt>
+	<wpt lon="7.29407134" lat="46.65935901">
+		<ele>1450</ele>
+		<name>Riggisalp</name>
+	</wpt>
+	<wpt lon="8.486278045177" lat="47.054901245267">
+		<ele>1751</ele>
+		<name>Rigi Kulm Bahndepot</name>
+	</wpt>
+	<wpt lon="8.486455070972" lat="47.055793000055">
+		<ele>1775</ele>
+		<name>Rigi Kulm SO</name>
+	</wpt>
+	<wpt lon="8.40895134" lat="46.85251604">
+		<ele>2550</ele>
+		<name>Rigidalstock</name>
+	</wpt>
+	<wpt lon="8.35195729" lat="46.93259896">
+		<ele>1680</ele>
+		<name>Rinderalp</name>
+	</wpt>
+	<wpt lon="7.51307171" lat="46.63261964">
+		<ele>1820</ele>
+		<name>Rinderalp</name>
+	</wpt>
+	<wpt lon="7.35851032" lat="46.50847667">
+		<ele>2000</ele>
+		<name>Rinderberg</name>
+	</wpt>
+	<wpt lon="7.36241641" lat="46.51027847">
+		<ele>2000</ele>
+		<name>Rinderberg</name>
+	</wpt>
+	<wpt lon="7.64851654" lat="46.37022792">
+		<ele>2300</ele>
+		<name>Rinderhütte</name>
+	</wpt>
+	<wpt lon="7.65634091" lat="46.37695991">
+		<ele>2500</ele>
+		<name>Rinderhütte</name>
+	</wpt>
+	<wpt lon="7.66348935" lat="46.37694596">
+		<ele>2660</ele>
+		<name>Rinderhalte</name>
+	</wpt>
+	<wpt lon="8.5773767" lat="46.87975147">
+		<ele>2170</ele>
+		<name>Rinderstoeckli</name>
+	</wpt>
+	<wpt lon="9.81375739" lat="46.73746889">
+		<ele>2490</ele>
+		<name>Rinerhorn</name>
+	</wpt>
+	<wpt lon="9.81316291" lat="46.73883121">
+		<ele>2520</ele>
+		<name>Rinerhorn</name>
+	</wpt>
+	<wpt lon="7.53384707" lat="46.19451816">
+		<ele>2853</ele>
+		<name>Roc d'Orzival</name>
+	</wpt>
+	<wpt lon="6.97698517" lat="46.43216495">
+		<ele>2040</ele>
+		<name>Rochers de Naye Antenne</name>
+	</wpt>
+	<wpt lon="6.97809104" lat="46.43216944">
+		<ele>2000</ele>
+		<name>Rochers de Naye Terrasse</name>
+	</wpt>
+	<wpt lon="8.78959202" lat="47.02318703">
+		<ele>1770</ele>
+		<name>Roggenstock</name>
+	</wpt>
+	<wpt lon="8.7882429" lat="47.02185344">
+		<ele>1770</ele>
+		<name>Roggenstock</name>
+	</wpt>
+	<wpt lon="8.64668645" lat="46.92807092">
+		<ele>2070</ele>
+		<name>Rophaien</name>
+	</wpt>
+	<wpt lon="8.545857954025" lat="47.081895800723">
+		<ele>1140</ele>
+		<name>Rosberg</name>
+	</wpt>
+	<wpt lon="7.26160349" lat="46.4602404">
+		<ele>1580</ele>
+		<name>Rossfälli</name>
+	</wpt>
+	<wpt lon="8.704989" lat="47.021978">
+		<ele>1557</ele>
+		<name>Rotenfluh NW</name>
+	</wpt>
+	<wpt lon="8.70164" lat="47.018466">
+		<ele>1556</ele>
+		<name>Rotenfluh S</name>
+	</wpt>
+	<wpt lon="8.41983338" lat="46.83802954">
+		<ele>1740</ele>
+		<name>Ruchweg</name>
+	</wpt>
+	<wpt lon="8.31777623" lat="46.89823243">
+		<ele>1300</ele>
+		<name>Ruedlen</name>
+	</wpt>
+	<wpt lon="8.6916" lat="46.9064">
+		<ele>1870</ele>
+		<name>Ruogig</name>
+	</wpt>
+	<wpt lon="7.65156694" lat="46.48536659">
+		<ele>1850</ele>
+		<name>Ryharts</name>
+	</wpt>
+	<wpt lon="6.19399368" lat="46.15486651">
+		<ele>1090</ele>
+		<name>Saléve </name>
+	</wpt>
+	<wpt lon="6.18831387" lat="46.14850611">
+		<ele>1200</ele>
+		<name>Saléve </name>
+	</wpt>
+	<wpt lon="6.17255518" lat="46.13033715">
+		<ele>1270</ele>
+		<name>Saléve </name>
+	</wpt>
+	<wpt lon="9.83666139" lat="46.8256362">
+		<ele>2530</ele>
+		<name>Salezer Horn</name>
+	</wpt>
+	<wpt lon="9.1379607" lat="46.26703301">
+		<ele>1230</ele>
+		<name>Santa Maria</name>
+	</wpt>
+	<wpt lon="9.69762136" lat="47.01159895">
+		<ele>2300</ele>
+		<name>Sassauna</name>
+	</wpt>
+	<wpt lon="7.5143297" lat="46.13201392">
+		<ele>2740</ele>
+		<name>Sasseneire</name>
+	</wpt>
+	<wpt lon="7.69485154" lat="46.55049572">
+		<ele>2376</ele>
+		<name>Sattelhorn</name>
+	</wpt>
+	<wpt lon="7.69485154" lat="46.55049572">
+		<ele>2376</ele>
+		<name>Sattelhorn</name>
+	</wpt>
+	<wpt lon="7.20902371" lat="46.11966182">
+		<ele>2340</ele>
+		<name>Savoleyres</name>
+	</wpt>
+	<wpt lon="8.67269636" lat="46.91699803">
+		<ele>2040</ele>
+		<name>Schön Chulm</name>
+	</wpt>
+	<wpt lon="9.33628484" lat="47.06133544">
+		<ele>1475</ele>
+		<name>Schönhalde</name>
+	</wpt>
+	<wpt lon="9.141956448539" lat="46.929749681322">
+		<ele>2020</ele>
+		<name>Schabell</name>
+	</wpt>
+	<wpt lon="7.66670276" lat="46.36839366">
+		<ele>2800</ele>
+		<name>Schafberg</name>
+	</wpt>
+	<wpt lon="9.57640486" lat="46.74306306">
+		<ele>1990</ele>
+		<name>Scharmoin</name>
+	</wpt>
+	<wpt lon="8.56788797" lat="46.89648851">
+		<ele>1570</ele>
+		<name>Scharti</name>
+	</wpt>
+	<wpt lon="7.46858549" lat="46.47611675">
+		<ele>2070</ele>
+		<name>Schatthorn</name>
+	</wpt>
+	<wpt lon="8.520057785511" lat="47.027786976028">
+		<ele>1650</ele>
+		<name>Scheidegg</name>
+	</wpt>
+	<wpt lon="8.52064077" lat="47.02693758">
+		<ele>1650</ele>
+		<name>Scheidegg</name>
+	</wpt>
+	<wpt lon="8.54621556" lat="47.02309523">
+		<ele>1370</ele>
+		<name>Scheidegg-Gätterli</name>
+	</wpt>
+	<wpt lon="9.80274381" lat="46.81464364">
+		<ele>2440</ele>
+		<name>Schiahorn</name>
+	</wpt>
+	<wpt lon="9.80480719" lat="46.81685079">
+		<ele>2620</ele>
+		<name>Schiahorn</name>
+	</wpt>
+	<wpt lon="9.80353695" lat="46.81777704">
+		<ele>2700</ele>
+		<name>Schiahorn</name>
+	</wpt>
+	<wpt lon="7.87288584" lat="46.55697213">
+		<ele>2100</ele>
+		<name>Schiltgrat Muerren</name>
+	</wpt>
+	<wpt lon="7.83376964" lat="46.5577444">
+		<ele>2940</ele>
+		<name>Schilthorn</name>
+	</wpt>
+	<wpt lon="7.82334366" lat="46.5586797">
+		<ele>2820</ele>
+		<name>Schilthorn</name>
+	</wpt>
+	<wpt lon="8.11105787" lat="46.93876379">
+		<ele>1780</ele>
+		<name>Schimbrig</name>
+	</wpt>
+	<wpt lon="9.44182094" lat="46.97856009">
+		<ele>2220</ele>
+		<name>Schlösslichopf</name>
+	</wpt>
+	<wpt lon="8.415947914091" lat="46.842144665274">
+		<ele>2080</ele>
+		<name>Schonegg</name>
+	</wpt>
+	<wpt lon="7.98574432" lat="46.69160192">
+		<ele>2190</ele>
+		<name>Schonegg</name>
+	</wpt>
+	<wpt lon="7.98574432" lat="46.69160192">
+		<ele>2190</ele>
+		<name>Schonegg</name>
+	</wpt>
+	<wpt lon="8.03519602" lat="46.78940739">
+		<ele>2300</ele>
+		<name>Schonguetsch</name>
+	</wpt>
+	<wpt lon="9.268180131912" lat="47.142233947501">
+		<ele>1306</ele>
+		<name>Schrina</name>
+	</wpt>
+	<wpt lon="8.84053188" lat="47.05946163">
+		<ele>1390</ele>
+		<name>Schrot</name>
+	</wpt>
+	<wpt lon="8.47472727" lat="47.06784246">
+		<ele>1100</ele>
+		<name>Schwändistock</name>
+	</wpt>
+	<wpt lon="7.6726171" lat="47.28905135">
+		<ele>1090</ele>
+		<name>Schwängimatt</name>
+	</wpt>
+	<wpt lon="7.66328713" lat="46.64231764">
+		<ele>1720</ele>
+		<name>Schwandegg</name>
+	</wpt>
+	<wpt lon="7.54219525" lat="46.49766299">
+		<ele>2020</ele>
+		<name>Schwandfeldspitz</name>
+	</wpt>
+	<wpt lon="7.54024217" lat="46.49811454">
+		<ele>2020</ele>
+		<name>Schwandfeldspitz</name>
+	</wpt>
+	<wpt lon="7.26219846" lat="46.67748514">
+		<ele>1600</ele>
+		<name>Schwyberg</name>
+	</wpt>
+	<wpt lon="7.26024695" lat="46.67478344">
+		<ele>1600</ele>
+		<name>Schwyberg</name>
+	</wpt>
+	<wpt lon="7.913727" lat="46.652406">
+		<ele>1934</ele>
+		<name>Schynige Platte</name>
+	</wpt>
+	<wpt lon="8.45864624" lat="47.06339855">
+		<ele>1030</ele>
+		<name>Seebodenalp</name>
+	</wpt>
+	<wpt lon="7.85820233" lat="46.17668775">
+		<ele>2840</ele>
+		<name>Seetalhorn Nord</name>
+	</wpt>
+	<wpt lon="7.85819195" lat="46.17533844">
+		<ele>2870</ele>
+		<name>Seetalhorn West</name>
+	</wpt>
+	<wpt lon="6.91537074" lat="46.18749977">
+		<ele>2040</ele>
+		<name>Signal de Soi</name>
+	</wpt>
+	<wpt lon="6.91602264" lat="46.187053">
+		<ele>2050</ele>
+		<name>Signal de Soi</name>
+	</wpt>
+	<wpt lon="9.55791447" lat="46.58907836">
+		<ele>2000</ele>
+		<name>Somtgant</name>
+	</wpt>
+	<wpt lon="9.54675744" lat="46.58748586">
+		<ele>2250</ele>
+		<name>Somtgant</name>
+	</wpt>
+	<wpt lon="9.5354441" lat="46.5818457">
+		<ele>2540</ele>
+		<name>Somtgant</name>
+	</wpt>
+	<wpt lon="6.94830563" lat="46.41389117">
+		<ele>1420</ele>
+		<name>Sonchaux</name>
+	</wpt>
+	<wpt lon="7.6036486" lat="46.14541201">
+		<ele>2420</ele>
+		<name>Sorebois</name>
+	</wpt>
+	<wpt lon="7.59653569" lat="46.14722129">
+		<ele>2600</ele>
+		<name>Sorebois</name>
+	</wpt>
+	<wpt lon="7.89698684" lat="46.09197783">
+		<ele>2500</ele>
+		<name>Spielboden</name>
+	</wpt>
+	<wpt lon="8.77128968" lat="47.00135985">
+		<ele>1760</ele>
+		<name>Spirstock</name>
+	</wpt>
+	<wpt lon="8.82450217" lat="47.02501985">
+		<ele>1650</ele>
+		<name>Stöckli</name>
+	</wpt>
+	<wpt lon="9.51205238" lat="46.75459892">
+		<ele>2570</ele>
+		<name>Stätzerhorn</name>
+	</wpt>
+	<wpt lon="8.16064912" lat="46.96409946">
+		<ele>1820</ele>
+		<name>Staefeliflue</name>
+	</wpt>
+	<wpt lon="9.15540767" lat="46.61430776">
+		<ele>1920</ele>
+		<name>Stafelti</name>
+	</wpt>
+	<wpt lon="8.34733875" lat="46.93128631">
+		<ele>1750</ele>
+		<name>Stanserhorn</name>
+	</wpt>
+	<wpt lon="8.1622412" lat="46.44817763">
+		<ele>2400</ele>
+		<name>Steibenkreuz</name>
+	</wpt>
+	<wpt lon="8.25877845" lat="46.97963163">
+		<ele>1950</ele>
+		<name>Steiglihorn</name>
+	</wpt>
+	<wpt lon="8.26076357" lat="46.98051698">
+		<ele>1950</ele>
+		<name>Steiglihorn</name>
+	</wpt>
+	<wpt lon="9.12623373" lat="46.72541446">
+		<ele>2160</ele>
+		<name>Stein</name>
+	</wpt>
+	<wpt lon="9.11579917" lat="46.72646807">
+		<ele>2140</ele>
+		<name>Stein</name>
+	</wpt>
+	<wpt lon="7.64380241" lat="46.49842456">
+		<ele>2100</ele>
+		<name>Steintal</name>
+	</wpt>
+	<wpt lon="9.72377682" lat="46.9615863">
+		<ele>1460</ele>
+		<name>Stels Mottis</name>
+	</wpt>
+	<wpt lon="9.729007" lat="46.965283">
+		<ele>1550</ele>
+		<name>Stelserberg</name>
+	</wpt>
+	<wpt lon="7.53799313" lat="46.69242096">
+		<ele>2050</ele>
+		<name>Stockhorn</name>
+	</wpt>
+	<wpt lon="7.5333058834" lat="46.693077792357">
+		<ele>2035</ele>
+		<name>Strüssligrat</name>
+	</wpt>
+	<wpt lon="9.79054393" lat="46.80544602">
+		<ele>2440</ele>
+		<name>Strela</name>
+	</wpt>
+	<wpt lon="9.7834789" lat="46.80874107">
+		<ele>2630</ele>
+		<name>Strela</name>
+	</wpt>
+	<wpt lon="7.85382011" lat="46.62154248">
+		<ele>2320</ele>
+		<name>Sulegg</name>
+	</wpt>
+	<wpt lon="7.85054588" lat="46.62020502">
+		<ele>2320</ele>
+		<name>Sulegg</name>
+	</wpt>
+	<wpt lon="9.18504298" lat="46.98590871">
+		<ele>2010</ele>
+		<name>Sunnenhoernli</name>
+	</wpt>
+	<wpt lon="8.63234084" lat="46.7847291">
+		<ele>2040</ele>
+		<name>Sunnig Grat</name>
+	</wpt>
+	<wpt lon="8.48075676" lat="46.59908939">
+		<ele>2280</ele>
+		<name>Tätsch</name>
+	</wpt>
+	<wpt lon="8.4120447635" lat="46.838060557525">
+		<ele>1805</ele>
+		<name>Tümpfeli</name>
+	</wpt>
+	<wpt lon="6.8530993" lat="47.05407566">
+		<ele>1420</ele>
+		<name>Tête de Ran</name>
+	</wpt>
+	<wpt lon="8.03697229" lat="46.65446198">
+		<ele>2160</ele>
+		<name>Teufi</name>
+	</wpt>
+	<wpt lon="9.63662949" lat="46.5988338">
+		<ele>2330</ele>
+		<name>Tgant Son Martegn</name>
+	</wpt>
+	<wpt lon="9.63675751" lat="46.60198101">
+		<ele>2460</ele>
+		<name>Tgant Son Martegn</name>
+	</wpt>
+	<wpt lon="9.62621138" lat="46.5994845">
+		<ele>2090</ele>
+		<name>Tgant Son Martegn / Plang Begls</name>
+	</wpt>
+	<wpt lon="9.64028903" lat="46.72070056">
+		<ele>2710</ele>
+		<name>Tgapeala Gotschna</name>
+	</wpt>
+	<wpt lon="9.36161134241" lat="46.62534751143">
+		<ele>2402</ele>
+		<name>Tguma</name>
+	</wpt>
+	<wpt lon="9.56390771" lat="46.59211618">
+		<ele>1800</ele>
+		<name>Tigignas</name>
+	</wpt>
+	<wpt lon="7.60973061" lat="46.22771244">
+		<ele>2160</ele>
+		<name>Tignousa</name>
+	</wpt>
+	<wpt lon="8.43501928" lat="46.77312615">
+		<ele>3200</ele>
+		<name>Titlis</name>
+	</wpt>
+	<wpt lon="6.880023765564" lat="46.319832751149">
+		<ele>1012</ele>
+		<name>Torgon turn</name>
+	</wpt>
+	<wpt lon="7.00067015" lat="46.37182527">
+		<ele>2190</ele>
+		<name>Tour d Ai</name>
+	</wpt>
+	<wpt lon="6.9974212" lat="46.37181268">
+		<ele>2200</ele>
+		<name>Tour d Ai</name>
+	</wpt>
+	<wpt lon="7.54806065" lat="46.49945662">
+		<ele>1920</ele>
+		<name>Tschentenegg</name>
+	</wpt>
+	<wpt lon="9.42305905" lat="47.07561464">
+		<ele>1820</ele>
+		<name>Tschuggen</name>
+	</wpt>
+	<wpt lon="9.42222551" lat="47.08867595">
+		<ele>1770</ele>
+		<name>Tschuggen</name>
+	</wpt>
+	<wpt lon="7.49086675" lat="46.62723465">
+		<ele>2079</ele>
+		<name>Turnen</name>
+	</wpt>
+	<wpt lon="8.12422709" lat="46.78710875">
+		<ele>1560</ele>
+		<name>Turren</name>
+	</wpt>
+	<wpt lon="7.53665805" lat="46.67712973">
+		<ele>1560</ele>
+		<name>Uf em Hus</name>
+	</wpt>
+	<wpt lon="8.28956581" lat="46.5170149">
+		<ele>2140</ele>
+		<name>Ulrichergale</name>
+	</wpt>
+	<wpt lon="8.29089004" lat="46.5183544">
+		<ele>2140</ele>
+		<name>Ulrichergale</name>
+	</wpt>
+	<wpt lon="9.09105322" lat="47.07187434">
+		<ele>1340</ele>
+		<name>Unter Stafel</name>
+	</wpt>
+	<wpt lon="7.79631977" lat="46.02127717">
+		<ele>3100</ele>
+		<name>Unterrothorn</name>
+	</wpt>
+	<wpt lon="7.80022327" lat="46.02576247">
+		<ele>3080</ele>
+		<name>Unterrothorn</name>
+	</wpt>
+	<wpt lon="8.59104591" lat="47.01196647">
+		<ele>1080</ele>
+		<name>Urmiberg</name>
+	</wpt>
+	<wpt lon="7.52899532" lat="46.229335">
+		<ele>2332</ele>
+		<name>Vercorin - Crêt du Midi</name>
+	</wpt>
+	<wpt lon="7.52044322" lat="46.24847512">
+		<ele>1414</ele>
+		<name>Vercorin - La Cure</name>
+	</wpt>
+	<wpt lon="7.52686226" lat="46.24084204">
+		<ele>1905</ele>
+		<name>Vercorin - Sigeroulaz</name>
+	</wpt>
+	<wpt lon="9.59310995" lat="47.01360996">
+		<ele>1920</ele>
+		<name>Vilan</name>
+	</wpt>
+	<wpt lon="9.59522657" lat="47.01716958">
+		<ele>2170</ele>
+		<name>Vilan</name>
+	</wpt>
+	<wpt lon="9.60355458" lat="47.01161356">
+		<ele>2350</ele>
+		<name>Vilan</name>
+	</wpt>
+	<wpt lon="9.5772862" lat="47.02920349">
+		<ele>2100</ele>
+		<name>Vilan</name>
+	</wpt>
+	<wpt lon="9.0382278" lat="47.02268935">
+		<ele>2280</ele>
+		<name>Vorder Glaernisch</name>
+	</wpt>
+	<wpt lon="7.20622229" lat="46.62566022">
+		<ele>1620</ele>
+		<name>Vounetz</name>
+	</wpt>
+	<wpt lon="7.20752606" lat="46.62611265">
+		<ele>1620</ele>
+		<name>Vounetz</name>
+	</wpt>
+	<wpt lon="8.87217717" lat="47.06132005">
+		<ele>1850</ele>
+		<name>Wändlispitz</name>
+	</wpt>
+	<wpt lon="8.71332417" lat="46.85852571">
+		<ele>1920</ele>
+		<name>Wängihorn</name>
+	</wpt>
+	<wpt lon="8.04282072" lat="46.65173239">
+		<ele>1980</ele>
+		<name>Waldspitz</name>
+	</wpt>
+	<wpt lon="8.41316961" lat="46.86822323">
+		<ele>1980</ele>
+		<name>Walegg</name>
+	</wpt>
+	<wpt lon="7.48556157" lat="47.28478184">
+		<ele>1240</ele>
+		<name>Walenmatt</name>
+	</wpt>
+	<wpt lon="7.55236031" lat="46.68611068">
+		<ele>1900</ele>
+		<name>Walpersbärgli</name>
+	</wpt>
+	<wpt lon="8.24721576" lat="46.82273789">
+		<ele>2100</ele>
+		<name>Wandelen</name>
+	</wpt>
+	<wpt lon="8.24721576" lat="46.82273789">
+		<ele>2100</ele>
+		<name>Wandelen</name>
+	</wpt>
+	<wpt lon="8.78934868" lat="46.85675365">
+		<ele>1620</ele>
+		<name>Wannelen</name>
+	</wpt>
+	<wpt lon="8.7852803" lat="46.85140362">
+		<ele>1880</ele>
+		<name>Wanneler Egg</name>
+	</wpt>
+	<wpt lon="7.32539792" lat="46.45537432">
+		<ele>2020</ele>
+		<name>Wasserngrat</name>
+	</wpt>
+	<wpt lon="8.68438397" lat="46.79811809">
+		<ele>1180</ele>
+		<name>Wasserplatten</name>
+	</wpt>
+	<wpt lon="7.44779293" lat="46.71900058">
+		<ele>1640</ele>
+		<name>Wasserscheide</name>
+	</wpt>
+	<wpt lon="7.50930956" lat="47.25104012">
+		<ele>1260</ele>
+		<name>Weissenstein</name>
+	</wpt>
+	<wpt lon="9.63653738" lat="46.78916525">
+		<ele>2600</ele>
+		<name>Weisshorn</name>
+	</wpt>
+	<wpt lon="9.63728374" lat="46.79140063">
+		<ele>2560</ele>
+		<name>Weisshorn</name>
+	</wpt>
+	<wpt lon="7.9422263" lat="46.58115485">
+		<ele>2100</ele>
+		<name>Wengernalp</name>
+	</wpt>
+	<wpt lon="8.73593306" lat="46.78989733">
+		<ele>2380</ele>
+		<name>Widderegg</name>
+	</wpt>
+	<wpt lon="7.40661814" lat="46.67536826">
+		<ele>2020</ele>
+		<name>Widdersgrind</name>
+	</wpt>
+	<wpt lon="7.40661814" lat="46.67536826">
+		<ele>2020</ele>
+		<name>Widdersgrind</name>
+	</wpt>
+	<wpt lon="9.02501161" lat="47.06515823">
+		<ele>2280</ele>
+		<name>Wiggis</name>
+	</wpt>
+	<wpt lon="8.57776428" lat="47.08395906">
+		<ele>1550</ele>
+		<name>Wildspitz</name>
+	</wpt>
+	<wpt lon="8.09987877" lat="46.77735693">
+		<ele>1870</ele>
+		<name>Wilerhorn</name>
+	</wpt>
+	<wpt lon="8.03890318" lat="46.71067544">
+		<ele>1900</ele>
+		<name>Windegg</name>
+	</wpt>
+	<wpt lon="8.03890318" lat="46.71067544">
+		<ele>1900</ele>
+		<name>Windegg</name>
+	</wpt>
+	<wpt lon="7.96713448" lat="46.66020463">
+		<ele>2380</ele>
+		<name>Winteregg</name>
+	</wpt>
+	<wpt lon="7.52930679" lat="46.57998378">
+		<ele>2304</ele>
+		<name>Wiriehorn</name>
+	</wpt>
+	<wpt lon="8.3667547" lat="46.91493809">
+		<ele>1220</ele>
+		<name>Wirzweli</name>
+	</wpt>
+	<wpt lon="8.46978" lat="46.81060164">
+		<ele>2200</ele>
+		<name>Wissberg</name>
+	</wpt>
+	<wpt lon="9.17788946" lat="46.96802269">
+		<ele>1350</ele>
+		<name>Wissenberg</name>
+	</wpt>
+	<wpt lon="9.4552129" lat="46.98507387">
+		<ele>1940</ele>
+		<name>Zaunzegg</name>
+	</wpt>
+	<wpt lon="8.44443505" lat="46.82162282">
+		<ele>1900</ele>
+		<name>Ziebeln</name>
+	</wpt>
+	<wpt lon="9.25095965" lat="47.06901221">
+		<ele>2040</ele>
+		<name>Ziger</name>
+	</wpt>
+	<wpt lon="8.53577419" lat="47.14810287">
+		<ele>950</ele>
+		<name>Zugerberg</name>
+	</wpt>
+</gpx>

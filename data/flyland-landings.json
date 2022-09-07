@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Adelboden Boden",
+    "lon": 7.55974035,
+    "lat": 46.47965441,
+    "alt": 1280
+  },
+  {
+    "name": "Adelboden Dorf",
+    "lon": 7.56171405,
+    "lat": 46.48864791,
+    "alt": 1260
+  },
+  {
+    "name": "Alpnachstad",
+    "lon": 8.273196,
+    "lat": 46.95164098,
+    "alt": 440
+  },
+  {
+    "name": "Aminona",
+    "lon": 7.52564469,
+    "lat": 46.33080803,
+    "alt": 1480
+  },
+  {
+    "name": "Andermatt",
+    "lon": 8.59132547,
+    "lat": 46.63246234,
+    "alt": 1440
+  },
+  {
+    "name": "Arosa Bänkli",
+    "lon": 9.65049475,
+    "lat": 46.77809696,
+    "alt": 2030
+  },
+  {
+    "name": "Arosa Mittler Hütte",
+    "lon": 9.65991644,
+    "lat": 46.78421338,
+    "alt": 1990
+  },
+  {
+    "name": "Arosa Prätschli",
+    "lon": 9.67463293,
+    "lat": 46.79157538,
+    "alt": 1910
+  },
+  {
+    "name": "Ascona  Aerodromo",
+    "lon": 8.78295861,
+    "lat": 46.15462353,
+    "alt": 200
+  },
+  {
+    "name": "Bötzingenmoos",
+    "lon": 7.29883946,
+    "lat": 47.16462772,
+    "alt": 440
+  },
+  {
+    "name": "Bülisau",
+    "lon": 9.45871919,
+    "lat": 47.29657173,
+    "alt": 920
+  },
+  {
+    "name": "Bad-Heustrich",
+    "lon": 7.6837124,
+    "lat": 46.65334011,
+    "alt": 700
+  },
+  {
+    "name": "Baltschieder",
+    "lon": 7.8586,
+    "lat": 46.3071,
+    "alt": 640
+  },
+  {
+    "name": "Basse-Nendaz / Péteré ",
+    "lon": 7.315571594238,
+    "lat": 46.187363692426,
+    "alt": 1006
+  },
+  {
+    "name": "Baulmes",
+    "lon": 6.51028606,
+    "lat": 46.77639814,
+    "alt": 620
+  },
+  {
+    "name": "Beckenried",
+    "lon": 8.46618906,
+    "lat": 46.96581608,
+    "alt": 490
+  },
+  {
+    "name": "Bellinzona nur im Winter (provisorisch)",
+    "lon": 9.00988973,
+    "lat": 46.18993227,
+    "alt": 230
+  },
+  {
+    "name": "Bettlach Ried",
+    "lon": 7.40695985,
+    "lat": 47.20698362,
+    "alt": 600
+  },
+  {
+    "name": "Bidmi",
+    "lon": 8.21858349,
+    "lat": 46.74602215,
+    "alt": 1430
+  },
+  {
+    "name": "Bironico",
+    "lon": 8.93004491,
+    "lat": 46.11264941,
+    "alt": 447
+  },
+  {
+    "name": "Bitsch",
+    "lon": 8.0172,
+    "lat": 46.3343,
+    "alt": 700
+  },
+  {
+    "name": "Blitzingen",
+    "lon": 8.19351084,
+    "lat": 46.43659406,
+    "alt": 1220
+  },
+  {
+    "name": "Blonay",
+    "lon": 6.89271196,
+    "lat": 46.46736947,
+    "alt": 610
+  },
+  {
+    "name": "Blumenstein",
+    "lon": 7.5186329,
+    "lat": 46.72847214,
+    "alt": 740
+  },
+  {
+    "name": "Brügg",
+    "lon": 8.67937,
+    "lat": 46.87723,
+    "alt": 640
+  },
+  {
+    "name": "Brienz Forsthaus",
+    "lon": 8.04970604,
+    "lat": 46.74075387,
+    "alt": 570
+  },
+  {
+    "name": "Brienz Louwenen",
+    "lon": 8.06294663,
+    "lat": 46.75417584,
+    "alt": 660
+  },
+  {
+    "name": "Brig",
+    "lon": 7.9929503,
+    "lat": 46.31104408,
+    "alt": 700
+  },
+  {
+    "name": "Brunnen",
+    "lon": 8.595397,
+    "lat": 46.998559,
+    "alt": 436
+  },
+  {
+    "name": "Brunnen 3",
+    "lon": 8.5914158821105,
+    "lat": 47.000977876015,
+    "alt": 440
+  },
+  {
+    "name": "Bumbach 1",
+    "lon": 7.90862958,
+    "lat": 46.81374633,
+    "alt": 937
+  },
+  {
+    "name": "Bumbach 2",
+    "lon": 7.9044376,
+    "lat": 46.81385345,
+    "alt": 937
+  },
+  {
+    "name": "Bumbach 3",
+    "lon": 7.89368909,
+    "lat": 46.813357,
+    "alt": 920
+  },
+  {
+    "name": "Bumbach 4",
+    "lon": 7.89133824,
+    "lat": 46.81426589,
+    "alt": 920
+  },
+  {
+    "name": "Buttes",
+    "lon": 6.55221711,
+    "lat": 46.88612184,
+    "alt": 790
+  },
+  {
+    "name": "Buttes 2",
+    "lon": 6.56211752,
+    "lat": 46.89051609,
+    "alt": 760
+  },
+  {
+    "name": "Capolago",
+    "lon": 8.97503455,
+    "lat": 45.90250363,
+    "alt": 275
+  },
+  {
+    "name": "Chailly sur Clarens",
+    "lon": 6.88525312,
+    "lat": 46.45577372,
+    "alt": 450
+  },
+  {
+    "name": "Chalais",
+    "lon": 7.506837844849,
+    "lat": 46.271957084312,
+    "alt": 515
+  },
+  {
+    "name": "Champsec",
+    "lon": 7.2360232472419,
+    "lat": 46.05946120849,
+    "alt": 940
+  },
+  {
+    "name": "Charmey",
+    "lon": 7.17035369,
+    "lat": 46.61793513,
+    "alt": 880
+  },
+  {
+    "name": "Court",
+    "lon": 7.34091034,
+    "lat": 47.23707868,
+    "alt": 710
+  },
+  {
+    "name": "Dallenwil 1",
+    "lon": 8.39835407,
+    "lat": 46.92007522,
+    "alt": 500
+  },
+  {
+    "name": "Dallenwil 2",
+    "lon": 8.39587269,
+    "lat": 46.9281923,
+    "alt": 500
+  },
+  {
+    "name": "Dallenwil 3",
+    "lon": 8.39055717,
+    "lat": 46.92463823,
+    "alt": 530
+  },
+  {
+    "name": "Davos Bolgen",
+    "lon": 9.82194882,
+    "lat": 46.78949578,
+    "alt": 1540
+  },
+  {
+    "name": "Davos See",
+    "lon": 9.84731283,
+    "lat": 46.81461259,
+    "alt": 1560
+  },
+  {
+    "name": "Davos Seehöhi",
+    "lon": 9.8387398,
+    "lat": 46.81344308,
+    "alt": 1640
+  },
+  {
+    "name": "Disentis",
+    "lon": 8.84251418,
+    "lat": 46.69776864,
+    "alt": 1160
+  },
+  {
+    "name": "Donat",
+    "lon": 9.433263015708,
+    "lat": 46.629178839797,
+    "alt": 1010
+  },
+  {
+    "name": "Elm",
+    "lon": 9.163063287342,
+    "lat": 46.912838904172,
+    "alt": 1000
+  },
+  {
+    "name": "Emmetten Gruob",
+    "lon": 8.52028045,
+    "lat": 46.95554877,
+    "alt": 780
+  },
+  {
+    "name": "Emmetten Schlüssel",
+    "lon": 8.51648282,
+    "lat": 46.95748271,
+    "alt": 760
+  },
+  {
+    "name": "Engelberg 1",
+    "lon": 8.45384724,
+    "lat": 46.79949907,
+    "alt": 1100
+  },
+  {
+    "name": "Engelberg 3",
+    "lon": 8.4151303768157,
+    "lat": 46.81685343481,
+    "alt": 1040
+  },
+  {
+    "name": "Erlenbach Seewlen",
+    "lon": 7.53008983,
+    "lat": 46.65734501,
+    "alt": 700
+  },
+  {
+    "name": "Fallenbach",
+    "lon": 8.37669869,
+    "lat": 46.88292155,
+    "alt": 540
+  },
+  {
+    "name": "Fanas Hof",
+    "lon": 9.66193293,
+    "lat": 46.98696488,
+    "alt": 960
+  },
+  {
+    "name": "Fiesch",
+    "lon": 8.13707285,
+    "lat": 46.40893285,
+    "alt": 1050
+  },
+  {
+    "name": "Fieschertal",
+    "lon": 8.145080208778,
+    "lat": 46.420608407587,
+    "alt": 1088
+  },
+  {
+    "name": "Fildrich",
+    "lon": 7.5031714,
+    "lat": 46.54356945,
+    "alt": 1380
+  },
+  {
+    "name": "Flüelen",
+    "lon": 8.61976639,
+    "lat": 46.89821411,
+    "alt": 440
+  },
+  {
+    "name": "Flims Foppa",
+    "lon": 9.27077686,
+    "lat": 46.84749048,
+    "alt": 1440
+  },
+  {
+    "name": "Flims Talstation",
+    "lon": 9.281665,
+    "lat": 46.836104,
+    "alt": 1100
+  },
+  {
+    "name": "Flums",
+    "lon": 9.35212599,
+    "lat": 47.08644598,
+    "alt": 444
+  },
+  {
+    "name": "Fontaines",
+    "lon": 6.89356721,
+    "lat": 47.04670986,
+    "alt": 790
+  },
+  {
+    "name": "Frutigen",
+    "lon": 7.65391873,
+    "lat": 46.58566346,
+    "alt": 770
+  },
+  {
+    "name": "Galgenen",
+    "lon": 8.8826608657836,
+    "lat": 47.178030952893,
+    "alt": 435
+  },
+  {
+    "name": "Gampel",
+    "lon": 7.7374,
+    "lat": 46.3137,
+    "alt": 630
+  },
+  {
+    "name": "Glutzenberg",
+    "lon": 7.57208738,
+    "lat": 47.26357697,
+    "alt": 710
+  },
+  {
+    "name": "Goldau",
+    "lon": 8.5439595580101,
+    "lat": 47.051665516373,
+    "alt": 480
+  },
+  {
+    "name": "Grüsch",
+    "lon": 9.65640266,
+    "lat": 46.97883814,
+    "alt": 612
+  },
+  {
+    "name": "Grabs",
+    "lon": 9.45596721,
+    "lat": 47.17654637,
+    "alt": 452
+  },
+  {
+    "name": "Grafenort 1",
+    "lon": 8.372219789028,
+    "lat": 46.868408070503,
+    "alt": 571
+  },
+  {
+    "name": "Grafenort 2",
+    "lon": 8.36769792,
+    "lat": 46.85555731,
+    "alt": 600
+  },
+  {
+    "name": "Grandvillard",
+    "lon": 7.09313618,
+    "lat": 46.54576176,
+    "alt": 740
+  },
+  {
+    "name": "Grindelwald Bodmi",
+    "lon": 8.0438701,
+    "lat": 46.6287875,
+    "alt": 1130
+  },
+  {
+    "name": "Grindelwald Grund",
+    "lon": 8.0294136,
+    "lat": 46.62031736,
+    "alt": 950
+  },
+  {
+    "name": "Grono",
+    "lon": 9.15595996,
+    "lat": 46.24539161,
+    "alt": 310
+  },
+  {
+    "name": "Grossbach",
+    "lon": 8.779957,
+    "lat": 47.107646,
+    "alt": 892
+  },
+  {
+    "name": "Gstaad Gruben",
+    "lon": 7.29081976,
+    "lat": 46.4868193,
+    "alt": 1170
+  },
+  {
+    "name": "Gstaad Wasserngrat",
+    "lon": 7.31299834,
+    "lat": 46.47020407,
+    "alt": 1280
+  },
+  {
+    "name": "Gstaad Wispile",
+    "lon": 7.283610391617,
+    "lat": 46.4617917,
+    "alt": 1050
+  },
+  {
+    "name": "Haute-Nendaz / Les Ecluses",
+    "lon": 7.289462971687,
+    "lat": 46.181384150612,
+    "alt": 1345
+  },
+  {
+    "name": "Hoggen",
+    "lon": 7.49542019,
+    "lat": 47.23305854,
+    "alt": 610
+  },
+  {
+    "name": "Ibach",
+    "lon": 8.65377813,
+    "lat": 47.00941203,
+    "alt": 480
+  },
+  {
+    "name": "Interlaken",
+    "lon": 7.8595396,
+    "lat": 46.68539072,
+    "alt": 570
+  },
+  {
+    "name": "Jakobsbad",
+    "lon": 9.328971,
+    "lat": 47.31952776,
+    "alt": 840
+  },
+  {
+    "name": "Küssnacht Ebnet",
+    "lon": 8.447265,
+    "lat": 47.087609,
+    "alt": 600
+  },
+  {
+    "name": "Küssnacht Eichholtern",
+    "lon": 8.43521962,
+    "lat": 47.06729247,
+    "alt": 470
+  },
+  {
+    "name": "Kandersteg Bütschels",
+    "lon": 7.66313696,
+    "lat": 46.48980617,
+    "alt": 1180
+  },
+  {
+    "name": "Kandersteg Nidermatti",
+    "lon": 7.68223196,
+    "lat": 46.49879848,
+    "alt": 1190
+  },
+  {
+    "name": "Kerns Dossenmatte",
+    "lon": 8.27265599,
+    "lat": 46.89991936,
+    "alt": 560
+  },
+  {
+    "name": "Kerns Sand",
+    "lon": 8.28654554,
+    "lat": 46.90683407,
+    "alt": 560
+  },
+  {
+    "name": "Kiental Bode",
+    "lon": 7.7269762,
+    "lat": 46.58415252,
+    "alt": 920
+  },
+  {
+    "name": "Klosters (Sommer)",
+    "lon": 9.890994429588,
+    "lat": 46.864442159864,
+    "alt": 1187
+  },
+  {
+    "name": "Klosters (Winter)",
+    "lon": 9.888435602188,
+    "lat": 46.865949602968,
+    "alt": 1185
+  },
+  {
+    "name": "Kräbel",
+    "lon": 8.53600629,
+    "lat": 47.03848642,
+    "alt": 720
+  },
+  {
+    "name": "Kriens",
+    "lon": 8.2779789,
+    "lat": 47.03076779,
+    "alt": 500
+  },
+  {
+    "name": "La Jonchère",
+    "lon": 6.88167222,
+    "lat": 47.03896182,
+    "alt": 804
+  },
+  {
+    "name": "Lauenen",
+    "lon": 7.3104731,
+    "lat": 46.43691741,
+    "alt": 1190
+  },
+  {
+    "name": "Lauerz Waag",
+    "lon": 8.57215715,
+    "lat": 47.03678574,
+    "alt": 490
+  },
+  {
+    "name": "Lauterbrunnen",
+    "lon": 7.90821,
+    "lat": 46.58826,
+    "alt": 790
+  },
+  {
+    "name": "Lax",
+    "lon": 8.11461252,
+    "lat": 46.38594928,
+    "alt": 1050
+  },
+  {
+    "name": "Le Brêt",
+    "lon": 7.40490214,
+    "lat": 46.28405925,
+    "alt": 1020
+  },
+  {
+    "name": "Le Devens",
+    "lon": 6.76377688,
+    "lat": 46.90294704,
+    "alt": 590
+  },
+  {
+    "name": "Lenk Ägerten",
+    "lon": 7.43603359,
+    "lat": 46.46442637,
+    "alt": 1070
+  },
+  {
+    "name": "Lenk Lischmatte",
+    "lon": 7.442542,
+    "lat": 46.45498093,
+    "alt": 1070
+  },
+  {
+    "name": "Lenk Rotebach",
+    "lon": 7.45685482,
+    "lat": 46.44103632,
+    "alt": 1080
+  },
+  {
+    "name": "Les Diablerets",
+    "lon": 7.15479856,
+    "lat": 46.34802749,
+    "alt": 1160
+  },
+  {
+    "name": "Leukerbad",
+    "lon": 7.63361684,
+    "lat": 46.38284842,
+    "alt": 1460
+  },
+  {
+    "name": "Linthal",
+    "lon": 9.00925317,
+    "lat": 46.93177037,
+    "alt": 630
+  },
+  {
+    "name": "Locarno Maggia Delta",
+    "lon": 8.80044178,
+    "lat": 46.15486388,
+    "alt": 195
+  },
+  {
+    "name": "Locarno Scuole",
+    "lon": 8.7919401,
+    "lat": 46.1618037,
+    "alt": 202
+  },
+  {
+    "name": "Lungern",
+    "lon": 8.14972785,
+    "lat": 46.78425416,
+    "alt": 700
+  },
+  {
+    "name": "Luzern Allmend",
+    "lon": 8.30168647,
+    "lat": 47.0323911,
+    "alt": 450
+  },
+  {
+    "name": "Malans",
+    "lon": 9.57238827,
+    "lat": 46.98880163,
+    "alt": 650
+  },
+  {
+    "name": "Marbach Dorf (Kirche)",
+    "lon": 7.90004737,
+    "lat": 46.85201226,
+    "alt": 880
+  },
+  {
+    "name": "Marbach Laui",
+    "lon": 7.88527498,
+    "lat": 46.84154615,
+    "alt": 930
+  },
+  {
+    "name": "Marbach Sporting",
+    "lon": 7.89477908,
+    "lat": 46.84924478,
+    "alt": 900
+  },
+  {
+    "name": "Matt",
+    "lon": 9.1679787,
+    "lat": 46.96637318,
+    "alt": 820
+  },
+  {
+    "name": "Matzendorf",
+    "lon": 7.63367974,
+    "lat": 47.30531388,
+    "alt": 500
+  },
+  {
+    "name": "Meiringen Du Pont",
+    "lon": 8.19992735,
+    "lat": 46.72230895,
+    "alt": 600
+  },
+  {
+    "name": "Mendrisio San Martino",
+    "lon": 8.98162913,
+    "lat": 45.87812155,
+    "alt": 300
+  },
+  {
+    "name": "Miglieglia",
+    "lon": 8.85463614,
+    "lat": 46.0232921,
+    "alt": 710
+  },
+  {
+    "name": "Moléson-Village",
+    "lon": 7.03694788,
+    "lat": 46.56266908,
+    "alt": 1100
+  },
+  {
+    "name": "Montagnier",
+    "lon": 7.22666879,
+    "lat": 46.07291966,
+    "alt": 870
+  },
+  {
+    "name": "Monthey",
+    "lon": 6.96069506,
+    "lat": 46.26236516,
+    "alt": 400
+  },
+  {
+    "name": "Monthey",
+    "lon": 6.96408253,
+    "lat": 46.24573728,
+    "alt": 410
+  },
+  {
+    "name": "Morbio Inferiore Sportplatz",
+    "lon": 9.02265148,
+    "lat": 45.84898521,
+    "alt": 300
+  },
+  {
+    "name": "Morbio Interiore",
+    "lon": 9.02200493,
+    "lat": 45.85111761,
+    "alt": 305
+  },
+  {
+    "name": "Morschach",
+    "lon": 8.63622303,
+    "lat": 46.98890541,
+    "alt": 800
+  },
+  {
+    "name": "Murschetg",
+    "lon": 9.25411202,
+    "lat": 46.82582869,
+    "alt": 1190
+  },
+  {
+    "name": "Näfels",
+    "lon": 9.07236422,
+    "lat": 47.10677987,
+    "alt": 430
+  },
+  {
+    "name": "Nods",
+    "lon": 7.07460289,
+    "lat": 47.11106664,
+    "alt": 880
+  },
+  {
+    "name": "Oberwil",
+    "lon": 8.51390252,
+    "lat": 47.15024346,
+    "alt": 470
+  },
+  {
+    "name": "Obrieden",
+    "lon": 8.6794,
+    "lat": 46.87575,
+    "alt": 681
+  },
+  {
+    "name": "Parpan",
+    "lon": 9.56203522,
+    "lat": 46.76042901,
+    "alt": 1500
+  },
+  {
+    "name": "Realp",
+    "lon": 8.50093912,
+    "lat": 46.59665376,
+    "alt": 1550
+  },
+  {
+    "name": "Reconvilier",
+    "lon": 7.21944568,
+    "lat": 47.22881646,
+    "alt": 780
+  },
+  {
+    "name": "Rennat",
+    "lon": 6.923301815987,
+    "lat": 46.386967314974,
+    "alt": 376
+  },
+  {
+    "name": "Rickenbach",
+    "lon": 8.66993438,
+    "lat": 47.01252339,
+    "alt": 600
+  },
+  {
+    "name": "Ried-Brig",
+    "lon": 8.0104,
+    "lat": 46.314,
+    "alt": 880
+  },
+  {
+    "name": "Ris",
+    "lon": 8.5062450170516,
+    "lat": 47.325541420669,
+    "alt": 569
+  },
+  {
+    "name": "Ritzingen",
+    "lon": 8.22730302,
+    "lat": 46.46074368,
+    "alt": 1350
+  },
+  {
+    "name": "Rivera",
+    "lon": 8.92009253,
+    "lat": 46.12726584,
+    "alt": 475
+  },
+  {
+    "name": "Ronchini Maggiatal",
+    "lon": 8.73042226,
+    "lat": 46.23215906,
+    "alt": 310
+  },
+  {
+    "name": "Rougemont",
+    "lon": 7.20811669,
+    "lat": 46.48758118,
+    "alt": 980
+  },
+  {
+    "name": "Rufi",
+    "lon": 9.04771837,
+    "lat": 47.18339305,
+    "alt": 425
+  },
+  {
+    "name": "Sörenberg",
+    "lon": 8.058210897446,
+    "lat": 46.810020518235,
+    "alt": 1240
+  },
+  {
+    "name": "Saanen",
+    "lon": 7.25304538,
+    "lat": 46.48856301,
+    "alt": 1010
+  },
+  {
+    "name": "Sarnen, Lido",
+    "lon": 8.24447244,
+    "lat": 46.88464846,
+    "alt": 470
+  },
+  {
+    "name": "Sattel",
+    "lon": 8.630264,
+    "lat": 47.078318,
+    "alt": 774
+  },
+  {
+    "name": "Savagnier",
+    "lon": 6.96958032,
+    "lat": 47.05547402,
+    "alt": 821
+  },
+  {
+    "name": "Savognin",
+    "lon": 9.59482996,
+    "lat": 46.59828364,
+    "alt": 1190
+  },
+  {
+    "name": "Schönried Horneggli",
+    "lon": 7.29467784,
+    "lat": 46.50526528,
+    "alt": 1230
+  },
+  {
+    "name": "Schönried Rellerli",
+    "lon": 7.28881526,
+    "lat": 46.50525771,
+    "alt": 1250
+  },
+  {
+    "name": "Schüpfheim",
+    "lon": 8.012173461914,
+    "lat": 46.928131632133,
+    "alt": 750
+  },
+  {
+    "name": "Schattdorf",
+    "lon": 8.65515906,
+    "lat": 46.86725579,
+    "alt": 480
+  },
+  {
+    "name": "Schaubenmatt",
+    "lon": 7.66807926,
+    "lat": 47.30974787,
+    "alt": 490
+  },
+  {
+    "name": "Schiers",
+    "lon": 9.6925216913223,
+    "lat": 46.965943984729,
+    "alt": 658
+  },
+  {
+    "name": "Schluein",
+    "lon": 9.22188565,
+    "lat": 46.78137434,
+    "alt": 690
+  },
+  {
+    "name": "Schwarzsee",
+    "lon": 7.281017303467,
+    "lat": 46.668625741075,
+    "alt": 1045
+  },
+  {
+    "name": "Scuol",
+    "lon": 10.28733093,
+    "lat": 46.79526777,
+    "alt": 1300
+  },
+  {
+    "name": "Seewen",
+    "lon": 8.623821258479,
+    "lat": 47.033784160318,
+    "alt": 460
+  },
+  {
+    "name": "Sementina Buion",
+    "lon": 8.99533649,
+    "lat": 46.17933697,
+    "alt": 230
+  },
+  {
+    "name": "Sessa",
+    "lon": 8.81017074,
+    "lat": 46.00119742,
+    "alt": 390
+  },
+  {
+    "name": "Spiez",
+    "lon": 7.67313958,
+    "lat": 46.68547652,
+    "alt": 665
+  },
+  {
+    "name": "Stöckalp",
+    "lon": 8.28034989,
+    "lat": 46.80450696,
+    "alt": 1050
+  },
+  {
+    "name": "Stafel",
+    "lon": 7.76842217,
+    "lat": 46.41427339,
+    "alt": 2105
+  },
+  {
+    "name": "Stans",
+    "lon": 8.35569264,
+    "lat": 46.95910681,
+    "alt": 460
+  },
+  {
+    "name": "Stechelberg",
+    "lon": 7.90287213,
+    "lat": 46.55613408,
+    "alt": 860
+  },
+  {
+    "name": "Susten",
+    "lon": 7.6545,
+    "lat": 46.3069,
+    "alt": 620
+  },
+  {
+    "name": "Tevenon",
+    "lon": 6.616387367249,
+    "lat": 46.832871494913,
+    "alt": 557
+  },
+  {
+    "name": "Troinex terrain du CVLG.",
+    "lon": 6.1580729484558,
+    "lat": 46.162348095359,
+    "alt": 430
+  },
+  {
+    "name": "Ulrichen",
+    "lon": 8.29266929,
+    "lat": 46.49895437,
+    "alt": 1350
+  },
+  {
+    "name": "Unterseen Lehn",
+    "lon": 7.82421503,
+    "lat": 46.6810178,
+    "alt": 570
+  },
+  {
+    "name": "Unterwasser",
+    "lon": 9.306128,
+    "lat": 47.195195,
+    "alt": 908
+  },
+  {
+    "name": "Val d'Illiez",
+    "lon": 6.89388805,
+    "lat": 46.19864297,
+    "alt": 810
+  },
+  {
+    "name": "Val d'Illiez",
+    "lon": 6.88941294,
+    "lat": 46.19277406,
+    "alt": 900
+  },
+  {
+    "name": "Valbella",
+    "lon": 9.55353132,
+    "lat": 46.74393923,
+    "alt": 1490
+  },
+  {
+    "name": "Verbier",
+    "lon": 7.21879446,
+    "lat": 46.10258977,
+    "alt": 1510
+  },
+  {
+    "name": "Veysonnaz",
+    "lon": 7.33695471,
+    "lat": 46.19226363,
+    "alt": 1320
+  },
+  {
+    "name": "Villeneuve",
+    "lon": 6.91857766,
+    "lat": 46.39441781,
+    "alt": 380
+  },
+  {
+    "name": "Vionnaz",
+    "lon": 6.89985697,
+    "lat": 46.31561695,
+    "alt": 390
+  },
+  {
+    "name": "Vouvry",
+    "lon": 6.89190485,
+    "lat": 46.33177133,
+    "alt": 380
+  },
+  {
+    "name": "Walenstadt",
+    "lon": 9.30748717,
+    "lat": 47.12360281,
+    "alt": 427
+  },
+  {
+    "name": "Wangs",
+    "lon": 9.43289161,
+    "lat": 47.03900262,
+    "alt": 490
+  },
+  {
+    "name": "Wasserauen Deltalandeplatz",
+    "lon": 9.43014684,
+    "lat": 47.2882872,
+    "alt": 870
+  },
+  {
+    "name": "Wasserauen Gleitschirmlandeplatz",
+    "lon": 9.42711187,
+    "lat": 47.28420076,
+    "alt": 870
+  },
+  {
+    "name": "Weesen",
+    "lon": 9.09989554,
+    "lat": 47.12347937,
+    "alt": 430
+  },
+  {
+    "name": "Weggis",
+    "lon": 8.44182009,
+    "lat": 47.03305108,
+    "alt": 490
+  },
+  {
+    "name": "Weglosen",
+    "lon": 8.8099083,
+    "lat": 47.02024711,
+    "alt": 1040
+  },
+  {
+    "name": "Wilderswil",
+    "lon": 7.8760600090026,
+    "lat": 46.675118905969,
+    "alt": 580
+  },
+  {
+    "name": "Wirzweli Bahn",
+    "lon": 8.3836,
+    "lat": 46.926,
+    "alt": 630
+  },
+  {
+    "name": "Wolfenschiessen",
+    "lon": 8.39809725,
+    "lat": 46.90568387,
+    "alt": 510
+  },
+  {
+    "name": "Zermatt",
+    "lon": 7.74957962,
+    "lat": 46.02655227,
+    "alt": 1620
+  },
+  {
+    "name": "Zillis",
+    "lon": 9.44270439144,
+    "lat": 46.638004598876,
+    "alt": 923
+  },
+  {
+    "name": "Zinal",
+    "lon": 7.62498143,
+    "lat": 46.13908194,
+    "alt": 1670
+  },
+  {
+    "name": "Zweilütschinen",
+    "lon": 7.90222289,
+    "lat": 46.63260042,
+    "alt": 650
+  }
+]
