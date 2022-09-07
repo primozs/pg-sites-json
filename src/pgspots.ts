@@ -269,6 +269,8 @@ export const getPgSPotsData = async () => {
         rating,
         altitude,
         location,
+        lon: location[0],
+        lat: location[1],
         directions,
       };
       if (newItem.loc_type === 'takeoff') {
